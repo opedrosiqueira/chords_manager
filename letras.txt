@@ -1,8 +1,12 @@
+(.+\n){7}\n
+
+
 →1 A alegria está no coração
 A alegria está no coração
 De quem já conhece a Jesus
 A verdadeira paz só tem aquele
 Que já conhece a Jesus.
+
 O mandamento mais precioso
 Que vem do nosso Senhor
 É o amor que só tem
@@ -45,7 +49,7 @@ Com Ele não há mais condenação.
 
 
 →2 A bênção
- Que o Senhor te abençoe
+Que o Senhor te abençoe
 E faça brilhar seu rosto em ti
 Que conceda Sua graça
 E te dê a paz.
@@ -61,6 +65,7 @@ Sua presença te acompanhe
 Por detrás e por diante
 Do teu lado e em ti
 É contigo, é por ti.
+
 E de dia, e de noite
 Tua entrada e saída
 Em teu riso, em teu choro
@@ -85,6 +90,7 @@ Em teu riso, em teu choro
 Te adoro pois és meu Senhor
 Teu grande amor
 Me aproximou de ti.
+
 Nunca esquecerei
 Quando minha fé eu confessei
 Pois por mim morreu
@@ -104,8 +110,8 @@ Meu clamor Desesperado ouviu.
 
 Enquanto espero em Ti, meu Deus
 Conheço tua voz
-No silêncio eu
-Me prostro ante a Ti.
+No silêncio eu me prostro ante a Ti.
+
 E quando eu te adoro, Senhor
 Entendo o valor
 Do sacrifício Teu na cruz.
@@ -113,19 +119,20 @@ Do sacrifício Teu na cruz.
 
 
 →4 Abra o coração
- Sinta o tremor dos montes,
- Ouça o ecoar do mar
- Quando o povo se levanta
- Pra adorar Cristo, o Senhor.
- Sinta o tremor dos povos,
- Ouça as vozes a cantar
- Quando o perdido encontra
- Jesus Cristo, o Salvador
+Sinta o tremor dos montes,
+Ouça o ecoar do mar
+Quando o povo se levanta
+Pra adorar Cristo, o Senhor.
+
+Sinta o tremor dos povos,
+Ouça as vozes a cantar
+Quando o perdido encontra
+Jesus Cristo, o Salvador
 
 Vejo Deus está movendo
 Entre as nações com Seu poder
 Jovens e velhos adorando
- Os céus então se abrirão
+Os céus então se abrirão
 Pra Jesus Cristo, o Rei que vem
 
 Abra o coração e deixe a música
@@ -133,10 +140,10 @@ Ecoar por toda a terra
 Som de esperança Um som de júbilo
 Faz-nos dançar ao Rei da glória
 
- Sinta o tremor das trevas
- Com os santos a louvar
- E as nações em um só coro
- Toda a terra a restaurar
+Sinta o tremor das trevas
+Com os santos a louvar
+E as nações em um só coro
+Toda a terra a restaurar
 
 
 
@@ -170,6 +177,7 @@ O que dizer, ó, Deus,
 O Senhor me deu a vida e
 Não posso explicar
 O que o Senhor és para mim
+
 Nas tuas mãos Jesus
 Entrego tudo o que sou
 E a cada dia eu vou
@@ -179,14 +187,15 @@ A cada dia eu vou
 Levar ao mundo o teu amor
 E te buscando eu
 Conhecerei teu coração
+
 E então guiando-me
 Em cada passo a frente
 A cada dia eu vou
 Ser a luz do teu amor.
 
- A cada dia pra ti eu viverei,
- A cada dia seguirei teu coração,
- A cada dia eu te amarei Senhor.
+A cada dia pra ti eu viverei,
+A cada dia seguirei teu coração,
+A cada dia eu te amarei Senhor.
 
 A cada dia adorarei (2x)
 A cada dia adorarei.
@@ -217,6 +226,7 @@ Meu Jesus, salvador,
 Outro igual não há
 Todos os dias quero louvar
 As maravilhas de teu amor.
+
 Consolo, abrigo,
 Força e refúgio é o Senhor
 Com todo o meu ser,
@@ -225,11 +235,11 @@ Sempre te adorarei.
 
 Aclame ao Senhor
 Toda a Terra e cantemos
-Poder, majestade
-E louvores ao Rei.
+Poder, majestade e louvores ao Rei.
 Montanhas se prostrem
 E rujam os mares
 Ao som de teu nome.
+
 Alegre te louvo
 Por teus grandes feitos
 Firmado estarei, sempre te amarei!
@@ -308,6 +318,7 @@ Creio em Ti, creio em Ti
 Acredito em Deus, O Pai
 Acredito no Santo Espírito
 Que nos vida nova traz
+
 Acredito na cruz de Cristo
 E que a morte enfim venceu
 Acredito que ressurreto
@@ -323,6 +334,7 @@ O perdido encontrou perdão
 Pois agora, aqui, o amor venceu
 E que a igreja viva este amor
 Creio em Ti, creio em Ti
+
 E as cadeias não prevalecerão
 Pois o véu rasgou e veio ao chão
 Seu amor não voltará em vão
@@ -382,6 +394,7 @@ Pois não há pecado ou culpa,
 Maior que o seu amor,
 Não há nada que façamos
 Que não possa perdoar,
+
 Não há forças nesta terra
 Que o possa derrotar,
 Nem cadeias ou prisões
@@ -397,6 +410,7 @@ Com nossas mãos levantadas
 Rendemos louvor
 Com nossas mãos levantadas
 Nos regozijamos
+
 Com nossas mãos levantadas ao céu
 Nós dizemos ao mundo
 Que amamos o nosso rei.
@@ -424,6 +438,7 @@ Tanto da sabedoria
 Quanto do conhecimento
 Quão insondáveis Senhor
 São os teus caminhos
+
 Quem conhece a mente desse Deus
 Não há outro igual a Ele
 E ninguém acima Dele
@@ -456,6 +471,7 @@ A-----le--lu---u--ia
 San----to, Santo
 É o Senhor Deus, Podero--so
 Digno de Louvor, Digno de Louvor,
+
 Tu és San----to, Santo
 É o Senhor Deus, Podero--so
 Digno de Louvor, Digno de Louvor,
@@ -476,6 +492,7 @@ Como água cristalina
 De um rio que vai pro mar
 A minh'alma vai a Ti,
 Só pra Te adorar
+
 E cantar Tua bondade,
 Meu Senhor, meu bom Jesus
 Alelu---------ia,
@@ -485,6 +502,7 @@ Assim como a relva verde
 Na encosta da montanha
 O meu amor diante de Ti
 Do mesmo modo se esparrama
+
 Se apegando em Tua grandeza,
 Minha Rocha, meu Jesus
 Alelu---------ia,
@@ -494,6 +512,7 @@ Como a abelha necessita
 Do néctar de uma flor
 Eu não sobreviveria
 Longe de ti, ó meu Senhor
+
 Pois tu és o meu auxílio,
 Minha vida e minha paz
 Alelu---------ia,
@@ -509,6 +528,7 @@ Existe um rio, Senhor
 Que flui do Teu grande amor
 Águas que correm do trono
 Águas que curam, que limpam.
+
 Por onde o rio passar
 Tudo vai transformar
 Pois leva a vida do próprio Deus
@@ -517,6 +537,7 @@ E este rio está neste lugar
 Quero beber do Teu rio, Senhor
 Sacia minha sede,
 Lava o meu interior
+
 Eu quero fluir em Tuas águas
 Eu quero beber da Tua fonte
 Fonte de águas vivas
@@ -547,6 +568,7 @@ Tu És a minha porção,
 Tu és minha herança
 Tu És o meu socorro
 Nos dias de tribulação
+
 Mesmo que os meus pais me deixem
 Mesmo que amigos me traiam
 Eu sei que em seus braços
@@ -589,40 +611,7 @@ Alegria é viver feliz
 Sem importar qual a situação:
 Se honrado ou se humilhado
 Em escassez ou fartura de pão.
-Alegria é poder pedir
-Ao Deus bendito pelo meu irmão,
-É viver no mesmo sentimento
-De afeto e de consolação.
 
-Alegria é saber que Deus
-Segundo a sua glória e riqueza
-Vai suprir nossas necessidades
-      Com certeza.
-Alegria é tudo perder
-Sem perder nada do amor de Deus
-Ter de Cristo o conhecimento
-Nos caminhos seus.
-
-Alegria, (alegria, alegria)
-Alegria, (todo dia, todo dia)
-Essa alegria no Senhor
-Nunca vai acabar.
-Alegria, (alegria, alegria)
-Alegria, (todo dia, todo dia)
-Ele nos faz tanto o querer
-Como o realizar.
-
-
-
-
-
-
-Alegria (Versão simplificada)
-
-Alegria é viver feliz
-Sem importar qual a situação:
-Se honrado ou se humilhado
-Em escassez ou fartura de pão.
 Alegria é poder pedir
 Ao Deus bendito pelo meu irmão,
 É viver no mesmo sentimento
@@ -632,6 +621,7 @@ Alegria é saber que Deus
 Segundo a sua glória e riqueza
 Vai suprir nossas necessidades
 Com certeza.
+
 Alegria é tudo perder
 Sem perder nada do amor de Deus
 Ter de Cristo o conhecimento
@@ -641,10 +631,16 @@ Alegria, (alegria, alegria)
 Alegria, (todo dia, todo dia)
 Essa alegria no Senhor
 Nunca vai acabar.
+
 Alegria, (alegria, alegria)
 Alegria, (todo dia, todo dia)
 Ele nos faz tanto o querer
 Como o realizar.
+
+
+
+
+
 
 
 
@@ -694,6 +690,7 @@ E todos igualmente justos.
 Por Tua graça salvo estou
 Totalmente entregue a Ti, Senhor
 E não há nada além de Ti
+
 Vejo Tua glória,
 Me encontro em Tua paz
 Tu és fiel, cuidas de mim
@@ -767,6 +764,7 @@ Como é precioso, irmão,
 Estar bem junto a ti
 E juntos, lado a lado,
 Andarmos com Jesus
+
 E expressarmos o amor
 Que um dia ele nos deu
 Pelo sangue do calvário
@@ -776,6 +774,7 @@ Aliança no Senhor
 Eu tenho com você
 Não existem mais barreiras
 Em meu ser
+
 Eu sou livre pra te amar,
 Pra te aceitar
 E para te pedir: perdoa-me, irmão
@@ -833,6 +832,7 @@ Mais um pouquinho, e O verás.
 
 
 →29 Alma Cansada
+
 Alma cansada não desespere
 Espera em Deus, Que Ele vêm,
 Que Ele vem Te socorrer
@@ -848,6 +848,7 @@ Confia somente no seu Amor
 Alma cansada, o teu lamento
 Não resolverá. A hora é triste,
 Com fé insiste Deus te ouvirá
+
 Se teus momentos Trazem tormentos
 Te fazem chorar
 Deus te chama agora
@@ -875,6 +876,7 @@ Em paz descansar.
 Eu sei que foi pago um alto preço
 Para que contigo
 Eu fosse um, meu irmão.
+
 Quando Jesus derramou sua vida
 Ele pensava em ti,
 Ele pensava em mim,
@@ -883,14 +885,15 @@ Pensava em nós.
 E nos via redimidos
 Por seu sangue.
 Lutando o bom combate do Senhor,
-        Lado a lado trabalhando,
+Lado a lado trabalhando,
 Sua Igreja edificando
 E rompendo as barreiras pelo amor.
 
 E na força do Espírito Santo,
 Nós proclamamos aqui,
-Que temos o compromisso de sermos
+Que pagaremos o preço de sermos
 Um só coração no Senhor;
+
 E por mais que as trevas militem
 E nos tentem separar,
 Com nossos olhos em Cristo
@@ -906,6 +909,7 @@ Unidos iremos andar.
 
 
 →31 Amigo
+
 Amigo, a alegria em ter você aqui
 Nos faz sentir vontade de cantar
 E de dizer
@@ -924,8 +928,8 @@ Foi muito bom,
 Foi bom conhecer você.
 
 Amigo é uma alegria conhecer você
-A sua presença
-Para nós é um prazer
+A sua presença para nós é um prazer
+
 Queremos que você
 Seja o nosso irmão
 E vamos cantar essa canção
@@ -958,6 +962,7 @@ No meu caminho, Cristo Jesus está
 Agora eu creio em seu poder
 A Ele, eu, tudo, entregarei
 Vivo por fé e não do que vejo
+
 Eu tenho amigos celestiais
 Um Deus com quem posso contar
 Eu tenho alguém
@@ -969,6 +974,7 @@ A ofertar seu próprio corpo
 Me santificou
 Um sacrifício que a muitos
 Aperfeiçoou
+
 Nada que eu possa dar a Ti
 Cobre o teu favor
 Mas aceite o que
@@ -982,45 +988,18 @@ Não é pelo pecado, nem por avareza
 Abençoado sou.
 
 
-
-
-A Minha Oferta (versão em Mi)
-
-A ofertar seu próprio corpo
-Me santificou
-Um sacrifício que a muitos
-Aperfeiçoou
-Nada que eu possa dar a Ti
-Cobre o teu favor
-Mas aceite o que
-Te oferto por Amor
-
-A minha oferta separo com alegria
-Lembrando-me que um dia
-Cristo por mim se entregou
-Não é pelo pecado, nem por avareza
-É pela certeza de que
-Abençoado sou.
-
-
-
-
-
-
-
-
-
 →34 Amor de Pai
- Minha esperança,
+
+Minha esperança,
 Força que sustenta
 A razão para prosseguir
 Meu futuro certo,
 Pão que me alimenta
 Quando eu penso em desistir.
 
- És criador, amigo fiel a mim
- És meu pastor, abrigo,
- Amor sem fim.
+És criador, amigo fiel a mim
+És meu pastor, abrigo,
+Amor sem fim.
 
 Vou ao teu encontro
 Para ouvir do teu amor de pai
@@ -1050,6 +1029,7 @@ Amor por mim.
 
 
 →35 Andam procurando + Cristo, meu mestre
+
 Andam procurando a razão de viver
 Neste mundo mau
 Querem a paz receber
@@ -1067,10 +1047,7 @@ Com Jesus, (aleluia amém).
 Como todo mundo eu também procurei
 E agora digo que a paz encontrei
 Cristo me salvou e eu quero falar
-Que uma vida nova
-Ele pode lhe dar.
-
-Cristo, meu Mestre e Senhor
+Que uma vida nova Ele pode lhe dar.
 
 Cristo,   meu Mestre e Senhor
 Meu bom Salvador
@@ -1082,8 +1059,7 @@ Mas agora salvo estou
 Porque a Jesus encontrei.
 
 →36 Ao Meu Redor
-Há sempre alguém
-Que não provou
+Há sempre alguém que não provou
 O grande amor do meu Senhor
 Porém eu sei, bem certo estou
 Que Ele está sempre ao meu redor
@@ -1117,26 +1093,25 @@ Quando eu partir.
 
 
 →37 Ao Olhar Pra Cruz
- Andei tão cego, sem rumo certo
- Buscando a paz e descanso
- Eu procurei, por tantos meios
- Justificar meus erros
- Mas ao clamar, meus olhos abri
+Andei tão cego, sem rumo certo
+Buscando a paz e descanso
+Eu procurei, por tantos meios
+Justificar meus erros
+Mas ao clamar, meus olhos abri
 
 [R] E ao olhar pra cruz 
 Eu entendo o amor
 Derramado ali por mim
-Sacrifício de sangue 
-Por um pecador
+Sacrifício de sangue por um pecador
 Não sou merecedor
 Tua graça me alcançou.
 
- E ao ver tua glória, naquele dia
- Me alegrarei em gratidão
- Tocarei as marcas,
- Marcas de vitória
- Vencido é o pecado
- Perante ti, me prostrarei.
+E ao ver tua glória, naquele dia
+Me alegrarei em gratidão
+Tocarei as marcas,
+Marcas de vitória
+Vencido é o pecado
+Perante ti, me prostrarei.
 
 →38 Ao que é digno
 Ao que é digno De receber a glória
@@ -1149,8 +1124,9 @@ Ao que vive para sempre
 E ao grande EU SOU, A Jesus.
 
 →39 Ao único
+
 Ao único que é digno de receber
-  A honra e a glória,
+A honra e a glória,
 A força e o   poder.
 Ao Rei eterno, imortal,
 Invisível, mas real
@@ -1170,12 +1146,13 @@ Consagramos todo nosso ser a Ti.
 
 
 →40 Aquele que está com Cristo + Reina hoje
- Porque tu estás comigo
- Praga alguma me alcançará
- Porque tu estás comigo
- Eu não temerei.
- Porque tu estás comigo
- Mal algum me virá.
+
+Porque tu estás comigo
+Praga alguma me alcançará
+Porque tu estás comigo
+Eu não temerei.
+Porque tu estás comigo
+Mal algum me virá.
 
 Aquele que está com Cristo
 Aquele que está com Cristo
@@ -1218,16 +1195,15 @@ Uma torre em tempo de guerra
 
 
 →42 Aqui não é meu lar
-Aqui não é meu lar,
-Um viajante sou
+
+Aqui não é meu lar, um viajante sou
 Meu lar é lá no céu,
 Jesus já preparou
 Avisto no portal um anjo a chamar
 No meu lar celestial
 Espero logo entrar.
 
-[R] Senhor, és Tu
-Meu gozo e meu prazer
+[R] Senhor, és Tu meu gozo e meu prazer
 Se o céu não é meu lar,
 Senhor, que vou fazer?
 Avisto no portal um anjo a chamar
@@ -1238,6 +1214,7 @@ O céu esperando está,
 Eu hoje pronto estou
 Jesus me perdoou
 E avante sempre vou
+
 Delícias gozarei
 Bem junto do meu Rei
 No meu lar celestial
@@ -1266,6 +1243,7 @@ Confirme a nossa adoração.
 →44 A Rocha
 Vem, vem me salvar
 Me ajudar, a caminhar, te espero
+
 Vem, vem me livrar
 Me amparar, com teu amor
 Que nunca vai me deixar
@@ -1291,6 +1269,7 @@ Amor Eterno,
 Que transborda o meu ser
 Tu me aceitas
 Encontrei a paz, em Ti não há medo
+
 Darei tudo pra contar Tua história
 Porque Tu me chamaste, Tu me chamaste.
 Medito sempre em Tuas promessas
@@ -1316,6 +1295,7 @@ Vou até os confins da terra
 Proclamar tua palavra
 Anunciar o amor de quem morreu
 E se entregou por mim
+
 Se ele foi capaz de me amar assim
 Como um pecador entregue ao mal
 Não poderia mais viver só para mim
@@ -1342,12 +1322,10 @@ Me envolver, me entregar
 E dizer ao mundo que
 Jesus voltará.
 
-Até que Ele venha
-Até que Ele venha
+Até que Ele venha, Até que Ele venha
 Cristo, a esperança
 Que ao mundo vou levar
-Até que Ele venha
-Até que Ele venha
+Até que Ele venha, Até que Ele venha
 Ele é a razão
 Quem me faz continuar.
 
@@ -1390,6 +1368,7 @@ Tu és minha vida, Jesus,
 És meu amigo.
 E a tua vontade, Doce Espírito,
 Meu alimento.
+
 Sem ti não há valor em mim,
 Sou como um vaso de barro
 Pronto a ser quebrado
@@ -1426,52 +1405,51 @@ Eu posso te tocar.
 
 
 →51 A Tua Glória
- Eu vejo a glória
- Do Senhor hoje aqui,
- A sua mão, o seu poder sobre mim,
- Os céus abertos
- Hoje eu vou contemplar
+Eu vejo a glória do Senhor hoje aqui,
+A sua mão, o seu poder sobre mim,
+Os céus abertos hoje eu vou contemplar
 O amor descer nesse lugar.
 
- Eu quero ver agora o teu poder,
- A tua glória inundando meu ser;
- Vou levantar
- As mãos e vou receber,
- Vou louvando o teu nome
- Porque eu sinto
- O Senhor me tocar.
+Eu quero ver agora o teu poder,
+A tua glória inundando meu ser;
+Vou levantar as mãos e vou receber,
+Vou louvando o teu nome
+Porque eu sinto o Senhor me tocar.
 
 →52 Autoridade e poder
 Os que confiam no Senhor
 São como os montes de Sião
 Que não se abalam
 Mas permanecem para sempre.
+
 Como em volta de Jerusalém
 Estão os montes, Assim é o Senhor
 Em volta do seu povo.
+
 Autoridade e poder
 E o domínio em suas mãos
 Pois o Senhor é Deus
 O Senhor é Rei dos povos.
+
 Cale-se diante dEle a terra
 Dobrem os joelhos e ergam as mãos
 Pois o Senhor é Deus
 O Senhor é Rei dos povos.
 
 →53 A Vitória
-A vitória é
-Daquele que o contemplar,
+A vitória é daquele que
+O contemplar,
 Ao Cordeiro Cristo,
 Leão da tribo de Judá,
-Que foi morto e com seu sangue pôde
-Então comprar
-Homens que com ele sobre a terra
-Vão reinar.
 
-A vitória é
-Daquele que o adorar,
-Ao seu lado no
-Seu trono se assentará;
+Que foi morto e com seu sangue pôde,
+Então, comprar
+Homens que com ele sobre
+A terra vão reinar.
+
+A vitória é daquele que o adorar,
+Ao seu lado no seu trono se assentará;
+
 Se a Jesus seguir
 E for por onde Ele andar,
 No seu monte santo
@@ -1479,6 +1457,7 @@ Um novo canto entoará.
 
 A vitória do
 Senhor é certa, aleluia,
+
 Com um sopro de
 Sua boca, sim, destruirá
 O inimigo, o anticristo,
@@ -1513,8 +1492,8 @@ Sara essa nação,
 
 
 
- Só tu és Santo, só tu és Santo
- Só tu és Santo Senhor.
+Só tu és Santo, só tu és Santo
+Só tu és Santo Senhor.
 
 
 
@@ -1522,9 +1501,10 @@ Sara essa nação,
 
 →55 Bem Querer
 És o meu Bem-querer, meu Mestre
-E tudo que tenho e  sou
+E tudo que tenho e sou
 Vem de tua mão, Senhor,
 Que se estende e me abençoa.
+
 Mesmo sem  merecer, pecador,
 O mais miserável dos homens que sou.
 Me envolves com o teu amor
@@ -1534,6 +1514,7 @@ Se a vida quer me tirar de ti,
 Me afastar e me destruir,
 Eu clamo a ti Jesus
 E tu me dás a tua vitória.
+
 Pois estou bem certo de que nada,
 Nem na morte e nem na vida,
 Vai me afastar de ti,
@@ -1557,10 +1538,8 @@ E por isso eu sou mais feliz.
 
 
 →56 Bem vindo à Família
-Bem vindo à família
-É bom estar aqui
-Para compartilhar
-E aprender a amar.
+Bem vindo à família, É bom estar aqui
+Para compartilhar E aprender a amar.
 Que sejamos pra você
 O que Deus quer de nós
 Uma família em que possa confiar.
@@ -1569,6 +1548,7 @@ Que amemos uns aos outros
 Como Ele nos amou
 Que só falemos coisas boas
 E do seu amor
+
 Que seu Santo Espírito
 Nos guie em oração
 E assim vamos ser da Família.
@@ -1612,11 +1592,11 @@ Quando estou com o povo de Deus
 Eu sinto a maior alegria
 Quando estou com o povo de Deus
 Eu sinto a real harmonia.
+
 Que prazer ver o povo de Deus louvando
 Tendo assim um lugar todo santo
 Quando estou com o povo de Deus
-Eu sinto a maior
-Das alegrias!
+Eu sinto a maior das alegrias!
 
 →58 Bênção sobre bênção
 É bênção sobre bênção (2x)
@@ -1633,24 +1613,23 @@ Eu te amo porque vejo Cristo em você!
 Bendize, ó minh’alma, ao Senhor,
 E tudo o que há em mim bendiga
 O seu santo nome.
+
 Bendize, ó minh’alma, ao Senhor,
 E não te esqueças de nenhum só
 De seus benefícios.
 Bendize, ó minh’alma, ao Senhor.
 
-Ele é quem perdoa
-As tuas iniquidades,
-Ele é quem sara
-As tuas enfermidades,
+Ele é quem perdoa as tuas iniquidades,
+Ele é quem sara as tuas enfermidades,
 Ele é quem te salva da morte
-E te coroa de graça
-E misericórdia.
+E te coroa de graça e misericórdia.
 Bendize, ó minha alma, ao Senhor.
 
 Bendizei ao Senhor
 Todos os seus anjos,
 Vós, ministros seus,
 Que fazeis sua vontade!
+
 Bendizei ao Senhor
 Todas as suas obras,
 Em todos os lugares Do seu domínio!
@@ -1706,29 +1685,25 @@ Nunca falte para nós.
 
 
 →61 Bondade de Deus
-Te amo, Deus
-Tua graça nunca falha
-Todos os dias
-Eu estou em Tuas mãos
+
+Te amo, Deus, Tua graça nunca falha
+Todos os dias Eu estou em Tuas mãos
 Desde quando me levanto
 Até eu me deitar
 Eu cantarei da bondade de Deus
 
 [R] És fiel em todo tempo
- Em todo tempo Tu és tão, tão bom!
- Com todo fôlego que tenho
+Em todo tempo Tu és tão, tão bom!
+Com todo fôlego que tenho
 Eu cantarei da bondade de Deus.
 
-Tua doce voz
-Que me guia em meio ao fogo
-Na escuridão
-Tua presença me conforta
-Sei que és meu Pai
-Que amigo és
+Tua doce voz que me guia em meio ao fogo
+Na escuridão tua presença me conforta
+Sei que és meu Pai, que amigo és
 Vivo na bondade de Deus.
 
- Tua bondade me seguirá
- Me seguirá Senhor.
+Tua bondade me seguirá
+Me seguirá Senhor.
 
 Eu me rendo a Ti, te dou o meu ser
 Entrego tudo a Ti.
@@ -1746,20 +1721,19 @@ Jesus Cristo é a luz deste mundo
 Nos acorda do sono profundo
 Brilha em mim, brilha em mim.
 
-   Brilha, Jesus, mostra ao mundo
+Brilha, Jesus, mostra ao mundo
 A luz de Deus Pai.
 Espírito de Deus
 Vem refulge em nós
+
 Faz transbordar sobre os povos
 Tua graça e perdão
 Vem ordenar
 Que haja luz, ó Senhor.
 
-Eis me achego
-Ao teu trono incrível
+Eis me achego ao teu trono incrível
 O mais finito ao intangível,
-Por teu sangue
-Precioso eu ouso entrar
+Por teu sangue precioso eu ouso entrar
 Toda sombra da alma vem dissipar
 Brilha em mim, brilha em mim.
 
@@ -1809,10 +1783,10 @@ Estás aqui movendo entre nós
 Te adorarei, Te adorarei
 Estás aqui mudando destinos
 Te adorarei, Te adorarei
+
 Estás aqui operando milagres
 Te adorarei, Te adorarei
-Estás aqui
-Transformando nossas vidas
+Estás aqui, transformando nossas vidas
 Te adorarei, Te adorarei
 
 Meu Deus é, Deus de milagres, Deus de promessas
@@ -1824,6 +1798,7 @@ Estás aqui tocando os corações
 Te adorarei, te adorarei
 Estás aqui curando multidões
 Te adorarei, Te adorarei
+
 Estás aqui restaurando os corações
 Te adorarei, Te adorarei
 Estás aqui transformando histórias
@@ -1840,6 +1815,7 @@ Estou contente em meu coração
 Pois de Jesus eu sou
 Estou contente em meu coração
 Pois Ele é meu Salvador.
+
 Estou contente em meu coração
 Pois agora tenho o perdão
 E para o céu eu vou,
@@ -1853,6 +1829,7 @@ Contente estou (Contente estou)
 Em meu coração (Em meu coração)
 Ao céu eu vou (Ao céu eu vou)
 Esta é a minha canção.
+
 Glória aleluia ao Salvador
 Ao céu eu vou,
 Esta é a minha canção.
@@ -1872,31 +1849,30 @@ Deu-me a certeza da salvação.
 
 
 →67 Canção do Apocalipse
- Digno é o Cordeiro, que foi morto
- Santo, Santo Ele é
- Um novo cântico,
- Ao que se assenta
- Sobre o trono do céu.
+Digno é o Cordeiro, que foi morto
+Santo, Santo Ele é
+Um novo cântico,
+Ao que se assenta
+Sobre o trono do céu.
 
 [R] Santo, Santo, Santo,
- Deus Todo Poderoso
- Que era e é e há de vir
- Com a criação eu canto
- Louvores ao Rei dos reis
- És tudo para mim
- E eu Te adorarei.
+Deus Todo Poderoso
+Que era e é e há de vir
+Com a criação eu canto
+Louvores ao Rei dos reis
+És tudo para mim e eu Te adorarei.
 
- Está vestido do arco-íris
- Sons de trovão, luzes, relâmpagos
- Louvores, honra e glória
- Força e poder pra sempre
- Ao único Rei eternamente.
+Está vestido do arco-íris
+Sons de trovão, luzes, relâmpagos
+Louvores, honra e glória
+Força e poder pra sempre
+Ao único Rei eternamente.
 
- Maravilhado, extasiado
- Eu fico ao ouvir Teu nome
- Jesus, Teu nome é força
- É fôlego de vida
- Misteriosa água viva.
+Maravilhado, extasiado
+Eu fico ao ouvir Teu nome
+Jesus, Teu nome é força
+É fôlego de vida
+Misteriosa água viva.
 
 
 
@@ -1909,31 +1885,30 @@ Deu-me a certeza da salvação.
 
 Canção do apocalipse (versão em Dó)
 
- Digno é o Cordeiro, que foi morto
- Santo, Santo Ele é
- Um novo cântico,
- Ao que se assenta
- Sobre o trono do céu.
+Digno é o Cordeiro, que foi morto
+Santo, Santo Ele é
+Um novo cântico,
+Ao que se assenta
+Sobre o trono do céu.
 
 [R] Santo, Santo, Santo,
- Deus Todo Poderoso
- Que era e é e há de vir
- Com a criação eu canto
- Louvores ao Rei dos reis
- És tudo para mim
- E eu Te adorarei.
+Deus Todo Poderoso
+Que era e é e há de vir
+Com a criação eu canto
+Louvores ao Rei dos reis
+És tudo para mim e eu Te adorarei.
 
- Está vestido do arco-íris
- Sons de trovão, luzes, relâmpagos
- Louvores, honra e glória
- Força e poder pra sempre
- Ao único Rei eternamente.
+Está vestido do arco-íris
+Sons de trovão, luzes, relâmpagos
+Louvores, honra e glória
+Força e poder pra sempre
+Ao único Rei eternamente.
 
- Maravilhado, extasiado
- Eu fico ao ouvir Teu nome
- Jesus, Teu nome é força
- É fôlego de vida
- Misteriosa água viva.
+Maravilhado, extasiado
+Eu fico ao ouvir Teu nome
+Jesus, Teu nome é força
+É fôlego de vida
+Misteriosa água viva.
 
 
 
@@ -1943,14 +1918,13 @@ Canção do apocalipse (versão em Dó)
 
 
 →68 Canção do Espírito
+
 Deixa Jesus encher tua vida
 Com seu Espírito e seu amor,
-Encher teu coração de gozo
-E louvor.
+Encher teu coração de gozo e louvor.
 Deixa Jesus cuidar das coisas
 Que te fazem infeliz
-E andarás do modo como
-A Bíblia diz.
+E andarás do modo como a Bíblia diz.
 
 Ó, ó, ó Cristo! Meu Cristo!
 Vem em mim morar.
@@ -1960,8 +1934,7 @@ A alegria do teu coração,
 Renda tudo a Ele e tenha salvação.
 A ele, dá tuas tristezas,
 Desilusões e tua cruz,
-Entrega tudo hoje em nome
-De Jesus.
+Entrega tudo hoje em nome de Jesus.
 
 
 
@@ -2011,39 +1984,34 @@ Cantai ao Senhor,
 Bendizei o seu nome
 Proclamai a sua salvação.
 
-Anunciai entre as nações
-A sua glória
+Anunciai entre as nações a sua glória
 E entre todos os povos
 As suas maravilhas
 Porque grande é o Senhor
 E mui digno de ser louvado
 Mais temível do que falsos deuses.
 
-Glória e majestade
-Estão diante dEle
-Força e formosura no seu santuário
-Glória e majestade
-Estão diante dele
-Força e formosura
-No seu santuário.
+Glória e majestade estão diante dEle
+Força e formosura no seu santuário!
 
 →71 Cantarei Teu Amor Pra Sempre
- Dos montes corre para o mar
- Teu rio de amor por mim
- Eu abrirei meu coração
- Deixando Tua cura entrar
- Me alegro por te pertencer
- Levantarei as minhas mãos
- O Teu amor me alcança
- E me faz louvar-Te
+Dos montes corre para o mar
+Teu rio de amor por mim
+Eu abrirei meu coração
+Deixando Tua cura entrar
 
- Cantarei Teu amor pra sempre
- Cantarei Teu amor pra sempre
+Me alegro por te pertencer
+Levantarei as minhas mãos
+O Teu amor me alcança
+E me faz louvar-Te
 
- Meu coração exulta
- De alegria eu canto
- Se o mundo conhecer a Ti
- Ele se encherá com Tua alegria
+Cantarei Teu amor pra sempre
+Cantarei Teu amor pra sempre
+
+Meu coração exulta
+De alegria eu canto
+Se o mundo conhecer a Ti
+Ele se encherá com Tua alegria
 
 
 
@@ -2079,37 +2047,25 @@ Te exaltamos, Te exaltamos.
 
 
 →74 Canto de Vitória
-Eu tenho em mim
-Um canto de vitória,
+Eu tenho em mim um canto de vitória,
 Que foi escrito por Jesus na cruz.
-Um canto lindo que mudou
-A história
-E que ao mundo em trevas
-Trouxe luz.
+Um canto lindo que mudou a história
+E que ao mundo em trevas trouxe luz.
 
-Eu tenho em mim
-Um canto de esperança,
+Eu tenho em mim um canto de esperança,
 Que a todos eu preciso proclamar.
-Jesus firmou
-Comigo uma aliança,
-Na qual eu vivo 
-E posso descansar.
+Jesus firmou comigo uma aliança,
+Na qual eu vivo  e posso descansar.
 
-Eu tenho em mim
-Um canto de alegria.
+Eu tenho em mim um canto de alegria.
 Eu tenho em mim um hino de louvor.
-Não apenas de palavras,
-Mas de vida e amor,
-Que testemunha
-A vitória do Senhor.
+Não apenas de palavras, mas de vida e amor,
+Que testemunha a vitória do Senhor.
 
-Com meus lábios
-Canto a verdade,
+Com meus lábios canto a verdade,
 Que o rei Jesus em breve voltará.
-Virá com seu poder
-E majestade
-E com sua igreja
-Em glória reinará.
+Virá com seu poder e majestade
+E com sua igreja em glória reinará.
 
 
 
@@ -2128,6 +2084,7 @@ Celebrai com júbilo ao Senhor
 Todos os moradores da terra
 Servi ao Senhor com alegria
 Apresentai-vos a Ele com cânticos.
+
 Sabei que o Senhor é bom
 E eterna a sua bondade
 E a sua fidelidade
@@ -2136,10 +2093,10 @@ De geração a geração.
 Aleluia, glória e aleluia, (4x) Amém.
 
 →77 Celebre Ao Rei
- A alegria do Senhor é a nossa força
- A Ele toda honra e toda glória
- Todo domínio e majestade pertencem
- A Ele para sempre, amém!
+A alegria do Senhor é a nossa força
+A Ele toda honra e toda glória
+Todo domínio e majestade pertencem
+A Ele para sempre, amém!
 
 Celebre ao Rei, exalte ao Rei,
 Move o céu com sua adoração
@@ -2149,32 +2106,23 @@ Adore ao Senhor.
 
 
 →78 Cem Ovelhas
-Eram cem ovelhas,
-Juntas no aprisco
-Eram cem ovelhas,
-Que o amante cuidou
-Porém numa tarde,
-Ao contá-las todas
+Eram cem ovelhas, juntas no aprisco
+Eram cem ovelhas, que o amante cuidou
+Porém numa tarde, ao contá-las todas
 Lhe faltava uma,
 Lhe faltava uma e triste chorou.
 
-[R] As noventa e nove
-Deixou no aprisco
+[R] As noventa e nove deixou no aprisco
 E pelas montanhas, A buscá-la foi
-A encontrou gemendo,
-Tremendo de frio
+A encontrou gemendo, tremendo de frio
 Curou suas feridas,
-Pois logo em seus ombros
-E ao redil voltou.
+Pôs logo em seus ombros E ao redil voltou.
 
-Essa mesma historia,
-Volta a repetir-se
-Pois muitas ovelhas,
-Perdidas estão
+Essa mesma historia, volta a repetir-se
+Pois muitas ovelhas, perdidas estão
 Mas ainda hoje, o Pastor Amado
 Chora tuas feridas,
-Chora tuas feridas,
-E quer te salvar
+Chora tuas feridas, e quer te salvar
 
 
 
@@ -2182,6 +2130,7 @@ E quer te salvar
 
 
 →79 Céus e terra
+
 Santo, santo, és, Senhor
 De glória encherás toda a Terra
 Glória e honra te darão
@@ -2195,6 +2144,7 @@ O universo diz:
 Aleluia a Ti, Jesus.
 
 →80 Clamo a Ti
+
 Clamo a Ti, 
 Tua misericórdia vem me curar
 Fraco sou, 
@@ -2218,6 +2168,7 @@ Pois Tu és bom pra mim.
 Ver “Espírito, Enche”.
 
 →82 Comunhão
+
 Oh quão bom e agradável
 Ter amigos e irmãos
 Comunhão, vinho e pão.
@@ -2259,19 +2210,19 @@ Comunhão, vinho e pão.
 
 
 →83 Conhecerei
+
 Mergulhar em teu ser,
 Encontrar-me contigo
 Meu maior prazer: ser teu amigo
-Ouvir tua voz,
-As batidas do teu coração
-Fala Senhor
-Ensina me a Tua canção
+Ouvir tua voz, as batidas do teu coração
+Fala Senhor, ensina me a Tua canção
 
 Conhecerei e prosseguirei
 Em conhecer-te Senhor
 Me lançarei com tudo o que sou
 Nas profundezas do teu imenso amor
-   Te amarei com meu coração
+
+Te amarei com meu coração
 Com todas as minhas forças
 E cantarei louvores
 A Ti, meu Deus, meu redentor
@@ -2304,9 +2255,11 @@ Ao Rei dos reis consagro
 Tudo o que sou
 De gratos louvores
 Transborda o meu coração
+
 A minha vida eu entrego
 Nas tuas mãos, meu Senhor
 Pra te exaltar com todo meu amor.
+
 Eu te louvarei
 Conforme a tua justiça
 E cantarei louvores, pois,
@@ -2361,6 +2314,7 @@ Teu amor me fascina
 Mexe com meu coração
 Enche-me de alegria
 Gera em mim uma paixão.
+
 Quero que venha o teu Reino
 Sua Bandeira levar
 Ver as Nações se prostrando
@@ -2376,6 +2330,7 @@ Sentir teu calor.
 Se tu olhares Senhor
 Pra dentro de mim
 Nada encontrará de bom
+
 Mas um desejo eu tenho,
 De ser transformado
 Preciso tanto do teu perdão
@@ -2414,9 +2369,9 @@ Amado Salvador.
 
 →89 Corpo e família
 Recebi um novo coração do Pai,
-Coração regenerado,
-Coração transformado,
+Coração regenerado, coração transformado,
 Coração que é inspirado por Jesus.
+
 Como fruto deste novo coração,
 Eu declaro a paz de Cristo,
 Te abençoo meu irmão,
@@ -2425,8 +2380,8 @@ Preciosa é a nossa comunhão.
 Somos corpo e assim bem ajustado,
 Totalmente ligado, unido,
 Vivendo em amor,
-Uma família,
-Sem qualquer falsidade,
+
+Uma família, sem qualquer falsidade,
 Vivendo a verdade,
 Expressando a glória do Senhor.
 Uma família, vivendo o compromisso
@@ -2441,6 +2396,7 @@ Quão bom é a Cristo ter
 Oh, que paz no meu ser
 Seu amor pode me transformar
 Sim, Cristo amou a mim
+
 Na cruz provou amor
 Sofrendo grande dor
 Para mim'alma salvar
@@ -2450,6 +2406,7 @@ Tu também podes ter
 A paz em todo ser
 Só Cristo pode, sim, te salvar
 Sim, Cristo amou a ti
+
 Dá-lhe o teu coração
 Ele o aceitará
 Então terás o perdão
@@ -2486,6 +2443,7 @@ Ver “Andam procurando”.
 Dá-me, oh Deus
 Um coração cheio de amor
 Cheio de adoração a Ti, Senhor
+
 Te louvarei, Jesus
 Não apenas quando eu cantar
 Mas em todos os momentos
@@ -2502,6 +2460,7 @@ Declaramos que aqui
 Reina a Glória do Senhor
 Sua graça é manifesta,
 Está presente o seu amor
+
 Corações se quebrarão,
 Almas vão se derramar
 E o Espírito de Deus
@@ -2511,6 +2470,7 @@ Profetizamos salvação,
 Total libertação
 Quebramos as cadeias 
 Em nome de Jesus.
+
 Aqui não há lugar pro mal,
 Aqui reina a luz. 
 Entronizamos Cristo,
@@ -2519,6 +2479,7 @@ Pois Ele é o nosso Rei.
 Nos rendemos aos teus pés,
 Pois sabemos que tu és
 Poderoso para transformar o mundo
+
 Nada pode impedir 
 Teu Espírito de agir
 Operando maravilhas,
@@ -2559,6 +2520,7 @@ Sabe bem que em Cristo firme está.
 
 
 →98 Desde Os Confins da Terra
+
 Desde os confins da terra
 No mais profundo mar
 Nas alturas dos céus, louvado és
@@ -2566,9 +2528,9 @@ Dentro dos corações
 Em meio a um clamor
 Nasce esta canção E os povos cantam:
 
-   Por toda a eternidade
+Por toda a eternidade
 Tu serás adorado, Grande Deus
-  Exaltado nas nações
+Exaltado nas nações
 Senhor da criação, Grande Deus.
 Seja louvado
 
@@ -2577,6 +2539,7 @@ Ao despertar eu cantarei,
 Teu nome eu proclamarei
 No ritmo do teu coração,
 Levarei a salvação
+
 Teu fogo, em meu olhar,
 Brilhando está
 A chama não se apagará
@@ -2589,11 +2552,12 @@ Este amor em meus ser, Para sempre brilhará.
 Tu vives em mim, vives em mim
 Em meu coração pra sempre.
 
- Pra sempre, pra sempre
- Pra sempre, nesse amor.
+Pra sempre, pra sempre
+Pra sempre, nesse amor.
 
 
 →100 De todas as tribos
+
 De todas as tribos, povos e raças
 Muitos virão Te louvar
 De tantas culturas,
@@ -2675,8 +2639,9 @@ Eu preciso do Senhor…
 Sei que os Teus olhos
 Sempre atentos permanecem em mim
 E os Teus ouvidos
-Estão sensíveis para ouvir
-Meu clamor. Posso até chorar,
+Estão sensíveis para ouvir meu clamor.
+
+Posso até chorar,
 Mas alegria vem de manhã.
 És Deus de perto, e não de longe
 Nunca mudastes, Tu és fiel!
@@ -2688,8 +2653,8 @@ Mas Tua palavra vai se cumprir.
 
 Posso enfrentar o que for
 Eu sei que lutas por mim
-Teus planos não podem
-Ser frustrados.
+Teus planos não podem ser frustrados.
+
 Minha esperança está
 Nas mãos do grande Eu sou
 Meus olhos vão ver
@@ -2709,10 +2674,10 @@ O impossível acontecer.
 
 
 →103 Deus é Deus
+
 Minha fé não está firmada
 Nas coisas que podes fazer
-Eu aprendi
-A Te adorar pelo que és
+Eu aprendi a Te adorar pelo que és
 Dele vêm o sim e o amém
 Somente dele e mais ninguém
 A Deus seja o louvor.
@@ -2754,11 +2719,12 @@ Em meio aos muitos problemas
 Em meio a lutas sem fim
 Por entre muitos dilemas
 Que se apresentam pra mim
+
 Às vezes eu posso passar
 Uma noite inteira a chorar.
-
 Mas sei que meu Deus, Logo pela manhã
 Fará novamente o Sol brilhar
+
 E encherá de alegria Os meus lábios
 E o meu coração de louvor
 Assim vou descansar,
@@ -2773,7 +2739,7 @@ Tão certo como ar que eu respiro
 Tão certo como o amanhã
 Que se levanta
 Tão certo como eu te falo
- e podes me ouvir.
+e podes me ouvir.
 
 Deus está em ti…
 Deus está em nós…
@@ -2793,10 +2759,10 @@ E se tudo parece estar contra mim
 Eu não desistirei, 
 Meu louvor não tem fim
 
-  Do meu coração controle te dou
-  Transforma tudo que há em mim, Deus.
-  Justiça e amor me abraçam a Ti
-  Te amo com tudo que sou.
+Do meu coração controle te dou
+Transforma tudo que há em mim, Deus.
+Justiça e amor me abraçam a Ti
+Te amo com tudo que sou.
 
 E o clamor do meu ser
 É te dar louvor que vem
@@ -2819,6 +2785,7 @@ De dentro de mim, Senhor.
 
 
 →107 Deus Forte
+
 Oh Deus, tu és o meu Deus forte
 O Grande El-Shaddai
 Todo poderoso, Adonai
@@ -2860,10 +2827,12 @@ Mesmo sendo assim pobre e pecador
 Deus me ama
 Mesmo sendo falho, mesmo sem merecer
 Deus me ama.
+
 Se eu estou forte, se eu estou de pé
 Deus me ama
 Se eu estou fraco, se eu estou caído
 Ele não deixa de me amar.
+
 Sem o seu amor, sem o seu perdão
 O que seria de mim
 Deus me amou tanto, que entregou seu filho
@@ -2894,15 +2863,16 @@ E ele está sempre de braços abertos pra mim.
 
 
 →109 Deus supremo
- Deus, supremo és
- Soberano em glória
- És incomparável (maravilhoso)
- Em tua formosura
- És incomparável (maravilhoso)
- Em tua majestade.
 
- Não há outro   deus como Jeová
- Não há outro   deus
+Deus, supremo és
+Soberano em glória
+És incomparável (maravilhoso)
+Em tua formosura
+És incomparável (maravilhoso)
+Em tua majestade.
+
+Não há outro   deus como Jeová
+Não há outro   deus
 Além do Senhor.
 
 Não há no céu, não há na terra,
@@ -2928,6 +2898,7 @@ Minha devoção Te entrego.
 
 
 →111 Dia de glória
+
 Vem o dia de fulgor, quando acaba toda dor
 Nem doença haverá, 
 Nem a lágrima terá
@@ -2964,29 +2935,29 @@ Oh que dia, dia de glória será!
 
 
 →112 Diante da Cruz
- Ó, Deus me sondas, conheces-me!
- Mesmo quando falho,
- Eu sei: me amas.
- Estás presente     a me cercar
- Em todo tempo, eu sei: me amas.
+Ó, Deus me sondas, conheces-me!
+Mesmo quando falho,
+Eu sei: me amas.
+Estás presente     a me cercar
+Em todo tempo, eu sei: me amas.
 
- Prostro-me diante da cruz
- Vejo o sangue de Jesus
- Nunca houve amor assim
- Sobre a morte já venceu
- Sua glória o céu encheu
- Nada irá me separar.
+Prostro-me diante da cruz
+Vejo o sangue de Jesus
+Nunca houve amor assim
+Sobre a morte já venceu
+Sua glória o céu encheu
+Nada irá me separar.
 
- Tu és meu guia,   meu protetor,
- Tua mão me firma
- Eu sei: me amas.
+Tu és meu guia,   meu protetor,
+Tua mão me firma
+Eu sei: me amas.
 
 O véu rasgou, um caminho abriu,
 Tudo consumado está!
 
- E quando tudo     se acabar
- Estarei seguro,
- Pois sei: me amas.
+E quando tudo     se acabar
+Estarei seguro,
+Pois sei: me amas.
 
 
 
@@ -3001,6 +2972,7 @@ Tudo consumado está!
 
 
 →113 Diante dEle
+
 Vamos convocar o mundo pra uma reunião
 Tribos gente diferente de toda a nação
 Homens grandes e pequenos
@@ -3068,6 +3040,7 @@ Diante de Ti
 Dá vontade de pular
 Dá vontade de dançar
 Dá vontade de gritar
+
 Dá vontade de correr
 Dá vontade de pular
 Dá vontade de dançar
@@ -3077,8 +3050,9 @@ Na tua presença, Senhor,
 Dá vontade de correr
 De saltar de alegria
 De te conhecer, Senhor
- De erguer as minhas mãos
- E te adorar, E te adorar, Senhor.
+
+De erguer as minhas mãos
+E te adorar, E te adorar, Senhor.
 
 →115 Digno de glória
 Digno de glória e honra
@@ -3128,13 +3102,10 @@ Me deu perdão
 Restaurou-me a comunhão.
 
 Digno é o Senhor, Sobre o trono está,
-Soberano, criador,
-Vou sempre te adorar
-Elevo minhas mãos
-Ao Cristo que venceu
+Soberano, criador, vou sempre te adorar
+Elevo minhas mãos ao Cristo que venceu
 Cordeiro de Deus Morreu por mim
-Mas ressuscitou
-Digno é o Senhor.
+Mas ressuscitou, Digno é o Senhor.
 
 
 
@@ -3156,16 +3127,16 @@ Digno é o Senhor.
 
 →117 Divino companheiro
 Divino companheiro do caminho, Tua
- presença sinto logo ao transitar
+presença sinto logo ao transitar
 Pois tu dissipaste toda sombra
 Já tenho luz, 
-  a luz bendita do amor.
+a luz bendita do amor.
 
 [C] Fica Senhor, já se faz tarde
 Tens meu coração para pousar
 Faz em mim morada permanente
 Fica, Senhor, fica, Senhor, 
-   meu Salvador.
+meu Salvador.
 
 A sombra da noite se aproxima
 E nela o tentador vai chegar
@@ -3294,7 +3265,7 @@ Rei do universo Te dou meu louvor
 Com tantas bênçãos me cercas, Senhor
 Só Tu és a fonte de alegria e prazer,
 Melhor que a própria vida
- é Te conhecer
+é Te conhecer
 
 Tu és o dono do meu coração
 E não há outro (e não há outro)
@@ -3302,9 +3273,9 @@ Só Tu és o dono do meu coração
 
 Paz e família, abrigo e luz
 Minhas necessidades
- supres todas em Jesus
+supres todas em Jesus
 Mas nem o ouro e a prata
- podem satisfazer
+podem satisfazer
 A sede da minh'alma é a Ti pertencer.
 
 Tu és o dono do meu coração
@@ -3314,19 +3285,17 @@ Só Tu és o dono do meu coração
 Planos e sonhos Tu tens para mim
 Eu maravilhado digo: "Eis me aqui"
 Quero agradar-Te
- e cumprir Teu querer
+e cumprir Teu querer
 Caminhando em graça vou obedecer
 
 Tu és o dono do meu coração
 E não há outro (e não há outro)
 Só Tu és o dono do meu coração
 
-Em minha jornada
- intimamente Te amar
-Para que na glória
- quando o dia chegar
+Em minha jornada, intimamente Te amar
+Para que na glória, quando o dia chegar
 Ao contemplar Teu rosto
- eu venha reconhecer
+eu venha reconhecer
 O olhar tão doce que amou o meu ser
 
 
@@ -3357,13 +3326,13 @@ Algo novo sempre acontece
 Quando eu começo a orar
 
 É a unção de Deus que está
- neste lugar.
+neste lugar.
 
 As muralhas não resistirão
 O inimigo não suportará
 
 Algo vindo do céu
- arde em meu coração 
+arde em meu coração 
 Explodindo em milagres de louvor
 Revolução e fé são curas e poder.
 
@@ -3377,40 +3346,39 @@ Eis me aqui, meu Deus. (2x)
 Desde o dia em que aceitei Jesus,
 Um mundo novo se abriu para mim
 Não podia imaginar que Jesus
- fosse assim.
+fosse assim.
 
 Tantos sonhos nada valem mais
 Os meus pecados eu deixei
- para trás
+para trás
 Quero andar no teu caminho, Senhor
 Com minha vida demonstrar
- teu amor.
+teu amor.
 
 Como a chuva cai do céu
 Dando vida onde cair
-Quero ser um mensageiro
- a te servir
+Quero ser um mensageiro a te servir
 Há tantas vidas pra salvar,
 Se não for por mim, por quem será
 Eis-me aqui, Senhor.
 
 →124 Ele é contigo
- Ele é  contigo onde você estiver
- Ele é     Abrigo, 
+Ele é  contigo onde você estiver
+Ele é     Abrigo, 
 Seu Amigo, Deus provedor,
 Pode confiar,  pode confiar.
 
 Lara,la la la...
 
-     Deus poderoso
- O  Deus que tudo pode fazer
- E o controle do mundo (de tudo) está
+Deus poderoso
+O  Deus que tudo pode fazer
+E o controle do mundo (de tudo) está
 Nas mãos desse Deus, nas mãos de Deus
 Nas mãos de Deus, tudo está.
 
- É   maravilhoso...
- Saber que não há impossível pra Deus
- Então, não duvida,
+É   maravilhoso...
+Saber que não há impossível pra Deus
+Então, não duvida,
 |: Confia em Deus. 3x :|
 
 
@@ -3441,13 +3409,11 @@ Ver “Aquele que habita”.
 
 
 →127 Emaús
-Quem   é esse que vem
- nos abraçando 
-Quem   é esse que vem
+Quem é esse que vem nos abraçando 
+Quem é esse que vem
 Nos constrangendo com o olhar 
 Ele é tão sábio, ensina em amor
-Ele é tão manso,
- cuida dos corações
+Ele é tão manso, cuida dos corações
 
 Ele entrou em casa 
 Ele está na mesa 
@@ -3458,18 +3424,19 @@ E ao partir o pão
 Os nossos olhos se abrem 
 E reconhecemos quem Tu és
 Ao som da Tua voz,
- os nossos corações 
+os nossos corações 
 Queimam de amor, queimam de amor.
 
- Nós arrumamos a casa     
- Perfumamos ela toda
- Nós preparamos a mesa
- Tome o lugar de honra.
+Nós arrumamos a casa     
+Perfumamos ela toda
+Nós preparamos a mesa
+Tome o lugar de honra.
 
 E reconhecemos quem Tu     és
 Tome o lugar de honra.
 
 →128 Em nome do Senhor Jesus
+
 Em nome do Senhor Jesus
 Quero me entregar
 Pra sempre ao meu Deus.
@@ -3488,9 +3455,9 @@ Nas promessas do meu Deus.
 
 
 →129 Em Teus Braços
- Seguro estou nos braços
- Daquele que nunca me deixou
- Seu amor perfeito sempre esteve
+Seguro estou nos braços
+Daquele que nunca me deixou
+Seu amor perfeito sempre esteve
 Repousado em mim.
 
 E se eu passar pelo vale
@@ -3500,24 +3467,24 @@ Que me guarda, me guardas
 
 Em Teus braços é meu descanso.
 
- Recaio em Tua graça, Recaio de novo em Tuas mãos.
+Recaio em Tua graça, Recaio de novo em Tuas mãos.
 
 O toque mais puro, O amor mais seguro do mundo.
 O toque mais puro, O amor mais seguro do mundo é o Teu, Jesus.
 
 →130 Enquanto eu calei
- Enquanto eu calei o meu pecado
- Envelheci eu sei, de tão cansado
+Enquanto eu calei o meu pecado
+Envelheci eu sei, de tão cansado
 
- Porque a sua mão pesava sobre mim
- E o meu vigor chegou ao fim
- O meu pecado então,
- eu não mais ocultei
-       Do meu Senhor e Rei.
+Porque a sua mão pesava sobre mim
+E o meu vigor chegou ao fim
+O meu pecado então,
+eu não mais ocultei
+Do meu Senhor e Rei.
 
- Assim eu confessei o meu pecado
- E pelo sangue de Jesus
- eu fui lavado.
+Assim eu confessei o meu pecado
+E pelo sangue de Jesus
+eu fui lavado.
 
 →131 Enquanto oramos
 Ao orarmos, Senhor
@@ -3532,18 +3499,17 @@ Nos unimos aqui em oração.
 
 →132 Então se verá
 Então se verá o Filho do Homem
-Vindo sobre as nuvens
-Com poder e glória.
- Porque assim como o relâmpago
+Vindo sobre as nuvens com poder e glória
+
+Porque assim como o relâmpago
 Que sai do oriente
 E se mostra no ocidente
 Assim há de ser
 A vinda do Filho do homem.
 
 Enquanto não vem o Filho do Homem
-Julgar o mundo
-Com seu braço forte.
- Vamos irmãos levar a todos
+Julgar o mundo com seu braço forte.
+Vamos irmãos levar a todos
 As novas de perdão e de salvação
 E assim aguardar
 A vinda do Filho do homem.
@@ -3593,7 +3559,7 @@ Aleluia, oh, glória e aleluia
 Aleluia e glória ao meu Senhor.
 
 →135 Este é o nosso Deus
- Tua graça é tudo para mim,
+Tua graça é tudo para mim,
 Em Tua palavra eu posso crer
 Espero em Ti, renova-me,
 Pelo Teu Espírito.
@@ -3602,8 +3568,8 @@ E eu me prostro aos Teus pés
 Eu me prostro aos Teus pés
 E aqui Te adorarei.
 
- Tua presença em mim
- guia o meu viver
+Tua presença em mim
+guia o meu viver
 Em tua palavra há poder
 Restauração e redenção,
 Liberdade encontro em Ti.
@@ -3612,6 +3578,7 @@ Sua vida a todos ofertou,
 Morrendo na cruz se entregou
 Grande é o amor que derramou,
 Este é o nosso Deus.
+
 A morte venceu, ressuscitou,
 É digno pra sempre do louvor
 Servo se fez mesmo sendo Rei,
@@ -3619,42 +3586,40 @@ Este é o nosso Deus.
 
 →136 Estrela da manhã
 És a nossa Estrela da manhã,
-Cordeiro Santo que
- nos trouxe a paz
+Cordeiro Santo que nos trouxe a paz
 Em Tuas mãos está todo vencer,
-Resposta a todo aquele
- que clamar.
+Resposta a todo aquele que clamar.
+
 A verdade é Tua palavra
 Que não pode mentir,
 Por isso estamos aqui.
 
- Te louvamos óh Senhor
-   Pelo Teu imenso amor
- Manifesta o Teu perdão e poder
- E assim vamos
- Te adorar para sempre
- Pra sempre oh meu Deus!
+Te louvamos óh Senhor
+Pelo Teu imenso amor
+Manifesta o Teu perdão e poder
+E assim vamos
+Te adorar para sempre
+Pra sempre oh meu Deus!
 
 →137 É tudo sobre você
- A porta da casa mais simples,
- Que o anjo da morte não entra
- A estrada que corre pro mar,
+A porta da casa mais simples,
+Que o anjo da morte não entra
+A estrada que corre pro mar,
 O vento que abre o caminho é você,
- É você.
+É você.
 
- A nuvem que aponta o destino
- É a mesma que cobre o passado
- O pão que sacia a fome
+A nuvem que aponta o destino
+É a mesma que cobre o passado
+O pão que sacia a fome
 A rocha que mata minha sede é você
- É você.
+É você.
 
- Mais perto do monte,
- Mais perto da face,
- Me espanto com o peso
-  da Tua glória
- Mais perto da glória
- É mais perto da morte
- O medo quer me parar
+Mais perto do monte,
+Mais perto da face,
+Me espanto com o peso da Tua glória
+Mais perto da glória
+É mais perto da morte
+O medo quer me parar
 
 Então me tira o medo que me faz dizer:
 Moisés, suba em meu lugar
@@ -3667,12 +3632,12 @@ A porta aberta é você
 Mas a fechada é você
 É tudo sobre você, Eu também vou subir
 
- Eu vou subir o monte
- Que muitos desistiram
- E vou ficar lá até te encontrar
- Eu vou entrar na casa
- E vou fazer morada
- E vou ficar lá até te encontrar
+Eu vou subir o monte
+Que muitos desistiram
+E vou ficar lá até te encontrar
+Eu vou entrar na casa
+E vou fazer morada
+E vou ficar lá até te encontrar
 
 
 
@@ -3701,7 +3666,7 @@ Pagaste o preço por todos nós.
 Quero consagrar meu lar a Ti
 O nosso futuro para Ti servir
 Com toda a minha força
- e entendimento
+e entendimento
 Quero dedicar, o meu lar a Ti.
 
 Eu e minha casa serviremos a Deus
@@ -3713,22 +3678,17 @@ Como bom perfume meus filhos irão
 Perfumar      todas as nações.
 
 →140 Eu Escolho Deus
-Senhor,
- eu nasci pra te chamar de Deus
+Senhor, eu nasci pra te chamar de Deus
 Eu nasci pra te chamar de pai
 E andar do Seu lado
-Senhor,
- desde o ventre da minha mãe
-Eu sou povo exclusivo Seu,
-Eu sou abençoado
- se vivo obediente.
 
- Mas todo dia o pecado vem,
- me chama
-Todo dia as propostas vêm,
- me chamam
-Todo dia vêm as tentações,
- me chamam
+Senhor, desde o ventre da minha mãe
+Eu sou povo exclusivo Seu,
+Eu sou abençoado se vivo obediente.
+
+Mas todo dia o pecado vem, me chama
+Todo dia as propostas vêm, me chamam
+Todo dia vêm as tentações, me chamam
 Todo dia o pecado vem.
 
 Mas eu escolho Deus,
@@ -3748,18 +3708,18 @@ Agora vivo a vida de Deus!
 
 
 →141 Eu Me Rendo
- A Ti eu vou clamar,
+A Ti eu vou clamar,
 Pois tudo vem de Ti,
 E tudo está em Ti
- Por Ti vou caminhar,
-Tu és a direção,
-O sol a me guiar
- Tudo pode passar,
+Por Ti vou caminhar,
+Tu és a direção, o sol a me guiar
+
+Tudo pode passar,
 O teu amor jamais me deixará
- Sempre há de existir,
+Sempre há de existir,
 Novo amanhã, preparado pra mim
- Preparado pra mim,
- Preparado pra mim.
+Preparado pra mim,
+Preparado pra mim.
 
 Eu me rendo aos Teus pés
 És tudo que eu preciso pra viver
@@ -3770,27 +3730,27 @@ Jesus, Eis-me aqui.
 
 →142 Eu Nasci de Novo
 Senhor,
- abra os meus olhos preciso ver
+abra os meus olhos preciso ver
 A realidade de quem eu sou
-  Criado em Ti, a Tua semelhança
+Criado em Ti, a Tua semelhança
 
 Senhor,
- o meu passado teu sangue apagou
+o meu passado teu sangue apagou
 Uma nova vida me entregou
 O Teu poder transforma meu ser
- de glória em glória
+de glória em glória
 
 Eu nasci de novo, nasci de novo
 Em Ti sou mais que vencedor
 Eu nasci de novo, nasci de novo
 Faz-me ver assim como sou.
 
- Contigo eu fui crucificado
- Morreu meu velho homem
-  escravo do pecado
- E agora eu sou livre em ti
- Não mais eu, mas Cristo
-  vive em mim.
+Contigo eu fui crucificado
+Morreu meu velho homem
+escravo do pecado
+E agora eu sou livre em ti
+Não mais eu, mas Cristo
+vive em mim.
 
 Eu nasci de novo, nasci de novo
 Em Ti sou mais que vencedor
@@ -3829,7 +3789,7 @@ Pode o monte se abalar
 Pode o mar se revoltar
 Tu não me deixarás cair
 Puseste-me nas chagas de tuas mãos
-    Só quero estar contigo Senhor.
+Só quero estar contigo Senhor.
 
 
 
@@ -3900,6 +3860,7 @@ Eu Te agradeço, Deus
 Por se lembrar de mim
 E pelo Teu favor
 E o que me faz crescer
+
 Eu vivo pela fé, e não vacilo
 Eu não paro, eu não desisto
 Eu sou de Deus, eu sou de Cristo.
@@ -3922,14 +3883,15 @@ Jesus não se esqueceu, Jesus insiste.
 
 
 →147 Eu te louvarei
- És Tu única razão
- Da minha adoração, Oh, Jesus!
- És tu única esperança
- Que anelo Ter, Oh, Jesus!
- Confiei em Ti e fui ajudado
- Tua salvação tem me alegrado
- Hoje há gozo em meu coração
- Com meu canto te louvarei.
+És Tu única razão
+Da minha adoração, Oh, Jesus!
+És tu única esperança
+Que anelo Ter, Oh, Jesus!
+
+Confiei em Ti e fui ajudado
+Tua salvação tem me alegrado
+Hoje há gozo em meu coração
+Com meu canto te louvarei.
 
 Eu te louvarei, te glorificarei
 Eu te louvarei, meu bom Jesus.
@@ -3944,32 +3906,32 @@ Eu te louvarei, meu bom Jesus.
 A minha casa não é muito bela
 Igual algumas deste mundo aqui
 Mas não importa,
- pois a minha riqueza
+pois a minha riqueza
 É sempre eterna, com os anjos do céu.
 
 Eu tenho uma casa naquela cidade
 Que é tão brilhante,
- com celeste fulgor! Da minha pátria,
- como eu tenho saudade
+com celeste fulgor! Da minha pátria,
+como eu tenho saudade
 Estarei sempre com Jesus meu Senhor.
 
 Aqui na Terra,
- minhas lutas não cessam
+minhas lutas não cessam
 As tentações me atacam sem fim
 Porém em breve
- de tudo isso me esqueço
+de tudo isso me esqueço
 Com as delícias que tem para mim.
 
 →149 Eu Te Quero
 Eu te quero mais do que o ouro
 Eu te quero mais do que os tesouros
 Eu te quero mais
- do que a minha vida, Senhor.
+do que a minha vida, Senhor.
 
 Te desejo mais do que mil bênçãos
 Meu anseio é agradar teu coração
 Outro bem não possuo
- além de ti, Senhor.
+além de ti, Senhor.
 
 Tu és a porção da minha herança
 És o bem maior pra mim
@@ -3989,6 +3951,7 @@ Meu anseio és tu Jesus.
 Eu vivo para o teu louvor
 Para ti Senhor, 
 Eu vivo para a tua glória
+
 Eu vivo para te adorar
 Só pra te exaltar, 
 Eu vivo pra tua glória
@@ -4003,15 +3966,15 @@ Vertido por mim na cruz
 Eu te amo Jesus.
 
 →151 Eu Vou Construir
- Digno desta canção só Tu és Senhor
- Digno do meu louvor só Tu és Senhor
- Digno da minha vida Tu és Senhor
+Digno desta canção só Tu és Senhor
+Digno do meu louvor só Tu és Senhor
+Digno da minha vida Tu és Senhor
 Oh eu sou Teu.
 
- Nome que é sobre todos é o Teu Jesus
- Fonte da salvação só Tu és Jesus
- Digno da minha vida Tu és Jesus
- Oh eu sou Teu, oh eu sou Teu
+Nome que é sobre todos é o Teu Jesus
+Fonte da salvação só Tu és Jesus
+Digno da minha vida Tu és Jesus
+Oh eu sou Teu, oh eu sou Teu
 
 Santo, És incomparável
 És inigualável
@@ -4040,7 +4003,7 @@ Santo, santo, santo és, Senhor.
 Exaltamos teu nome em santo louvor
 Pois em ti alcançamos perdão
 Pelo teu sacrifício
- de amor lá na cruz
+de amor lá na cruz
 Santo és, Senhor.
 
 →153 Exaltar-te-ei
@@ -4056,10 +4019,12 @@ Levantai, ó portas, as vossas cabeças!
 Levantai-vos, ó portais eternos,
 Para que entre o Rei, o Rei da glória.
 Quem é o Rei, quem é o Rei da glória?
+
 O Senhor, forte e poderoso, o Senhor,
 Poderoso nas batalhas.
 Levantai, ó portas, as vossas cabeças!
 Levantai-vos, ó portais eternos,
+
 Para que entre o Rei, o Rei da glória.
 Quem é o Rei, quem é o Rei da glória?
 O Senhor dos exércitos,
@@ -4077,7 +4042,7 @@ Em seu coração;
 [R] Vida melhor ele quer te dar,
 Restaurar seu lar,
 Paz e harmonia ele quer trazer
-                         pra você.
+pra você.
 
 Deus alcançou e modificou
 Toda a minha casa,
@@ -4136,33 +4101,34 @@ Então chame por ele.
 
 
 →157 Faz Um Milagre Em Mim
- Como Zaqueu, eu quero subir
- O mais alto que eu puder
- Só pra te ver, olhar para ti
- E chamar sua atenção para mim
- Eu preciso de Ti Senhor, 
- Eu preciso de Ti oh! Pai
- Sou pequeno demais,
-                  me dá a tua paz,
+Como Zaqueu, eu quero subir
+O mais alto que eu puder
+Só pra te ver, olhar para ti
+E chamar sua atenção para mim
+
+Eu preciso de Ti Senhor, 
+Eu preciso de Ti oh! Pai
+Sou pequeno demais, me dá a tua paz,
 Largo tudo pra te seguir
 
- Entra na minha casa,
- Entra na minha vida
- Mexe com minha estrutura
- Sara todas as feridas
- Me ensina a ter santidade
- Quero amar somente a Ti
+Entra na minha casa,
+Entra na minha vida
+Mexe com minha estrutura
+Sara todas as feridas
+
+Me ensina a ter santidade
+Quero amar somente a Ti
 Porque o Senhor é o meu bem maior,
 Faz um milagre em mim.
 
 →158 Fico Feliz
- Fico feliz em vir em tua casa,
- Erguer minha voz e cantar;
- Fico feliz em vir em tua casa,
- Erguer minhas mãos e adorar.
+Fico feliz em vir em tua casa,
+Erguer minha voz e cantar;
+Fico feliz em vir em tua casa,
+Erguer minhas mãos e adorar.
 
 Bendito é o nome do Senhor
-                       pra sempre.
+pra sempre.
 
 
 
@@ -4173,6 +4139,7 @@ O Filho do Homem, o filho de Deus
 Curando os enfermos,
 Livrando cativos,
 Era chegado o reino de Deus
+
 Foi humilhado, crucificado,
 Tão rejeitado pelos seus
 Ressuscitado, glorificado,
@@ -4206,29 +4173,31 @@ Outro igual não há, igual não há.
 
 
 →160 Foi assim
- Conheci o mundo mal,
- E com ele seus ardis
- Me arrastei no lamaçal
- Tudo isso porque eu quis
- Saber mais que qualquer um
- Construir algum amor
- Onde a paz pudesse ser
- A verdade pra eu ver.
+Conheci o mundo mal,
+E com ele seus ardis
+Me arrastei no lamaçal
+Tudo isso porque eu quis
 
- Mas Jesus Cristo veio e me achou
- Assim tão sujo.
- E numa cruz por mim derramou
- Sangue tão puro.
- Foi assim que me salvou.
+Saber mais que qualquer um
+Construir algum amor
+Onde a paz pudesse ser
+A verdade pra eu ver.
 
- Eu conheço agora, sim,
- A clareza de Jesus
- Foi das trevas que eu vim,
- Encontrei-me com a luz
- Hoje eu quero sim saber
- Do meu Mestre, Salvador
- Quero dar-lhe meu louvor,
- Eu só nele posso crer.
+Mas Jesus Cristo veio e me achou
+Assim tão sujo.
+E numa cruz por mim derramou
+Sangue tão puro.
+Foi assim que me salvou.
+
+Eu conheço agora, sim,
+A clareza de Jesus
+Foi das trevas que eu vim,
+Encontrei-me com a luz
+
+Hoje eu quero sim saber
+Do meu Mestre, Salvador
+Quero dar-lhe meu louvor,
+Eu só nele posso crer.
 
 
 
@@ -4246,7 +4215,7 @@ Há momentos
 Em que as palavras não resolvem,
 Mas o gesto de Jesus na cruz
 Demonstra amor por 
-               nós.
+nós.
 
 Foi no Calvário (foi no Calvário)
 Que ele sem falar (Ele sem falar)
@@ -4258,7 +4227,7 @@ Aqui no mundo
 As desilusões são tantas
 Mas existe uma esperança:
 É que Cristo vai
-            voltar!
+voltar!
 
 
 
@@ -4266,10 +4235,9 @@ Mas existe uma esperança:
 →162 Força e Sabedoria
 Oh meu criador lembrei-me
 Do teu grande amor
-Ele extravasa em mim
-                  causando fervor,
-Minha mocidade vai
-               algum dia terminar,
+Ele extravasa em mim, causando fervor,
+
+Minha mocidade vai algum dia terminar,
 Enquanto houver força em mim
 Meu amanhã será linda recordação,
 Aprendi olhando Salomão
@@ -4282,7 +4250,7 @@ De que vale a força, a sabedoria,
 Se o meu alvo não está em Ti
 De que vale a força, a sabedoria,
 Se eu não me lançar,
- Senhor, pra ti?
+Senhor, pra ti?
 
 →163 Formoso és
 Senhor formoso És, Tua face eu quero ver
@@ -4307,9 +4275,9 @@ O meu primeiro amor.
 
 
 →164 Galhos secos
- Nos galhos secos de uma árvore
- qualquer, Onde ninguém jamais
- pudesse imaginar
+Nos galhos secos de uma árvore
+qualquer, Onde ninguém jamais
+pudesse imaginar
 O criador fez uma flor a brotar.
 
 Olhai! Olhai! Olhai!
@@ -4320,11 +4288,13 @@ Para nossa alegria.
 
 
 →165 Galileu
- Deixou Sua glória, foi por amor, foi por amor
- E o seu sangue, derramou
+Deixou Sua glória,
+Foi por amor, foi por amor
+E o seu sangue, derramou
 Que grande amor.
- Naquela via dolorosa se entregou
- Eu não mereço
+
+Naquela via dolorosa se entregou
+Eu não mereço
 Mas Sua graça me alcançou
 
 Eu me rendo ao seu amor
@@ -4338,7 +4308,7 @@ Santo de Israel, Luz do Mundo
 
 Galileu, Jesus, Jesus. (4x)
 
- Ô, ô, ô, ô
+Ô, ô, ô, ô
 
 →166 Gênesis
 Não havia noite,
@@ -4350,7 +4320,7 @@ Os astros não se viam
 Brilhando no universo
 O mar não existia
 Nem qualquer palavra
-                    para um verso.
+para um verso.
 
 Deus, do primeiro raio
 Da primeira gota de orvalho,
@@ -4367,7 +4337,7 @@ Do pó formou o homem
 E lhe deu alma vivente
 Domínio sobre a terra
 E o futuro
-        para os seus descendentes.
+para os seus descendentes.
 
 Gênesis (outra versão)
 
@@ -4376,7 +4346,7 @@ E a terra era sem forma e vazia.
 
 Os astros não se viam, Brilhando no universo, O mar não existia
 Nem qualquer palavra
-                    para um verso.
+para um verso.
 
 Deus, do primeiro raio, Da primeira gota de orvalho,
 Deus do primeiro eclipse
@@ -4388,12 +4358,13 @@ E o primeiro dia entardeceu.
 
 Do pó formou o homem, E lhe deu alma vivente, Domínio sobre a terra
 E o futuro
-        para os seus descendentes.
+para os seus descendentes.
 
 →167 Geração que dança
 A tua graça nos faz dançar
 Com toda força celebrar
 Dançaremos gratos por teu amor
+
 A tua gloria nos faz cantar
 Por toda terra te exaltar
 Cantaremos glorias a ti, Senhor
@@ -4405,7 +4376,8 @@ Não podemos nos calar
 E seremos a geração que dança
 Por causa da tua
 Misericórdia, ó Deus
-Tua misericórdia,ó Deus
+Tua misericórdia, ó Deus
+
 E seremos a geração que canta
 E que celebra A tua gloria,ó Deus
 A tua gloria,ó Deus.
@@ -4436,6 +4408,7 @@ A graça e o amor que vem de ti.
 Irmãos, que nada, pois, vos afaste
 Do evangelho de Cristo
 Que trouxe a nós o Espírito.
+
 Irmãos, Deus nos chamou pela graça
 E revelou-nos Seu Filho
 Por meio do Seu Espírito.
@@ -4443,6 +4416,7 @@ Por meio do Seu Espírito.
 [R] Graça a vós outros e paz,
 Da parte de Deus, nosso Pai,
 E do Senhor Jesus Cristo.
+
 O qual se entregou a Si mesmo
 Pelos nossos pecados,
 Para nos desarraigar
@@ -4464,28 +4438,29 @@ Que vivam e andem no espírito!
 
 
 →170 Graças Dou
- Aqui diante de Ti,
- Eu tenho tanto pra te agradecer,
- Graças dou, graças dou
- O que me deste Senhor,
- Por tantas bênçãos
+Aqui diante de Ti,
+Eu tenho tanto pra te agradecer,
+Graças dou, graças dou
+
+O que me deste Senhor,
+Por tantas bênçãos
 Que eu não posso ver
 Graças dou, graças dou.
 
- Com meu coração, e o meu louvor,
- Com as mãos aos céus,
- Louvo-te Senhor.
+Com meu coração, e o meu louvor,
+Com as mãos aos céus,
+Louvo-te Senhor.
 
 Graças dou,
 Sempre a ti eu graças dou.
 Graças dou.
 
- Tens feito tanto por mim,
- Da escuridão tua luz me tirou,
- Graças dou, graças dou
- Por teu amor e perdão,
- Por meus pecados levados na cruz,
- Graças dou, graças dou.
+Tens feito tanto por mim,
+Da escuridão tua luz me tirou,
+Graças dou, graças dou
+Por teu amor e perdão,
+Por meus pecados levados na cruz,
+Graças dou, graças dou.
 
 Graças dou,
 Sempre a ti eu graças dou
@@ -4498,10 +4473,10 @@ Graças dou.
 
 
 →171 Grande Deus
- Tua voz é a voz que
- Comanda o universo
- Tua voz é a voz que comanda tudo
- O que há em mim.
+Tua voz é a voz que
+Comanda o universo
+Tua voz é a voz que comanda tudo
+O que há em mim.
 
 [R] Grande Deus, Santo Deus
 Te louvo com amor
@@ -4510,10 +4485,10 @@ Maravilhoso és Tu
 Em Tua glória, no mistério
 Do Teu amor por mim.
 
- Teus braços criaram
- O que há na terra e nos céus
- Teus braços me abraçam,
- Seguro estou em Tuas mãos.
+Teus braços criaram
+O que há na terra e nos céus
+Teus braços me abraçam,
+Seguro estou em Tuas mãos.
 
 
 
@@ -4574,37 +4549,35 @@ Tremenda é a Sua Bondade.
 
 
 →174 Grandioso Deus
-Pequeno sou, tão frágil, indefeso e 
-carente de um cuidar
-Um pecador tentado a viver por mim mesmo 
-a tropeçar
-Perto de Ti eu reconheço o quanto eu Te 
-necessito, Deus
-Tua presença faz do meu temor mais força 
-em Ti
+Pequeno sou, tão frágil,
+Indefeso e carente de um cuidar
+Um pecador tentado a viver
+Por mim mesmo a tropeçar
+
+Perto de Ti eu reconheço
+O quanto eu Te necessito, Deus
+Tua presença faz do meu
+Temor mais força em Ti
 
 Pois grandioso és, Deus
 Bem maior que o que possa me abalar
 Tu és a Torre Forte, Rei meu
 Perto assim eternamente quero estar
+
 Que seja bem mais de Ti, e menos de mim
 Que cresças e eu diminua
 Sempre mais de Ti e menos de mim
 Grandioso Deus
 
-Oh, toma-me, com tudo o que sou traz-me 
-pra mais perto, Pai
-Pois vale mais um dia junto a Ti do que 
-mil em qualquer lugar
-Perto de Ti eu reconheço o quanto eu Te 
-necessito, Deus
-Tua presença faz do meu temor mais força 
-em Ti
+Oh, toma-me, com tudo o que sou
+Traz-me pra mais perto, Pai
+Pois vale mais um dia junto a Ti
+Do que mil em qualquer lugar
 
 Bem mais de Ti, menos de mim bem mais de 
 Ti, e menos de mim
 Que Ele cresça e eu diminua, que Ele cresça
- e eu diminua
+e eu diminua
 
 →175 Há momentos
 Há momentos em que na vida
@@ -4669,13 +4642,13 @@ E te buscar, e te buscar.
 
 
 Limpa o meu coração,
-Abre os meus olhos 
-             pra que eu possa ver.
+Abre os meus olhos
+pra que eu possa ver.
+
 Com amor que tens por mim, te amo
 Quero ser igual a Ti,
 Tudo o que sou é pra teu louvor
-Pois contigo eu vou viver
-                       pra sempre.
+Pois contigo eu vou viver pra sempre.
 
 →178 Hosana
 Mantos e palmas espalhando vai
@@ -4702,6 +4675,7 @@ Ide e pregai
 Em nome do Senhor Jesus
 Erguei os olhos para ver
 Que é tempo de ceifar
+
 Ide e confiai 
 Que Deus sempre cumpre
 O que nos diz, 
@@ -4718,6 +4692,7 @@ Ide e pregai
 Em nome do Senhor Jesus
 Secai os olhos, consolai,
 Que o mundo triste está,
+
 Ide e restaurai 
 O homem aflito e sofredor
 Seu fardo Deus aliviará,
@@ -4740,7 +4715,7 @@ Uma força que se move entre nós
 
 Algo novo Deus está por fazer
 Com este povo
- a quem muito quer bem
+a quem muito quer bem
 Seu Espírito ele vai derramar
 Uma igreja forte edificar
 
@@ -4775,6 +4750,7 @@ E reina hoje aqui.
 Eu e você, Igreja presente,
 Nação entre as nações, 
 Família de Deus:
+
 Um povo entre os povos,
 Luz pra toda gente,
 Uma voz, um coração;
@@ -4790,6 +4766,7 @@ Chegou a nossa hora
 De ser parte da história,
 De ousar e ir avante,
 De sair e proclamar:
+
 Cristo Jesus é o Senhor!
 A Ele toda glória e louvor!
 Cristo Jesus é o Senhor!
@@ -4849,16 +4826,15 @@ Ele não tinha qualquer beleza
 Ou majestade pra nos atrair
 Nada havia em sua aparência
 Para o desejarmos
+
 Mas rejeitado dentre os homens
 Ainda assim carregou nossas dores
 O seu castigo nos traz paz
 E a esperança não se esvai
 
 A oferta pela culpa Ele ofereceu
-Pra satisfazer o Criador,
-Ele morreu
-Pra que a sua luz em nós
-Pudesse brilhar
+Pra satisfazer o Criador, Ele morreu
+Pra que a sua luz em nós pudesse brilhar
 O Filho do Amor
 Se entregou em nosso lugar.
 
@@ -4867,6 +4843,7 @@ Que pelos nossos pecados
 Foi esmagado sem dizer
 Uma só palavra
 Se entregou aos cravos
+
 Derramou sua vida até a morte
 Provando a ira amarga
 Pra nos dar sua doce graça
@@ -4933,10 +4910,11 @@ A força dos teus opressores
 Nunca te alcançará
 Existe uma nuvem de glória
 Existe uma chama que arde
+
 No teu arraial
-         ouvem-se vivas de júbilo,
+Ouvem-se vivas de júbilo,
 No teu arraial
-         Ouvem-se vivas de júbilo.
+Ouvem-se vivas de júbilo.
 
 
 
@@ -5040,6 +5018,7 @@ Jesus, em tua presença
 Reunimo-nos aqui
 Contemplamos Tua face,
 E rendemo-nos a Ti
+
 Pois um dia Tua morte,
 Trouxe vida a todos nós
 E nos deu completo acesso
@@ -5048,8 +5027,8 @@ Ao coração do Pai.
 O véu que separava,
 Já não separa mais
 A luz que outrora apagada
-Agora brilha
-E cada dia brilha mais
+Agora brilha e cada dia brilha mais
+
 Só pra te adorar
 E fazer Teu nome grande
 E te dar o louvor que é devido
@@ -5059,18 +5038,18 @@ Estamos nós aqui.
 
 
 →191 Jesus, És o Meu Amado
- Jesus, és meu amado
- Jesus, nunca Te deixarei
- De um lamaçal fui resgatado
- Me firmou na rocha
-                   e agora eu sei.
+Jesus, és meu amado
+Jesus, nunca Te deixarei
+De um lamaçal fui resgatado
+Me firmou na rocha
+e agora eu sei.
 
- Te amo, Te quero,
- Haja o que houver,
- Jamais Te deixarei
- Meu amigo, meu Salvador
- Enquanto eu viver
- Te adorarei, Senhor
+Te amo, Te quero,
+Haja o que houver,
+Jamais Te deixarei
+Meu amigo, meu Salvador
+Enquanto eu viver
+Te adorarei, Senhor
 
 →192 Jesus, Você Me Libertou
 Jesus,  você me libertou.
@@ -5093,25 +5072,28 @@ Seu servo agora eu sou.
 
 
 →193 Lance Sua Rede
- Nosso Deus é poderoso pra fazer
- Infinitamente mais do que tudo
- Do que tudo que pedimos,
- Do que tudo que pensamos
- Do que tudo que sonhamos
- E esperamos.
- Nosso Deus é poderoso pra mudar
- Situações que nos afligem
- Todo dia. Ele faz o impossível,
-Ressuscita até os mortos
- Não há nada que o possa derrotar.
 
-  Lance sua rede ao mar,
- Creia na Palavra de Deus
- Sinais e maravilhas
- Ele hoje vai fazer
- Lance sua rede ao mar,
- Creia na Palavra de Deus
- Tudo é possível ao que crê.
+Nosso Deus é poderoso pra fazer
+Infinitamente mais do que tudo
+Do que tudo que pedimos,
+Do que tudo que pensamos
+Do que tudo que sonhamos
+E esperamos.
+
+Nosso Deus é poderoso pra mudar
+Situações que nos afligem
+Todo dia. Ele faz o impossível,
+Ressuscita até os mortos
+Não há nada que o possa derrotar.
+
+Lance sua rede ao mar,
+Creia na Palavra de Deus
+Sinais e maravilhas
+Ele hoje vai fazer
+
+Lance sua rede ao mar,
+Creia na Palavra de Deus
+Tudo é possível ao que crê.
 
 
 
@@ -5136,6 +5118,7 @@ Ouve-se o júbilo de todos os povos
 Os Reis se prostraram ao Senhor
 Ouve-se o brado de vitória
 O dia do Senhor chegou.
+
 Ouve-se em todos os povos
 Que um novo Rei surgiu
 Impérios reconhecem
@@ -5205,14 +5188,14 @@ Nos trouxe grande salvação.
 
 
 →197 Lugar Secreto
- Tu és tudo o que eu mais quero
- O meu fôlego, Tu és
- Em Teus braços, é o meu lugar
+Tu és tudo o que eu mais quero
+O meu fôlego, Tu és
+Em Teus braços, é o meu lugar
 Estou aqui, estou aqui
 
- Pai, eu amo Sua presença
- Teu sorriso é vida em mim
- Eu seguro em Suas mãos
+Pai, eu amo Sua presença
+Teu sorriso é vida em mim
+Eu seguro em Suas mãos
 Confio em Ti, confio em Ti
 
 Quero ir mais fundo
@@ -5238,6 +5221,7 @@ Cortaram madeiro, fizeram uma cruz
 Para o meu Salvador
 Madeiro lavrado,
 Com pregos cravados, pesada ficou.
+
 Ele carregou a cruz,
 No caminho caiu
 Mas Deus deu-lhe graça,
@@ -5252,6 +5236,7 @@ Perante Pilatos Jesus foi levado
 Como um malfeitor
 Chegando a Ele, olhando ao Mestre,
 Assim perguntou:
+
 És o rei dos judeus? Disse Jesus:
 Na verdade eu sou
 O meu reino é eterno,
@@ -5263,6 +5248,7 @@ Pregaram na cruz, o meu Salvador
 Com a coroa de espinhos,
 Sua fronte sangrava,
 Ao Pai suplicou
+
 Transpassado de dor ficou
 O meu Salvador.
 Às três horas da tarde
@@ -5290,13 +5276,14 @@ Tudo que Jesus conquistou na cruz
 É direito nosso é nossa herança
 Todas as bênçãos de Deus pra nós
 Tomamos posse é nossa herança
+
 Toda a vida todo poder
 Tudo que Deus tem para dar
 Abrimos nossas vidas pra receber
 Nada mais nos resistirá
+
 Maior é o que está em nós
 Do que o que está no mundo
-
 Bem   maior.
 
 
@@ -5329,11 +5316,11 @@ Não vou deixar de Te amar, Senhor.
 Teu Amor, Teu carinho
 Tua palavra, Tua justiça.
 
-  Prostrado aos teus pés
-  Te dou tudo de mim.
+Prostrado aos teus pés
+Te dou tudo de mim.
 
-  Te quero, te busco
-  Te amo mais que tudo.
+Te quero, te busco
+Te amo mais que tudo.
 
 Tua paz, tua bondade
 Teu cuidado, teu querer.
@@ -5342,8 +5329,8 @@ Teu cuidado, teu querer.
 No silêncio do meu ser
 Quando eu busco, eu ouço a Tua voz.
 
-   E ao Te contemplar
-  Não posso descrever
+E ao Te contemplar
+Não posso descrever
 Tudo o que és pra mim
 
 Mais que um amigo Tu és
@@ -5389,7 +5376,7 @@ Perto de Ti Guia-me, ó Deus
 
 Toma-me, usa-me enche-me, molda-me
 O barro sou e estou em tuas mãos
-              Chama-me, guia-me
+Chama-me, guia-me
 Anda ao meu lado; O barro sou
 E estou em tuas mãos.
 
@@ -5434,12 +5421,13 @@ E com Cristo para sempre
 Vou morar.
 
 →208 Maranata
- Tu és a minha luz
- A minha salvação
- E a Ti me renderei.
- Se ao teu lado estou
- Seguro em tuas mãos
- Eu nada temerei.
+
+Tu és a minha luz
+A minha salvação
+E a Ti me renderei.
+Se ao teu lado estou
+Seguro em tuas mãos
+Eu nada temerei.
 
 Ô, ô, ô, Tu és Santo, ó Senhor
 Ô, ô, ô, Tu és digno de louvor.
@@ -5455,49 +5443,52 @@ Vem Jesus, vem Jesus
 Maranata ora, vem Senhor Jesus.
 
 →209 Maravilhado
- Em meio a tantas dores, Quase perco a visão 
- Mas fico maravilhado
- Com o poder da sua luz, Então cante assim:
- Eu vejo a sua luz, vejo suas maravilhas, Eu vejo o seu poder, vejo cores em vida
- Eu vivo em meio ao caos
- Mas prossigo em sua luz.
+Em meio a tantas dores, Quase perco a visão 
+Mas fico maravilhado
+Com o poder da sua luz, Então cante assim:
+
+Eu vejo a sua luz, vejo suas maravilhas,
+Eu vejo o seu poder, vejo cores em vida
+Eu vivo em meio ao caos
+Mas prossigo em sua luz.
 
 Em meio a tantas dores Tu me estendeu suas mãos
 Apagou os meus pecados
 E me deu sala salvação    Então cante assim:
 
- Vejo a criação buscando a sua graça 
- Vejo o seu amor
- E prossigo em sua luz.
+Vejo a criação buscando a sua graça 
+Vejo o seu amor
+E prossigo em sua luz.
 
 Em meio a tantas dores
 Tu és que me sustem
 Transformou a minha vida e eu direi:
 
 →210 Maravilhosa graça
- Quem tem poder sobre o pecado,
- O seu amor é poderoso
- O rei da glória, o poderoso Deus
- A terra treme com sua voz,
- E nos deixa maravilhados
- O rei da glória, o poderoso Deus
+
+Quem tem poder sobre o pecado,
+O seu amor é poderoso
+O rei da glória, o poderoso Deus
+A terra treme com sua voz,
+E nos deixa maravilhados
+O rei da glória, o poderoso Deus
 
 Maravilhosa graça,
 Teu amor que não falha
 Tomou o meu lugar
 Levou a minha cruz
+
 Teu sangue me salvou,
 Minha dívida pagou
 Jesus eu canto
 Porque hoje livre sou
 
- És quem traz paz
- Ao caos dos homens,
- É escudo aos indefesos
- O rei da glória, O poderoso Deus
- Reina em justiça sobre as nações
- A luz que brilha na escuridão
- O rei da glória, o poderoso Deus
+És quem traz paz ao caos dos homens,
+É escudo aos indefesos
+O rei da glória, O poderoso Deus
+Reina em justiça sobre as nações
+A luz que brilha na escuridão
+O rei da glória, o poderoso Deus
 
 Digno é o cordeiro de Deus.
 Digno é o cordeiro que a morte venceu.
@@ -5509,19 +5500,17 @@ Digno é o cordeiro que a morte venceu.
 →211 Maravilhoso
 Quão formoso és Rei do universo
 Tua glória enche a terra
-                    e enche o céu.
+e enche o céu.
+
 Tua glória enche a terra
 Tua glória enche o céu
 Tua glória enche 
-             minha vida, Senhor.
+minha vida, Senhor.
 
-Maravilhoso é
-Estar em tua presença
+Maravilhoso é estar em tua presença
 Maravilhoso é poder te adorar
-Maravilhoso é
-Tocar nas tuas vestes
-Maravilhoso é
-Te contemplar, Senhor.
+Maravilhoso é tocar nas tuas vestes
+Maravilhoso é te contemplar, Senhor.
 
 
 
@@ -5573,8 +5562,7 @@ Prossigo vencendo como Ele venceu,
 Persigo o destino escrito pra mim
 De herdar o seu Reino,
 Andando em vitória
-E correspondendo
-Ao chamado de Deus.
+E correspondendo ao chamado de Deus.
 
 Na minha fraqueza me fortaleci,
 Na tua presença, Senhor;
@@ -5592,9 +5580,8 @@ Marcharemos na coragem do Senhor.
 Seguiremos seja onde for
 Embora a dor nos cerque na viagem
 Marcharemos na coragem do Senhor.
- 
-E quando a escuridão
-Da noite descer 
+
+E quando a escuridão da noite descer
 Queremos só pela graça e fé viver
 Com esperança e com coragem
 Na alegria ou na dor
@@ -5624,6 +5611,7 @@ Tem ciúmes de mim
 O seu amor é como um furacão
 E eu me rendo ao vento
 De sua misericórdia.
+
 Então de repente não vejo mais
 Minhas aflições, eu só vejo a glória
 E percebo quão maravilhoso Ele é
@@ -5634,8 +5622,8 @@ Ele me amou.
 
 Somos sua herança e Ele é o nosso galardão
 Seu olhar de graça nos atrai à redenção
-Se a graça é um oceano
-                 estamos afogando.
+Se a graça é um oceano estamos afogando.
+
 Do céu veio à terra pra salvar-nos do pecado
 Meu coração dispara, em meu peito, acelerado
 Não tenho tempo para perder com ressentimentos
@@ -5655,6 +5643,7 @@ Eis-me aqui outra vez
 Diante de Ti abro meu coração
 Meu clamor Tu escutas
 E fazes cair as barreiras em mim
+
 És fiel, Senhor, e dizes
 Palavras de amor
 E esperança sem fim
@@ -5674,7 +5663,7 @@ De todo coração obedecerei. Cura meu coração, faz em mim Tua vontade, Pois s
 Eu posso me completar.
 
 Me leva onde eu possa ouvir Tua voz
-    Aos Teus pés.
+Aos Teus pés.
 
 Amado da minh'alma, Tua fidelidade
 Me ensina a te amar.
@@ -5716,6 +5705,7 @@ E o que sou é Teu.
 
 
 →218 Meu amado irmão
+
 Meu amado irmão, 
 Como é doce a comunhão
 Que eu tenho com você.
@@ -5730,6 +5720,7 @@ Mas fundamentado em Cristo Jesus.
 Caminhemos lado a lado
 Sabendo que não somos iguais,
 Mas eu posso entender você.
+
 Caminhemos lado a lado
 Sabendo que não somos iguais,
 Mas eu posso lhe entender
@@ -5869,10 +5860,12 @@ Te entregamos nosso viver.
 
 Pra Te adorar óh Rei dos reis
 Foi que eu nasci óh Rei Jesus
+
 Meu prazer é Te louvar,
 Meu prazer é estar
 Nos Átrios do Senhor,
-Meu prazer é viver na casa de Deus
+Meu prazer é viver
+Na casa de Deus
 Onde flui o amor.
 
 →225 Meu Refúgio
@@ -5933,12 +5926,14 @@ Vivo as promessas dos milagres
 
 
 →227 Nada Além do Sangue
+
 Teu sangue leva-me além
 De todas as alturas
 Onde ouço a tua voz
 Fala de tua justiça
 Pela minha vida
 Jesus, este é o teu sangue
+
 Tua cruz mostra tua graça
 Fala do amor do Pai
 Que prepara para nós
@@ -5950,6 +5945,7 @@ Que nos lava dos pecados
 E nos traz restauração
 Nada além do sangue
 Nada além do sangue de Jesus
+
 Que nos faz brancos como a neve
 Aceitos como amigos de Deus
 Nada além do sangue
@@ -5966,6 +5962,7 @@ Nada além do sangue de Jesus.
 
 
 →228 Não a nós, Senhor
+
 Não a nós, Senhor,
 Mas ao teu nome seja a glória
 Por amor da tua benignidade
@@ -5977,6 +5974,7 @@ Teu é o Reino, teu é o poder,
 Tua é a glória, Senhor;
 Teu é o domínio, a honra, a força,
 A majestade e o louvor.
+
 Porque teu é tudo
 Quanto há nos céus e na terra;
 Não a nós, só a ti toda a glória;
@@ -5986,12 +5984,13 @@ Não a nós, só a ti seja a glória.
 Não há deus maior,
 Não há deus melhor,
 Não há deus tão grande,
-  Como o nosso Deus.
+Como o nosso Deus.
 
 Criou o céu, criou a terra,
 Criou o sol e as estrelas
 Tudo Ele fez, tudo criou,
 Tudo formou...
+
 Para o seu louvor,
 Para o seu, para o seu,
 Para o seu louvor.
@@ -6041,6 +6040,7 @@ E dessa forma agora salvo estou.
 
 
 →231 Ninguém, só Jesus
+
 No silêncio, na quietude, eu sei,
 Que tu és Deus
 Escondido em tua presença, eu sei,
@@ -6070,6 +6070,7 @@ Quem que pode transformar
 O mais duro coração
 Quem o mundo faz girar
 E me tem em suas mãos
+
 Quem conhece tudo em mim
 E me ama mesmo assim
 Quem controla o mundo aqui
@@ -6127,6 +6128,7 @@ E criaste o que sou,
 E me amas como sou.
 
 →234 Nome Sobre Todo Nome
+
 Abriu mão da sua glória
 E semelhante a um homem
 Se esvaziou, servo tornou.
@@ -6139,6 +6141,7 @@ O exaltou. E Lhe deu o nome
 Que é sobre todo nome
 Nos céus e na terra
 E debaixo da terra
+
 Ao nome de Jesus todo joelho
 Se dobrará. E toda língua
 Confessará que Ele é o Senhor.
@@ -6151,6 +6154,7 @@ Conselheiro, Deus Forte
 Pai da Eternidade, e Príncipe da Paz.
 
 →235 Nos Braços do Meu Pai
+
 Não há lugar melhor, Com tamanha paz,
 Paz igual eu nunca Encontrei jamais;
 É o lugar do meu prazer
@@ -6169,6 +6173,7 @@ Outrora eu era triste
 Sem lugar pra onde ir
 Mas o Pai com seus braços de amor
 Restaurou-me o sorrir
+
 Deu-me parte em sua herança,
 Vestimenta, vinho e pão
 Porque tinha um lugar para mim
@@ -6178,14 +6183,13 @@ No seu coração.
 Senhor, nós clamamos,
 Perdidos estamos
 Precisamos do teu perdão
-Nos arrependemos
-Dos nossos caminhos
+Nos arrependemos dos nossos caminhos
 Nos voltamos pra ti outra vez.
+
 Senhor, nós clamamos,
 Perdidos estamos
 Mude os nossos corações
-Nos arrependemos
-Dos nossos pecados
+Nos arrependemos dos nossos pecados
 Nos voltamos pra ti outra vez
 Nos voltamos!
 
@@ -6195,6 +6199,7 @@ Oh Deus, nós clamamos
 Por tua graça,
 Oh Deus, nós clamamos,
 Vem nos libertar
+
 Oh Deus, nós clamamos outra vez,
 Outra vez.
 
@@ -6216,6 +6221,7 @@ Ele reina antes da fundação do mundo.
 A Terra era sem forma e vazia
 E o Espírito do nosso Deus
 Se movia sobre a face das águas.
+
 Foi Ele quem criou o céu dos céus
 E fez separação das águas,
 Da terra seca.
@@ -6290,15 +6296,18 @@ Compensando as boas obras, condenando os pecados
 Ele é o nosso tremendo Deus;
 
 →239 Nova criatura
+
 A minha vida é tua vida
 Tudo que sou é totalmente teu Senhor
 O meu presente e meu futuro te entreguei
 E o meu passado afoguei
 No mar do esquecimento do Senhor
 Nova criatura eu sou, nova criatura.
-Eu não sou tudo o que o Senhor precisa,
+
+Eu não sou tudo o que o Senhor deseja,
 Ainda não sou tudo aquilo
-Que eu queria ser. Mas uma coisa eu sou,
+Que eu queria ser.
+Mas uma coisa eu sou,
 Não abro mão não,
 Nova criatura sou, nova criatura.
 
@@ -6311,6 +6320,7 @@ Ah! aquele que está em Cristo
 Vive pra Deus sim.
 
 →240 Nova vida
+
 Romperam-se as cadeias
 Quebraram-se os grilhões
 Libertos do pecado E da condenação
@@ -6320,8 +6330,7 @@ Aleluia! nova vida.
 
 O nosso homem velho
 Já ficou para trás
-Foi crucificado
-O corpo do pecado
+Foi crucificado o corpo do pecado
 Morremos com Jesus,
 E com Ele ressurgimos
 Aleluia! nova vida.
@@ -6335,6 +6344,7 @@ Aleluia estamos livres
 Livres da condenação
 Cristo deu-nos nova vida
 E um novo coração
+
 Aleluia, Cristo vive
 Nele nos alegraremos
 Sua graça infinita
@@ -6382,31 +6392,32 @@ Obrigado, obrigado Jesus!
 
 
 →242 Oceanos
- Tua voz me chama sobre as águas
- Onde os meus pés podem falhar
- E ali Te encontro no mistério
- Em meio ao mar, confiarei
+Tua voz me chama sobre as águas
+Onde os meus pés podem falhar
+E ali Te encontro no mistério
+Em meio ao mar, confiarei
 
 [R] Ao Teu nome clamarei
- E além das ondas olharei
- Se o mar crescer
- Somente em Ti descansarei
+E além das ondas olharei
+Se o mar crescer
+Somente em Ti descansarei
 Pois eu sou Teu e Tu és meu
 
 
- Tua graça cobre os meus temores
- Tua forte mão me guiará
- Se estou cercado pelo medo
- Tu és fiel, nunca vais falhar.
+Tua graça cobre os meus temores
+Tua forte mão me guiará
+Se estou cercado pelo medo
+Tu és fiel, nunca vais falhar.
 
- Guia-me para que
- Em tudo em Ti confie
- Sobre as águas eu caminhe
- Por onde quer que chames
- Leva-me mais fundo
- Do que já estive
- E minha fé será mais firme
- Senhor, em Tua presença.
+Guia-me para que
+Em tudo em Ti confie
+Sobre as águas eu caminhe
+Por onde quer que chames
+
+Leva-me mais fundo
+Do que já estive
+E minha fé será mais firme
+Senhor, em Tua presença.
 
 
 
@@ -6446,12 +6457,13 @@ Ao cheiro das águas brotará
 Como planta nova florescerá
 Seus ramos se renovarão
 Não cessarão os seus frutos
-                       e viverá.
+e viverá.
 
 
 
 
 →245 O “EU SOU”
+
 Cristo, a Vida eterna,
 O próprio Deus Triúno,
 Homem se fez pra vida nos dar.
@@ -6486,19 +6498,19 @@ O nosso EU SOU"!
 A tua palavra escondi,
 Guardada no meu coração,
 Pra eu não pecar contra ti,
- Senhor, A tua palavra escondi.
+Senhor, A tua palavra escondi.
 
 Minhas vestes no sangue lavei
-     E das tuas águas bebi,
+E das tuas águas bebi,
 Pra ser uma oferta agradável a ti,
 Minha vida a ti consagrei.
 
 Meus dons e talentos 
 São pra te servir,
 Meus dons preciosos são teus,
-Não vejo razão 
-da minha vida sem ti:
+Não vejo razão da minha vida sem ti:
 Tu és meu Senhor e meu Deus.
+
 Assim como o fogo refina o ouro,
 Vem tua obra em mim completar
 Até que o mundo possa ver
@@ -6521,20 +6533,17 @@ Tua glória em meu rosto brilhar.
 
 
 →247 Oferta de amor
-Venho, Senhor,
-Minha vida oferecer
+Venho, Senhor, minha vida oferecer
 Como oferta de amor e sacrifício
 Quero minha vida a Ti entregar
-Como oferta viva
-Em Teu altar.
+Como oferta viva em Teu altar.
 
 Como oferta viva em Teu altar.
 
-Pois pra te adorar
-Foi que eu nasci
+Pois, pra te adorar, foi que eu nasci
 Cumpre em mim o Teu querer
 Faça o que está em teu coração
-         E que a cada dia,
+E que a cada dia,
 Eu queira mais e mais
 Estar ao teu lado Senhor.
 
@@ -6563,6 +6572,7 @@ Lá na cruz meu passado,
 Minhas dores e aflições
 Lá na cruz minha vitória,
 Nova vida, nova história
+
 Sangue derramado,
 Preço que foi pago por amor a mim.
 Poderes ou palavras,
@@ -6681,12 +6691,11 @@ A obra de ir e pregar.
 →251 Óleo de Alegria
 O Espírito de Deus 
 Nos ungiu pra proclamar
-Boas novas aos quebrantados 
-de coração
+Boas novas aos quebrantados de coração
+
 Nos ungiu para curar 
 E aos cativos libertar
-Ministrar aos que estão tristes 
-em sião
+Ministrar aos que estão tristes em sião
 
 Óleo de alegria!
 Vestes de louvor!
@@ -6698,6 +6707,7 @@ O inverno já passou,
 A primavera já chegou
 Já se houve a voz de Deus 
 como um trovão
+
 Sim, a chuva cairá,
 Em dobro restituirá
 O que semeou com lágrimas colherá
@@ -6797,6 +6807,7 @@ Em Ti me deleitarei.
 Em teus braços eu vou me entregar
 Os meus medos eu
 Deixo aos pés do altar
+
 Todos os planos meus
 Hoje eu entrego a ti
 Toma o teu lugar
@@ -6806,6 +6817,7 @@ Vem sobre nós
 Manda tua chuva nesse lugar
 Em tua presença vou me derramar
 E declarar que és Santo, Deus
+
 O som do Céu vamos ouvir
 Sopra teu vento suave hoje aqui
 Vou declarar o único nome
@@ -6881,6 +6893,7 @@ A terra prometida.
 Venho a Ti, Senhor, muda-me,
 Renova-me pela graça que somente
 Encontrei    em    Ti.
+
 Agora sei que as debilidades
 Que há em mim não prevalecerão
 Pelo poder desse amor.
@@ -6893,8 +6906,8 @@ E me levantarei, como águia voarei,
 Pelo poder desse amor.
 
 Eu quero te ver face a face, oh Senhor,
-E conhecer assim
-Mais de Ti,     em    mim.
+E conhecer assim Mais de Ti, em mim.
+
 Prepara-me, Senhor,
 Pra fazer o teu querer,
 Vivendo cada dia, (Senhor)
@@ -6916,6 +6929,7 @@ Meu Jesus a Ti me achego
 Com temor no coração
 És o meu maior anseio,
 Rei da minha salvação.
+
 Pai, a Ti eu agradeço
 Por tão infinito amor
 Que recebe com carinho
@@ -6925,6 +6939,7 @@ Boa é Tua vontade
 De um onisciente Deus
 Que meus planos sempre estejam
 Conectados com os Teus
+
 Oh, perdoa os meus pecados
 Venha me disciplinar
 Que a pureza de Tua glória
@@ -6934,6 +6949,7 @@ Santo e majestoso Deus,
 Exaltado És Senhor
 Coroado sobre a Terra
 Em Tua glória e esplendor
+
 Teu é todo o domínio,
 Toda honra e poder
 Pelos séculos dos séculos, Amém
@@ -6942,6 +6958,7 @@ Sejas Tu meu pensamento
 Ao dormir e ao acordar
 Dá-me sede da palavra 
 Sempre nela a meditar
+
 Faz de mim pequeno Cristo 
 Digno de ser filho Teu
 Anunciando as boas novas, 
@@ -6951,34 +6968,35 @@ A Ti a honra e a glória
 Pra sempre, Amém.
 
 →258 Ó Santo Espírito
-John W. Peterson
- O Santo Espírito desceu aqui,
- Encheu a todos de poder 
- E o testemunho de fiéis cristãos
- Fez pecadores renascer.
- Fiéis em Cristo sem qualquer 
- temor, Saíram prontos a pregar,
- E conseguiram, mesmo em luta
- e dor, Final vitória alcançar.
+O Santo Espírito desceu aqui,
+Encheu a todos de poder 
+E o testemunho de fiéis cristãos
+Fez pecadores renascer.
+
+Fiéis em Cristo sem qualquer 
+temor, Saíram prontos a pregar,
+E conseguiram, mesmo em luta
+e dor, Final vitória alcançar.
 
 Ó, Santo Espírito, vem nos encher
 Da Tua graça, de amor e do Teu poder!
 Eis nossa prece: vem perto estar!
 Vem Tua igreja aqui reavivar.
- 
- Em tempos de escuridão e dor,
- A fé dos santos se provou.
- Mas em resposta ao real fervor,
- Deus o Espírito enviou.
- Quando implorar por humildade e
- amor, De novo a igreja avançará.
- Irá pregar com destemor e ardor
+
+Em tempos de escuridão e dor,
+A fé dos santos se provou.
+Mas em resposta ao real fervor,
+Deus o Espírito enviou.
+
+Quando implorar por humildade e
+amor, De novo a igreja avançará.
+Irá pregar com destemor e ardor
 Até ver Cristo regressar.
 
 →259 O Senhor Deus está no meio de ti
-   O Senhor Deus está no meio de ti,
-   O Senhor Deus te salva.
-   Sobre ti se alegrará
+O Senhor Deus está no meio de ti,
+O Senhor Deus te salva.
+Sobre ti se alegrará
 E Ele em amor te renovará,
 E deixará sobre ti
 
@@ -6998,7 +7016,7 @@ E sobre mim levanta o seu rosto,
 Pois é dEle que me vem a força;
 
 Não temo mal que possa vir, força não há pra destruir, O amor, a fé
- no coração que do Senhor recebi,
+no coração que do Senhor recebi,
 Pois é dEle que me vem a paz;
 
 Aleluia, aleluia.
@@ -7056,34 +7074,36 @@ Aleluia, aleluia, Aleluia, amém.
 
 
 →262 Ousado Amor
- Antes de eu falar
+Antes de eu falar
 Tu cantavas sobre mim
- Tu tens sido tão, tão bom  pra mim.
- Antes de eu respirar
- Sopraste Tua vida em mim
- Tu tens sido tão, tão bom  pra mim.
+Tu tens sido tão, tão bom  pra mim.
+
+Antes de eu respirar
+Sopraste Tua vida em mim
+Tu tens sido tão, tão bom  pra mim.
 
 Oh, impressionante, infinito
 E ousado amor de Deus
 Oh, que deixa as noventa e nove
 Só pra me encontrar
+
 Não posso comprá-lo, nem merecê-lo
 Mesmo assim se entregou
 Oh, impressionante, infinito
 E ousado amor de Deus
 
- Inimigo eu fui
+Inimigo eu fui
 Mas Teu amor lutou por mim
- Tu tens sido tão, tão bom  pra mim.
- Não tinha valor
+Tu tens sido tão, tão bom  pra mim.
+Não tinha valor
 Mas tudo pagou por mim
- Tu tens sido tão, tão bom  pra mim.
+Tu tens sido tão, tão bom  pra mim.
 
- Traz luz para as sombras
- Escala montanhas pra me encontrar
- Derruba muralhas,
- Destrói as mentiras
- Pra me encontrar.
+Traz luz para as sombras
+Escala montanhas pra me encontrar
+Derruba muralhas,
+Destrói as mentiras
+Pra me encontrar.
 
 
 →263 Pai Abre o Meu Coração
@@ -7131,31 +7151,32 @@ Que a vida lhe seja um eterno sorrir.
 
 
 →266 Parecido Contigo
- Deixa eu ver o que você está fazendo
- Pra eu poder fazer também
- Quero ouvir teu coração construindo
+Deixa eu ver o que você está fazendo
+Pra eu poder fazer também
+Quero ouvir teu coração construindo
 Eu sei, tem algo novo saindo a luz.
 
- Como não perceber
- Que a expressão que você
- Espera que eu seja,
- É pra quem me ver poder te ver em mim
- Que eu venha mostrar esse amor
- Na mesma medida que você me amou
- Enquanto estou indo,
- Através de mim seja conhecido.
- Você apareceu como eu
- E eu quero ser como você é
+Como não perceber
+Que a expressão que você
+Espera que eu seja,
+É pra quem me ver poder te ver em mim
+
+Que eu venha mostrar esse amor
+Na mesma medida que você me amou
+Enquanto estou indo,
+Através de mim seja conhecido.
+Você apareceu como eu
+E eu quero ser como você é
 
 Santo, venha transformar o que sou
 Num filho seu
 Santo, estar perto de ti me deixou
 Mais parecido contigo.
 
- Deixa eu ver o que você está fazendo
- Pois se eu não te ver nada posso fazer
- Sentindo o teu sentimento
- Eu irei me mover com o que te move
+Deixa eu ver o que você está fazendo
+Pois se eu não te ver nada posso fazer
+Sentindo o teu sentimento
+Eu irei me mover com o que te move
 
 Jesus, quem tenho eu além de ti?
 Senhor, pra onde irei além de ti?
@@ -7270,26 +7291,28 @@ Nunca andei sobre as águas
 E nem vi o mar se abrir, mas,
 Tua Palavra me dá forças
 Pra andar sobre o mar.
- Então me lembro do momento
- Em que eu te encontrei
- Meu pecado teria me matado
+
+Então me lembro do momento
+Em que eu te encontrei
+Meu pecado teria me matado
 E hoje livre estou
 
- Tu és meu tudo, tu és o motivo
- Porque eu me prostro aos teus pés
- Pra onde eu irei sem ti, Deus,
- Perto de mim, perto de mim.
+Tu és meu tudo, tu és o motivo
+Porque eu me prostro aos teus pés
+Pra onde eu irei sem ti, Deus,
+Perto de mim, perto de mim.
 
 Tua palavra diz que os anjos
 Lá no Céu festejam ao ver
 Um perdido renascendo,
 Indo para a tua luz.
- Então me lembro dos teus olhos
- E tua graça sem fim
- Todo o preço foi pago pelo sangue
- Que verteu na cruz.
 
- Tu és o meu tudo, tu és o motivo.
+Então me lembro dos teus olhos
+E tua graça sem fim
+Todo o preço foi pago pelo sangue
+Que verteu na cruz.
+
+Tu és o meu tudo, tu és o motivo.
 
 
 
@@ -7315,6 +7338,7 @@ Quem deu crédito quem ouviu
 Nenhuma aparência nos atraiu
 Como um de quem escondem o rosto
 Ele foi levantado
+
 Todavia, ao Senhor agradou moê-lo, fazendo-o enfermar
 Levou o pecado de muitos
 Com os malfeitores foi contado
@@ -7338,6 +7362,7 @@ Tu és O Caminho aonde vou.
 →272 Pise nas águas
 Jesus   nos permite ir
 Caminhar de encontro a Ele sobre as águas
+
 No mar,  sem nenhum temor
 Vá em frente um pouco mais
 Tudo logo vai passar
@@ -7347,6 +7372,7 @@ Pise nas águas sem temer,
 Coloque sua fé em ação
 Mesmo se você naufragar
 Ele te estende a mão
+
 Vem sobre as águas caminhar
 Sempre olhando para o Pai
 Você vai conseguir chegar com Jesus.
@@ -7381,8 +7407,9 @@ Você vai conseguir chegar com Jesus.
 É só continuar e não deixar
 Que as lágrimas embacem o olhar
 E não deixar que a tristeza
-Tire a força do caminhar, continuar
-Olhando nos seus olhos,
+Tire a força do caminhar,
+
+Continuar olhando nos seus olhos,
 Enxergando a verdade:
 Que nada e ninguém pode impedir.
 
@@ -7390,6 +7417,7 @@ Jesus, plano melhor,
 Nunca chega atrasado;
 Sua hora é perfeita,
 Sua maneira, a mais linda
+
 Seja feita a sua vontade,
 Eu só quero sua vontade,
 Assim na terra como no céu.
@@ -7416,12 +7444,9 @@ Assim na terra como no céu.
 
 
 →274 Poderoso Deus
-Ao que está assentado
-No trono
-E ao cordeiro
-Seja o louvor.
-Seja a honra
-Seja a glória
+Ao que está assentado no trono
+E ao cordeiro seja o louvor.
+Seja a honra, seja a glória
 Seja o domínio
 Pelos séculos dos séculos.
 
@@ -7464,6 +7489,7 @@ Ah! Como é tremendo o teu poder, Senhor,
 Como é grande o teu amor:
 Amor tão grande, amor tão brando,
 Amor que arde o coração.
+
 É como fogo; tu és como luz,
 Tu és vida, meu Jesus,
 Coloca em meus lábios poesias de amor.
@@ -7487,7 +7513,6 @@ Senhor Jesus.
 
 
 →277 Por amor
-https://youtu.be/xQlnKJi_Pq8
 O teu precioso sangue me comprou
 E agora livre do pecado eu sou.
 Tua majestade está dentro de mim.
@@ -7502,6 +7527,7 @@ Por amor, Deus deu
 Seu filho único, Jesus
 Pra quem o crer,
 A vida eterna conceder.
+
 Em meu lugar,
 A sua vida entregou,
 Me amou, amou,
@@ -7538,14 +7564,14 @@ Me deste perdão
 Por vezes sem fim respondestes a mim
 Comigo vem
 
- Eu preciso só  de  Ti
+Eu preciso só  de  Ti
 Meu princípio meu pra sempre
-  Eu preciso só  de  ti,  de ti
+Eu preciso só  de  ti,  de ti
 
 Por amor cantarei
 Com os anjos louvarei
 Santo Santo é o Senhor
-  Rei da glória Redentor
+Rei da glória Redentor
 
 Por amor o pai orou
 Seja feito o teu querer
@@ -7566,12 +7592,13 @@ A ti,   a ti, a ti
 Deus enviou seu filho amado
 Pra nos salvar    e perdoar
 Na cruz morreu  por meus pecados
-   Mas ressurgiu
+Mas ressurgiu
 E vivo com o Pai está.
 
 [R] Porque Ele vive,
 Posso crer no amanhã
 Porque Ele vive,  temor não há
+
 Mas eu bem sei, eu sei
 Que a minha vida
 Está nas mãos de meu Jesus
@@ -7603,13 +7630,13 @@ Que vivo está.
 
 
 →280 Por Quem Tú És
- Eis me aqui na presença
- A pensar no que tens feito em mim
- Te busquei, te encontrei
- Só pra ouvir tua doce voz
-Jesus, Santo, Justo
-Sempre és fiel
- Salva, cura, redime o meu ser.
+Eis me aqui em tua presença
+A pensar no que tens feito em mim
+Te busquei, te encontrei
+Só pra ouvir tua doce voz, Jesus
+
+Santo, Justo, Sempre és fiel
+Salva, cura, redime o meu ser.
 
 Eu te adorarei por quem tu és
 Jesus.
@@ -7637,9 +7664,11 @@ No qual nosso rei é Jesus.
 Ele abriu mão de Sua glória
 Sangrou no madeiro por mim
 Me conectou, salvou, curou.
+
 Ele me deu um destino
 Uma capa e um pouco de vinho
 Ele me deu unção, cajado e pão
+
 Pôs um anel em meu dedo
 Me tirou o medo
 Novas sandálias pra suportar o ide
@@ -7651,10 +7680,10 @@ E eu me despedi dos meus pais
 Eu queimei minhas carroças
 E eu afundei meus barcos no cais.
 
- Pra onde eu irei,
- Se eu não tenho pra onde voltar?
- Só tenho Você, Deus
- Palavra de vida eterna
+Pra onde eu irei,
+Se eu não tenho pra onde voltar?
+Só tenho Você, Deus
+Palavra de vida eterna
 
 Sou, sou totalmente Teu
 Fui encontrado pelo Teu amor
@@ -7712,10 +7741,10 @@ Teus grandes feitos proclamar!
 
 
 →285 Promessas
- Deus de Abraão
+Deus de Abraão
 Sei que nunca quebrará
 A aliança que me fez
- Provado já está Que o que prometeu
+Provado já está Que o que prometeu
 Ele cumprirá.
 
 Mesmo em meio ao vento
@@ -7729,10 +7758,10 @@ Do nascer do sol ao anoitecer
 Eu Te lou__va___rei
 Fiel Tu és, Senhor a mim
 
-    Tudo passará
+Tudo passará
 Mas Tua palavra
 Permanecerá
-    A história já provou
+A história já provou
 O Teu poder, Senhor
 Fiel é o Teu amor
 
@@ -7767,7 +7796,7 @@ Para honrar-te, ó Deus!
 
 Purifica-me, limpa-me, Senhor,
 E livra-me de tudo que impede o fluir,
-     Purifica-me, limpa-me, Senhor,
+Purifica-me, limpa-me, Senhor,
 E livra-me de tudo que impede o fluir
 Do teu amor.
 
@@ -7775,6 +7804,7 @@ Do teu amor.
 A minha alma estava longe
 Do caminho do céu
 Eu era um pobre, perdido, pecador
+
 Mas Jesus já transformou
 Minhas trevas em luz
 Quando Ele estendeu
@@ -7793,14 +7823,13 @@ A Sua mão para mim.
 Agora me regozijo 
 Desde que o aceitei.
 E na tempestade eu posso sossegar
+
 Pois com Ele sou liberto
 Do perigo e do mal
 Desde que estendeu
 A Sua mão para mim.
 
 →288 Quanto mais o sirvo
-https://youtu.be/2YL4rLYGF-E
-https://youtu.be/6DCp0fA7PS8
 Desde que segui a Cristo, 
 desde que, pela fé,
 Entreguei a minha vida: 
@@ -7809,7 +7838,9 @@ Mais doce Ele é.
 
 [R] Quanto mais O sirvo,
 mais doce Ele é,
-Quanto mais O amo, aumenta até 
+Quanto mais O amo,
+aumenta até
+
 O amor que eu sinto,
 na vida de fé;
 Quanto mais O sirvo,
@@ -7825,6 +7856,7 @@ Mais doce Ele é.
 Ver “Meu amigo, seja bem vindo”.
 
 →290 Quão grande é o meu Deus
+
 Com esplendor de um Rei
 Em majestade e luz
 Faz a Terra se alegrar
@@ -7858,32 +7890,32 @@ Quão grande é o meu Deus.
 
 
 →291 Quão lindo esse nome é
- No início eras a palavra
- Um com Deus, o altíssimo
- O mistério de Tua glória
- Cristo, em Ti se revelou
+No início eras a palavra
+Um com Deus, o altíssimo
+O mistério de Tua glória
+Cristo, em Ti se revelou
 
 [R] Oh, quão lindo esse nome é
 Oh, quão lindo esse nome é
 O nome de Jesus, meu Rei
+
 Oh, quão lindo esse nome é
 Maior que tudo ele é
 Oh, quão lindo esse nome é
 O nome de Jesus
 
- Deixou o céu para buscar-nos
- Veio pra nos resgatar
- Amor maior que o meu pecado
- Nada vai nos separar
+Deixou o céu para buscar-nos
+Veio pra nos resgatar
+Amor maior que o meu pecado
+Nada vai nos separar
 
 [R] Oh, quão maravilhoso é…
 
-A morte venceste
-O véu Tu rompeste
+A morte venceste, O véu Tu rompeste
 A tumba vazia agora está
-O céu Te adora
-Proclama Tua glória
+O céu Te adora, Proclama Tua glória
 Pois ressuscitaste e vivo está
+
 És invencível, inigualável
 Hoje e pra sempre reinarás
 Teu é o reino Tua é a glória
@@ -7922,6 +7954,7 @@ E nada vai ocupar Teu lugar em mim
 Eu desconheço um outro amor assim
 
 →293 Que a Paz de Deus Reine
+
 Pai da vida, atrai-me
 Meu coração está em Ti
 A carreira vou correr
@@ -7940,7 +7973,7 @@ Deus, tenho fome
 Por mais de Ti
 Tua verdade
 Arde dentro de mim
-  Espírito Santo
+Espírito Santo
 Vem me  encher
 
 Com Tua vi - da
@@ -7984,6 +8017,7 @@ E então, vem cantar!
 
 
 →295 Quebrantado
+
 Eu olho para cruz,
 E para a cruz eu vou
 Do Seu sofrer participar
@@ -7992,9 +8026,9 @@ Meu Salvador Na cruz mostrou
 O amor do Pai, O justo Deus.
 
 [R] Pela cruz me chamou
- Gentilmente me atraiu e eu
- Sem palavras me aproximo
- Quebrantado por Seu amor.
+Gentilmente me atraiu e eu
+Sem palavras me aproximo
+Quebrantado por Seu amor.
 
 Imerecida vida De graça recebi
 Por Sua cruz Da morte me livrou.
@@ -8003,9 +8037,9 @@ Eu estava condenado
 Mas agora pela cruz
 Eu fui reconciliado.
 
- Impressionante é o Seu amor
- Me redimiu e me mostrou
- O quanto é fiel.
+Impressionante é o Seu amor
+Me redimiu e me mostrou
+O quanto é fiel.
 
 
 
@@ -8032,9 +8066,9 @@ Meu Salvador Na cruz mostrou
 O amor do Pai, O justo Deus.
 
 [R] Pela cruz me chamou
- Gentilmente me atraiu e eu
- Sem palavras me aproximo
- Quebrantado por Seu amor.
+Gentilmente me atraiu e eu
+Sem palavras me aproximo
+Quebrantado por Seu amor.
 
 Imerecida vida De graça recebi
 Por Sua cruz Da morte me livrou.
@@ -8043,9 +8077,9 @@ Eu estava condenado
 Mas agora pela cruz
 Eu fui reconciliado.
 
- Impressionante é o Seu amor
- Me redimiu e me mostrou
- O quanto é fiel.
+Impressionante é o Seu amor
+Me redimiu e me mostrou
+O quanto é fiel.
 
 
 
@@ -8061,6 +8095,7 @@ Eu fui reconciliado.
 
 
 →296 Quem dá a paz
+
 Quem dá a paz, Jesus,
 Quem dá o amor, Jesus,
 Ele é o Cordeiro que morreu
@@ -8176,6 +8211,7 @@ Quem sou eu
 Pra que o Deus de toda terra
 Se preocupe com meu nome
 Se preocupe com minha dor?
+
 Quem sou eu
 Pra que a estrela da manhã
 Ilumine o caminho deste duro coração.
@@ -8189,6 +8225,7 @@ Eu sou como um vento passageiro
 Que aparece e vai embora
 Como onda no oceano 
 Assim como o vapor
+
 E ainda escutas quando eu chamo
 Me sustentas quando eu clamo
 Me dizendo quem eu sou, eu sou Teu!
@@ -8196,6 +8233,7 @@ Me dizendo quem eu sou, eu sou Teu!
 Quem sou eu pra ser visto com amor
 Mesmo em meio ao pecado 
 Tu me fazes levantar
+
 Quem sou eu
 Pra que a voz que acalma o mar
 E acaba com a tormenta
@@ -8217,6 +8255,7 @@ Eu quero estar contigo
 Vivendo em tua presença
 Comendo em tua mesa
 Rodeado por tua glória
+
 Em tua presença eu desejo sempre estar
 Eu só quero estar,
 Eu só quero estar em ti.
@@ -8247,6 +8286,7 @@ Quero amar-te… Quero servir-te…
 →303 Quero Subir
 Quero subir ao monte santo de Sião
 E entoar um novo cântico ao meu Deus.
+
 Mais que palavras
 Minha vida eu quero entregar
 Purifica o meu coração para entrar
@@ -8255,8 +8295,10 @@ Contemplar Tua grandeza.
 
 Te adoro, Senhor, 
 Em espírito e em verdade,
-Me prostro aos teus pés na beleza
-  da santidade, Te dou meu louvor,
+Me prostro aos teus pés
+Na beleza da santidade,
+
+Te dou meu louvor,
 que seja um cheiro suave
 E um som agradável a Ti,
 Pois digno és.
@@ -8265,6 +8307,7 @@ Pois digno és.
 
 
 →304 Quero te obedecer
+
 Nova Criatura sou
 Teu sangue me lavou
 Tenho vestes de louvor
@@ -8280,7 +8323,7 @@ Tua palavra me leva a Tua vontade
 
 →305 Recomeçar
 https://youtu.be/zn4szsgxp0M
- É hora de não olhar pra trás
+É hora de não olhar pra trás
 Só olhar pra Cristo e nada mais
 Renunciar a velha estrada
 Que outrora você andava.
@@ -8298,10 +8341,10 @@ Seguir seus passos e ir avante.
 →306 Rede ao Mar
 Não podia entender que Deus ia me querer
 Lançou a rede ao mar e querendo me pegar
-  Pegou meu coração.
+Pegou meu coração.
 
 Hoje eu estou aqui, pois Deus me escolheu
-    Agora posso entender
+Agora posso entender
 E o mesmo eu vou fazer
 Vou lançar a minha rede ao mar.
 
@@ -8333,6 +8376,7 @@ De todas as nações.
 
 
 →307 Redenção
+
 Vivo hoje estou aqui
 Pois ele decidiu me amar
 E então eu posso livre andar.
@@ -8343,6 +8387,7 @@ Sem culpa então me tornou.
 O passado já não mais
 Tem poder, pois novo sou
 Nele vou viver, posso amar
+
 Toda morte e o sofrer
 Não me assustarão jamais
 Pois foi ele quem venceu
@@ -8385,27 +8430,25 @@ Pois os teus atos de justiça
 Se fizeram manifestos.
 
 →309 Rei de Majestade
-Ronaldo Bezerra - 
-Hillsong – King of Majesty
-     Tu sabes te amo
-     E sabes que quero
-     Conhecer-te mais
-     Cada vez mais e mais
+Tu sabes te amo
+E sabes que quero
+Conhecer-te mais
+Cada vez mais e mais
 
-     Palavras sentidas
-     Não são perdidas
-     Eu vivo para Ti,
-     E me dedico Ti
+Palavras sentidas
+Não são perdidas
+Eu vivo para Ti,
+E me dedico Ti
 
-     Rei de Majestade
-     Tenho um desejo
-     Estar contigo, meu Senhor
-     Estar contigo, meu Senhor
+Rei de Majestade
+Tenho um desejo
+Estar contigo, meu Senhor
+Estar contigo, meu Senhor
 
-     Jesus Tu és      o meu salvador
+Jesus Tu és      o meu salvador
 
-     E pra sempre e sempre
-     Te dou o meu louvor
+E pra sempre e sempre
+Te dou o meu louvor
 
 
 →310 Rei dos reis
@@ -8436,6 +8479,7 @@ E para sempre Tu reinarás.
 
 
 →311 Reina
+
 Reina sobre o meu ser
 Reina sobre o meu viver
 E sobre o meu lar
@@ -8443,10 +8487,10 @@ E sobre o meu lar
 O motivo da canção,
 Que estou a cantar
 
-  És a vida, És a Glória
-  O Cordeiro de Deus Pai
-  O Pão Vivo, Sangue Puro
-  A Estrela da manhã
+És a vida, És a Glória
+O Cordeiro de Deus Pai
+O Pão Vivo, Sangue Puro
+A Estrela da manhã
 
 És Digno de Glória e de Louvor
 Cordeiro, Bendito, Tu Senhor.
@@ -8466,10 +8510,10 @@ Cordeiro, Bendito, Tu Senhor.
 
 
 →312 Reina em Mim
- Sobre toda a terra Tu és o Rei
- Sobre as montanhas e o pôr-do-sol
- Uma coisa só, meu desejo é
- Vem reinar em mim Senhor.
+Sobre toda a terra Tu és o Rei
+Sobre as montanhas e o pôr-do-sol
+Uma coisa só, meu desejo é
+Vem reinar em mim Senhor.
 
 [R] Reina em mim com o Teu poder
 Sobre a escuridão,
@@ -8477,12 +8521,12 @@ Sobre os sonhos meus
 Tu és o Senhor de tudo que sou
 Vem reinar em mim, Senhor.
 
- Sobre o meu pensar,
- Tudo que eu falar
- Faz-me refletir
- A beleza que há em Ti
- Tu és para mim mais que tudo aqui
- Vem reinar em mim, Senhor.
+Sobre o meu pensar,
+Tudo que eu falar
+Faz-me refletir
+A beleza que há em Ti
+Tu és para mim mais que tudo aqui
+Vem reinar em mim, Senhor.
 
 →313 Reina hoje
 Ver “Aquele que está com Cristo”
@@ -8518,6 +8562,7 @@ Porque Ele é bom.
 Porque a sua misericórdia
 Dura para sempre,
 Rendei graças ao Senhor.
+
 Porque a sua misericórdia
 Dura para sempre,
 Rendei graças ao Senhor.
@@ -8552,7 +8597,7 @@ Põe em mim teu coração.
 Porque tudo que há dentro de mim
 Necessita ser mudado Senhor
 Porque tudo que há dentro do meu coração
-   Necessita mais de Ti.
+Necessita mais de Ti.
 
 →317 Ressuscitou
 Ressuscitou! Ressuscitou!
@@ -8587,14 +8632,18 @@ Deus eu ouço a tua voz
 Chamando o meu nome
 Para entrar em comunhão,
 Pois tenho sede e fome
-Da Tua presença é o que mais quero ter
-Da tua presença é o meu maior prazer
+
+Da Tua presença
+É o que mais quero ter
+Da tua presença
+É o meu maior prazer
 Te quero Deus,  te quero Deus.
 
 Eu não posso deixar de te amar
 Eu não posso deixar de adorar
 Eu não posso deixar de desejar
 Tua presença
+
 O Pão Vivo que desce do céu
 A palavra mais doce que o mel
 É o Teu Rio de Vida, que me sustenta.
@@ -8620,16 +8669,19 @@ Te quero Deus.
 
 
 →319 Rompendo em fé
-Cada vez que a minha fé é provada.
-   Tu me dás a chance
+
+Cada vez que a minha fé é provada
+Tu me dás a chance
 De crescer um pouco mais
 As montanhas e vales,
 Desertos e mares que atravesso
 Me levam pra perto de Ti.
+
 Minhas provações não são
 Maiores que o meu Deus
 E não vão me impedir de caminhar.
-    Se diante de mim
+
+Se diante de mim
 Não se abrir o mar
 Deus vai me fazer andar
 Por sobre as águas.
@@ -8640,6 +8692,7 @@ Do teu poder.
 Rompendo em fé
 Com ousadia vou mover
 No sobrenatural
+
 Vou lu---tar e vencer,
 Vou plantar e colher.
 A cada dia vou viver
@@ -8659,7 +8712,7 @@ Sacrifícios de amor,
 É o que temos pra te oferecer
 Cada dia, ó Senhor.
 
-  Rei Jesus és digno de louvor,
+Rei Jesus és digno de louvor,
 Rei Jesus és digno de amor,
 Nos prostramos aos teus pés;
 Adoramos, adoramos, te adoramos Rei Jesus.
@@ -8687,18 +8740,19 @@ Todos hão de te adorar e te bendizer.
 
 
 →322 Salvo Pela Graça
- Justificado eu fui
- Santificado eu sou
- Glorificado serei,
- Através de Cristo.
- Fui livre da culpa do pecado
- Sou livre do poder do pecado
- E da presença do pecado,
- Livre serei.
+Justificado eu fui
+Santificado eu sou
+Glorificado serei,
+Através de Cristo.
 
- De glória em glória, de fé em fé.
- Graça sobre graça
- Graça sobre graça
+Fui livre da culpa do pecado
+Sou livre do poder do pecado
+E da presença do pecado,
+Livre serei.
+
+De glória em glória, de fé em fé.
+Graça sobre graça
+Graça sobre graça
 
 Salvo,    Salvo pela graça
 Mediante a fé em Cristo
@@ -8729,11 +8783,12 @@ Não vem de mim, é dom de Deus.
 
 
 →323 Santo Espírito
- Não há nada igual
+
+Não há nada igual
 Não há nada melhor
 A que se compara à esperança viva
 Tua presença.
- Eu provei e vi
+Eu provei e vi
 O mais doce amor
 
 Que liberta o meu ser
@@ -8745,9 +8800,9 @@ Vem inundar, encher esse lugar
 É o desejo do meu coração
 Sermos inundados por Tua glória, Senhor
 
-       Vamos provar
+Vamos provar
 Quão real é Tua presença
-       Vamos provar 
+Vamos provar 
 A Tua glória e bondade… (Senhor.)
 
 →324 Santo e ungido
@@ -8766,6 +8821,7 @@ Há de ter um lugar
 Onde o tempo há de parar,
 Onde a paz se faz real
 E o irreal amor não há, não.
+
 Sei que há, pois Deus o diz
 E eu não posso duvidar,
 Mesmo que não possa imaginar,
@@ -8777,8 +8833,10 @@ Pois Cristo vem me buscar.
 
 Há de ter um lugar
 Onde lágrimas não rolarão,
-Fracassados, dias maus, da vida em caos,
+Fracassados, dias maus,
+Da vida em caos,
 Jamais verei, pois,
+
 No lugar, santo lugar,
 Onde o inimigo ausente estará,
 Face a face a Cristo verei
@@ -8833,16 +8891,17 @@ Para nos perdoar os pecados
 E nos purificar de toda injustiça.
 
 →328 Se eu me humilhar
-   Neste lugar    Tu És real
-   Vou me entregar   totalmente
+Neste lugar    Tu És real
+Vou me entregar   totalmente
 O Teu toque abriu os olhos do meu coração
-   Eu posso enxergar e entender
+Eu posso enxergar e entender
 
 Se eu eu me humilhar
 Diante do Teu Altar
 E sacrificar aquilo que me custar
 Tu inclinarás os Teus ouvidos
 Ao meu clamor.
+
 Mais vale um dia no centro do Teu querer
 Que toda a vida sem jamais Te conhecer
 Tu És minha fonte, minha colheita,
@@ -8868,13 +8927,13 @@ Te exaltamos, Te exaltamos
 Te exaltamos, Ó, Senhor.
 
 →330 Segurança
-Igreja Batista Nova Jerusalém
-Entrego a   Ti     a minha oração, pois Tu 
-és Senhor
+
+Entrego a Ti a minha oração,
+Pois Tu és Senhor
 Fonte de águas vivas que há em mim
 És a minha esperança, eu descanso em Ti
-Posso confiar   que a vitória   está por 
-vir
+Posso confiar
+Que a vitória está por vir
 
 Seguro estou em Ti, Tu és o Deus de amor
 Não temerei o mal, Tu és o grande Eu Sou
@@ -8892,8 +8951,7 @@ Tua palavra, ó Deus, que me fará vencer
 Seja engrandecido,
 Ó Deus da minha vida,
 Tu És o Deus da minha salvação.
-És a minha Rocha,
-A minha segurança,
+És a minha Rocha, A minha segurança,
 Meus lábios sempre Te exaltarão.
 
 Aleluia, Te louvo, Pois sei
@@ -8932,8 +8990,8 @@ Sem tremer, se chorar.
 Diante do trono Senhor,
 Quero levar minha oferta de amor.
 Diante do trono Senhor,
-Quero levar
-Meu sacrifício de louvor.
+Quero levar meu sacrifício de louvor.
+
 As minhas mãos levantar,
 Tua beleza então contemplar.
 Com meus lábios declarar
@@ -8958,13 +9016,13 @@ Senhor estou aqui.
 
 
 →335 Senhor de Tudo
-Hillsong Lord of All
-  Cantai louvores ao Santo Deus
-  Sua vontade quero realizar.
-  Dos céus Ele veio a todos nós salvar.
-  No poder do Seu nome firmado estou.
-  Salvação do mundo vamos proclamar,
-  Vivemos para o reino de Deus.
+
+Cantai louvores ao Santo Deus
+Sua vontade quero realizar.
+Dos céus Ele veio a todos nós salvar.
+No poder do Seu nome firmado estou.
+Salvação do mundo vamos proclamar,
+Vivemos para o reino de Deus.
 
 Brilhe a luz, seja intensa luz.
 
@@ -8974,13 +9032,13 @@ Nosso Deus é Rei, hoje e até o fim.
 Em sua força permaneço sempre firme,
 Pois de tudo Ele é Senhor.
 
-  Cante, cante, vamos declarar.
+Cante, cante, vamos declarar.
 Cante, cante, vamos declarar.
 Cante, cante, cante Jesus é Senhor.
 
-  A luz de Deus brilha através de mim
-  Diferente sou, agora quero ver
-  O mundo inteiro vir a Te conhecer.
+A luz de Deus brilha através de mim
+Diferente sou, agora quero ver
+O mundo inteiro vir a Te conhecer.
 
 
 
@@ -9009,11 +9067,13 @@ Por causa do teu grande amor.
 
 Tu és Senhor do universo,
 És o Filho de Deus
-Tu és o Cordeiro santo
+Tu és o Cordeiro Santo
 Que morreu numa cruz
-Teu sangue é precioso, venceste a morte
-Estás assentado ao lado de Deus,
-Deus Pai.
+
+Teu sangue é precioso,
+Venceste a morte
+Estás assentado
+Ao lado de Deus, Deus Pai.
 
 
 
@@ -9023,10 +9083,10 @@ Deus Pai.
 
 
 →337 Senhor e Rei
-    Acima de todos    Acima de tudo
-    Está o Senhor entronizado
+Acima de todos    Acima de tudo
+Está o Senhor entronizado
 Os anjos e os homens, Os céus e a terra
-  Montanhas e vales declaram quem tu és
+Montanhas e vales declaram quem tu és
 
 Tu és Senhor e Rei
 Governas sobre o Universo
@@ -9037,12 +9097,13 @@ Prostrados aos teus pés
 Erguemos o teu santo nome
 Em adoração   Nos entregamos a Ti
 Toma o teu lugar e habita entre nós
-   Oh Santo Deus!
+Oh Santo Deus!
 
 →338 Senhor, Leva-me
 Senhor, leva-me aos teus átrios,
 Ao lugar santo, Ao altar de bronze;
 Senhor, teu rosto eu quero ver.
+
 Passa-me da multidão
 Por onde o sacerdote entra;
 Tenho fome de justiça
@@ -9063,24 +9124,24 @@ Toca-me, limpa-me, eis-me aqui.
 
 
 →339 Senhor, Te Quero
- Eu te busco, te procuro, ó Deus,
- No silêncio Tu estás
- Eu te busco, toda hora
- Espero em Ti, revela-te a mim,
- Conhecer-te eu quero mais.
+Eu te busco, te procuro, ó Deus,
+No silêncio Tu estás
+Eu te busco, toda hora
+Espero em Ti, revela-te a mim,
+Conhecer-te eu quero mais.
 
 [R] Senhor Te quero,
- Quero ouvir Tua voz
- Senhor te quero mais
- Quero Tocar-Te,
- Tua face eu quero ver
- Senhor Te quero mais.
+Quero ouvir Tua voz
+Senhor te quero mais
+Quero Tocar-Te,
+Tua face eu quero ver
+Senhor Te quero mais.
 
- Prosseguindo para o alvo eu vou
- A coroa conquistar
- Vou lutando, nada pode
- Me impedir, eu vou te seguir
- Conhecer-te eu quero mais.
+Prosseguindo para o alvo eu vou
+A coroa conquistar
+Vou lutando, nada pode
+Me impedir, eu vou te seguir
+Conhecer-te eu quero mais.
 
 
 
@@ -9118,6 +9179,7 @@ O sorriso é constante
 Em quem segue a Jesus
 Os seus passos são firmes
 Porque anda na luz
+
 O seu coração sempre alegre está
 Porque a paz de Jesus
 O crente vive a gozar.
@@ -9207,10 +9269,10 @@ Somos um     em    Ti.
 
 
 →344 Sonda-me, usa-me
+
 Sonda-me, Senhor e me conheces
 Quebranta o meu coração
-Transforma-me conforme
-A Tua Palavra
+Transforma-me conforme a Tua Palavra
 E enche-me, até que em mim
 Se ache só a Ti, então
 Usa-me, Senhor! Usa-me.
@@ -9219,6 +9281,7 @@ Como um farol que brilha à noite
 Como ponte sobre as águas
 Como abrigo no deserto
 Como flecha que acerta o alvo
+
 Eu quero ser usado
 Da maneira que te agrade
 Em qualquer hora
@@ -9284,14 +9347,15 @@ Traz-me junto ao Teu coração
 
 
 →346 Só Tu És Santo + Uma coisa + Deixa queimar
- Tudo está preparado aqui
- A casa e o meu coração também
- Tu és o único motivo
- Que me fez chegar
- Os filhos já estão chegando aqui
- Agora, somos dois ou três ou mais
- Encontre meu coração
- Disposto a queimar por ti
+Tudo está preparado aqui
+A casa e o meu coração também
+Tu és o único motivo
+Que me fez chegar
+
+Os filhos já estão chegando aqui
+Agora, somos dois ou três ou mais
+Encontre meu coração
+Disposto a queimar por ti
 
 Todos os versos e canções
 Que eu conseguir cantar
@@ -9312,26 +9376,26 @@ Uma coisa vou pedir
 Deixa eu ficar neste lugar
 Todos os dias da minha vida
 
- É aqui que eu me sinto muito bem
+É aqui que eu me sinto muito bem
 E não há outro lugar melhor
 
- Nós adoramos Aquele que faz
- Vento aos Teus anjos
- Nós adoramos Aquele que faz
- Fogo aos Teus ministros
+Nós adoramos Aquele que faz
+Vento aos Teus anjos
+Nós adoramos Aquele que faz
+Fogo aos Teus ministros
 
- Nós somos Teus ministros
- Não negue o Seu fogo
- Nós somos Teus ministros
- Queremos queimar!
+Nós somos Teus ministros
+Não negue o Seu fogo
+Nós somos Teus ministros
+Queremos queimar!
 
 Deixa queimar
- Deixa queimar, deixa queimar
- Deixa queimar, deixa queimar
- Deixa queimar, deixa queimar
+Deixa queimar, deixa queimar
+Deixa queimar, deixa queimar
+Deixa queimar, deixa queimar
 
-  Ouvi o meu Senhor bater na porta
- E o meu coração queimou
+Ouvi o meu Senhor bater na porta
+E o meu coração queimou
 
 Eu não vou parar
 Gastarei minha vida aos teus pés
@@ -9340,15 +9404,16 @@ Eu tenho fogo cerrado em meu peito
 Que não me dá descanso,
 Eu não tenho descanso.
 
- Lá rá lá lá, rá lá lá rá
- Lá rá lá lá rá lá lá lá
- Lá rá lá, lá rá rá rá rá lá
+Lá rá lá lá, rá lá lá rá
+Lá rá lá lá rá lá lá lá
+Lá rá lá, lá rá rá rá rá lá
 
 
 
 
 
 →347 Sou um novo ser
+
 Nessa vida eu procurei
 Coisas que pudessem me fazer feliz
 Mas me entristeci por nada encontrar
@@ -9358,7 +9423,9 @@ Que estava só e me perdia no pecar.
 
 Quando a Jesus me entreguei
 E ele do mal me libertou
-Das trevas retirou-me E na luz agora vou
+Das trevas retirou-me
+E na luz agora vou
+
 Completou o que faltava
 Deu motivo pra viver
 Jesus Cristo transformou-me
@@ -9368,6 +9435,7 @@ Louvo a Deus, hoje sou feliz
 Tenho um grande amigo para confiar
 Estou mais forte
 E posso as lutas enfrentar
+
 É de Deus todo o meu ser
 E pra Ele agora sempre vou viver
 E aos outros quero sempre anunciar.
@@ -9389,12 +9457,9 @@ Superabundante graça.
 Graça, graça, superabundante graça
 Superabundante graça
 
-Somos filhos da graça
-Divina sem par
-Frutos do amor
-Que nos veio alcançar
-Graça que livra
-Da morte e pecado
+Somos filhos da graça divina sem par
+Frutos do amor que nos veio alcançar
+Graça que livra da morte e pecado
 Por ela nós somos reconciliados
 Por ela nós somos reconciliados
 
@@ -9416,18 +9481,6 @@ Glória, eu sempre canto
 Glória, pra sempre, sempre
 Glória a ti, Senhor.
 
-Tal é a paz (versão em Lá)
-Tal é a paz
-Que já me invade o coração
-Tal é o amor
-Que só me faz agradecer,
-E adorar e exaltar e bendizer
-Aquele que se entregou por nós.
-
-Glória, eu sempre canto
-Glória, pra sempre, sempre
-Glória a ti, Senhor.
-
 →350 Te agradeço
 Por tudo o que tens feito
 Por tudo que vais fazer
@@ -9436,12 +9489,10 @@ Eu quero te agradecer
 Com todo meu ser.
 
 Te agradeço meu Senhor     (2x)
-Te agradeço por me
-Libertar e salvar
+Te agradeço por me libertar e salvar
 Por Ter morrido em meu lugar
-Te agradeço,
-Jesus te agradeço
-Eu te agradeço,     te agradeço.
+Te agradeço, Jesus te agradeço
+Eu te agradeço, te agradeço.
 
 
 
@@ -9483,11 +9534,9 @@ Que rega a terra.
 Sim, eu quero Deus te conhecer.
 
 →353 Te exaltamos
-Te exaltamos,
-Ó, Cordeiro Santo de Deus
+Te exaltamos, Ó, Cordeiro Santo de Deus
 E declaramos as tuas maravilhas
-Teu Espírito se manifestará
-Nesses dias
+Teu Espírito se manifestará nesses dias
 Trazendo vitória às nossas vidas.
 
 Quem intentará
@@ -9527,16 +9576,17 @@ Já foi liberada a nós.
 
 
 →354 Te louvarei
- Perto quero estar
- Junto aos teus pés
- Pois prazer maior não há
- Que me render e te adorar.
- Tudo que há em mim
- Quero te ofertar
- Mas ainda é pouco, eu sei
- Se comparado ao que ganhei.
- Não sou apenas servo
- Teu amigo me tornei.
+Perto quero estar
+Junto aos teus pés
+Pois prazer maior não há
+Que me render e te adorar.
+
+Tudo que há em mim
+Quero te ofertar
+Mas ainda é pouco, eu sei
+Se comparado ao que ganhei.
+Não sou apenas servo
+Teu amigo me tornei.
 
 Te louvarei
 Não importam as circunstâncias
@@ -9583,6 +9633,7 @@ Envolve o que sou no Teu amor
 Fonte de Graça sem fim
 Transforma tudo o que há em mim
 Leva os pecados dá a salvação
+
 Me envolva em Teu amor
 Me envolva em Teu amor
 
@@ -9609,14 +9660,15 @@ Me envolva em Teu amor
 
 
 →356 Tempo de Deus
- Deus tem um plano em tua vida
- O teu desejo vai cumprir
- Deleita-te somente nEle
- E no tempo certo tudo acontecerá.
- A tua bênção já está pronta
- É bem melhor do que se crê
- Deleita-te somente nEle
- E no tempo certo tudo acontecerá.
+Deus tem um plano em tua vida
+O teu desejo vai cumprir
+Deleita-te somente nEle
+E no tempo certo tudo acontecerá.
+
+A tua bênção já está pronta
+É bem melhor do que se crê
+Deleita-te somente nEle
+E no tempo certo tudo acontecerá.
 
 A Deus pertence o tempo
 E a ti só cabe esperar
@@ -9655,12 +9707,13 @@ E você vai poder entrar.
 →357 Tempo de Festa
 Este é um tempo de festa
 Este é um tempo de louvor
-Pra celebrar aquele que primeiro
-Nos amou
+Pra celebrar
+Aquele que primeiro nos amou
+
 Transformou nosso choro em riso
 Nos deu novas vestes de louvor
-Pra celebrar aquele que primeiro
-Nos amou.
+Pra celebrar
+Aquele que primeiro nos amou.
 
 Nos tirou do império das trevas
 E nos deu perdão e paz
@@ -9669,8 +9722,9 @@ Nos fez felizes demais.
 
 Festa, alegria
 É uma dança de celebração
-Ao único    digno, Jesus
+Ao único digno, Jesus
 Seu nome é Jesus.
+
 Festa, alegria
 É um povo que se reúne aqui
 Diante do trono do Rei,
@@ -9685,8 +9739,9 @@ Gritamos de alegria, ô  ô  ô
 
 Festa, alegria
 É uma dança de celebração
-Ao único    digno, Jesus,
+Ao único digno, Jesus,
 Seu nome é Jesus
+
 Festa, alegria
 É um povo que se reúne aqui
 Diante do trono do Rei,
@@ -9719,25 +9774,27 @@ Seu nome é Jesus.
 
 
 →358 Terra Fértil
+
 Eu quero entrar, nos átrios do Pai
-E regozijar me em Tua presença
-E ali me prostrarei com toda
-Reverência
+E regozijar-me em Tua presença
+E ali me prostrarei com toda reverência
 E entregarei minha humilde oferta
-Meu coração minha vida, meu ser, te 
-entregarei
+Meu coração minha vida, meu ser,
+Te entregarei
 
-  Colher o que há de bom em Tua
-Palavra
+Colher o que há de bom em Tua Palavra
 E descansar em Teus braços de amor
-Quero Teu arado, preparando minha vida
-Revolva com vontade o mais profundo de mim
-Tire as pedras e os espinhos,  terra fértil
- quero ser
+Quero Teu arado
+Preparando minha vida
+Revolva com vontade
+O mais profundo de mim
 
-  Pra Teu louvor, faz me Senhor
+Tire as pedras e os espinhos,
+Terra fértil quero ser
+
+Pra Teu louvor, faz me Senhor
 Eu quero ser usado sem medida
-  Prepara me Senhor, capacita me Senhor
+Prepara me Senhor, capacita me Senhor
 Te entrego a direção da minha vida
 
 
@@ -9790,29 +9847,32 @@ Nasce um novo canto dentro do meu ser.
 
 
 →360 Teu amor não falha
- Nada vai me separar
- Mesmo se eu me abalar
- Teu amor não falha
- Mesmo sem merecer
- Tua graça se derrama sobre mim
- Teu amor não falha
 
- Tu és o mesmo pra sempre
- Teu amor não muda
- Se o choro dura uma noite
- A alegria vem pela manhã
- Se o mar se enfurecer
- Eu não tenho o que temer
- Porque eu sei que me amas
- Teu amor não falha
+Nada vai me separar
+Mesmo se eu me abalar
+Teu amor não falha
+Mesmo sem merecer
+Tua graça se derrama sobre mim
+Teu amor não falha
 
- Se o vento é forte
- E profundo, o mar
- Tua presença vem me amparar
- Pois Teu amor não falha,
- Difícil é o caminhar
- Nunca pensei Que eu fosse alcançar
- Mas teu amor não falha.
+Tu és o mesmo pra sempre
+Teu amor não muda
+Se o choro dura uma noite
+A alegria vem pela manhã
+
+Se o mar se enfurecer
+Eu não tenho o que temer
+Porque eu sei que me amas
+Teu amor não falha
+
+Se o vento é forte
+E profundo, o mar
+Tua presença vem me amparar
+Pois Teu amor não falha,
+
+Difícil é o caminhar
+Nunca pensei que eu fosse alcançar
+Mas teu amor não falha.
 
 Tu fazes que tudo
 Coopere para o meu bem.
@@ -9870,14 +9930,15 @@ Todo ser que vive
 Louve ao nome do Senhor
 Toda criatura se derrame
 Aos Seus pés.
+
 Ao som da Sua voz
 O universo se desfaz
 Não há outro nome 
 Comparado ao grande Eu Sou
 
- E mesmo sendo pó
+E mesmo sendo pó
 Com tudo que há em mim confessarei
- Que céus e terra passarão
+Que céus e terra passarão
 Mas o Teu nome é eterno
 
 Todo joelho dobrará
@@ -9891,9 +9952,10 @@ Teu santo nome.
 Teus olhos revelam que eu
 Nada posso esconder
 Que não sou nada sem Ti, oh fiel Senhor
+
 Tudo sabes de mim
 Quando Sondas o meu coracão
- tudo podes ver, bem dentro de mim
+tudo podes ver, bem dentro de mim
 Leva minha vida, a uma só verdade
 Que quando me sondas, nada posso ocultar
 
@@ -9949,9 +10011,9 @@ Com o meu coração te adorar
 Tudo que há em mim, Te dar louvor
 Só a   Ti   adoro, meu Senhor
 
-  Toma o meu coração e toda a minha alma
+Toma o meu coração e toda a minha alma
 Eu vivo só pra Ti
-  Sempre que eu respirar
+Sempre que eu respirar
 Cada vez que eu acordar
 É o Teu querer em mim.
 
@@ -9998,10 +10060,11 @@ Só vou contar com Tua graça.
 
 
 →368 Transfiguração
- Dos céus Deus falou
+Dos céus Deus falou
 E o véu se rasgou
 O invisível Deus
 Revelou-se em Jesus
+
 A imagem divinal
 Tão sobrenatural
 O verbo se encarnou
@@ -10065,7 +10128,7 @@ Ie, Ie, Iehovah, Ie, Ie, Iehovah.
 Ie Ie, Iehovah, Ie, Ie, Iehovah.
 
 →371 Trono de louvor
- Jesus, Te entronizamos,
+Jesus, Te entronizamos,
 Declaramos que és Rei (que és Rei)
 Tu estás no meio de nós,
 Te exaltamos com louvores.
@@ -10096,6 +10159,7 @@ Fortalecido eu sou. Tua graça.
 Quando eu sou fraco, é que sou forte.
 
 →373 Tua Graça Me Basta
+
 Nas noites mais sombrias,
 Na escuridão da alma,
 Tua graça me basta.
@@ -10110,12 +10174,10 @@ Na imensidão do mundo,
 No abismo mais profundo,
 Tua graça me basta.
 
-Aperfeiçoa-me,
-Molda meu coração,
+Aperfeiçoa-me, molda meu coração,
 Ouça o som que flui
 Da minha adoração.
-Suba perante Ti,
-Este sincero amor,
+Suba perante Ti, Este sincero amor,
 Seja a expressão
 De todo o meu louvor.
 
@@ -10131,13 +10193,13 @@ De todo o meu louvor.
 
 
 →374 Tua Graça Me Basta
- Eu não preciso ser reconhecido por ninguém
- A minha Glória é fazer com que conheçam a Ti
- E que diminua eu pra que Tu cresças se___nhor mais e mais
+Eu não preciso ser reconhecido por ninguém
+A minha Glória é fazer com que conheçam a Ti
+E que diminua eu pra que Tu cresças se___nhor mais e mais
 
- E como os serafins que encobrem o rosto ante a Ti
- Escondo o rosto para que vejam Tua face em mim
- E que diminua eu pra que Tu cresças se___nhor mais e mais
+E como os serafins que encobrem o rosto ante a Ti
+Escondo o rosto para que vejam Tua face em mim
+E que diminua eu pra que Tu cresças se___nhor mais e mais
 
 No santo dos  santos a fumaça me esconde
 Só teus olhos me veem
@@ -10227,26 +10289,25 @@ Abraça-me, Senhor,   não me deixe ir
 Eu quero estar em Teus braços de amor
 
 
- Contigo eu quero estar
- Te dar o meu Louvor
- Preciso desse amor
- Jesus, És tudo para mim
+Contigo eu quero estar
+Te dar o meu Louvor
+Preciso desse amor
+Jesus, És tudo para mim
 
- Meu coração Te entreguei
- Pois deste a vida por mim
- Tua graça é tudo que eu preciso
- Jesus é tudo para mim
+Meu coração Te entreguei
+Pois deste a vida por mim
+Tua graça é tudo que eu preciso
+Jesus é tudo para mim
 
 E agora, que perto estás
 Tudo é diferente
 Muito diferente, Senhor
 Já não sou mais o mesmo
 Minha vida mudou
-Contigo quero estar
-Para sempre
+Contigo quero estar para sempre
 
- Em Tua presença me esconderei
- Em tempo e fora de Tempo eu te louvarei
+Em Tua presença me esconderei
+Em tempo e fora de Tempo eu te louvarei
 
 
 
@@ -10285,12 +10346,12 @@ Não posso mais viver sem Ti, meu ser entrego, usa-me
 Minha vontade resistir, tudo por Ti
 
 →379 Tudo é Teu
-  De todo lugar perdidos virão
+De todo lugar perdidos virão
 Em uma só voz livres vamos cantar
 Levaste a cruz, morreste e vivo estás
 Meu Deus, meu tudo sempre te darei
 
- Mandaste Jesus do céu até nós
+Mandaste Jesus do céu até nós
 A todos livrou, sempre se ouvirá
 Busquei a verdade
 E a Ti eu encontrei
@@ -10298,7 +10359,7 @@ Meu Deus, meu tudo sempre Te darei
 
 Jesus, por Ti eu viverei
 Nunca me envergonharei. Ô ô ô!
-  Meu ser e todo meu louvor
+Meu ser e todo meu louvor
 Teu, Teu, tudo é Teu!
 Teu, Teu, tudo é Teu!
 
@@ -10319,6 +10380,7 @@ Eis que tudo novo se fez,
 Tudo se fez novo
 Novo céu e nova terra, posso ver...
 Novo céu e nova terra, posso ver...
+
 Todo mal ficou pra traz, Tudo se fez novo
 O meu Deus é o Deus que tudo novo faz
 Ele é Deus
@@ -10335,6 +10397,7 @@ Eis que tudo novo se fez,
 Tudo se fez novo
 Eu pra sempre filho de Deus vencedor...
 Eu pra sempre filho de Deus vencedor...
+
 Todo mal ficou pra traz, Tudo se fez novo
 Eu com Deus e Deus comigo infinitamente
 Eu com Deus e Deus comigo infinitamente.
@@ -10427,6 +10490,7 @@ Adorar-Te (adorar-Te)
 Com meu coração (com meu coração)
 Sim, louvar-Te (sim louvar-Te)
 Com paixão (toda minha paixão)
+
 Vou buscar-Te (vou buscar-Te)
 Enquanto eu viver (enquanto eu viver)
 Vou seguir-Te (vou seguir-Te)
@@ -10441,6 +10505,7 @@ Eu me curvo (eu me curvo)
 Te exalto, meu Rei (Te exalto meu Rei)
 Em teus braços (em teus braços)
 Me entregarei (me entregarei)
+
 Ao teu trono (ao teu trono)
 Me achegarei (me achegarei)
 E pra sempre ( e pra sempre)
@@ -10471,8 +10536,8 @@ Claro, tão claro, o teu brilho é maior
 Que a luz do sol
 Que a luz do sol
 
- Teu brilho é maior que o sol
- Tu és o leão de Judá
+Teu brilho é maior que o sol
+Tu és o leão de Judá
 
 Leão da tribo de Judá (escape)
 Leão da tribo de Judá
@@ -10485,6 +10550,7 @@ Tu és Santo (Tu és Santo)
 Poderoso (Poderoso)
 Tu és digno (Tu és digno)
 De todo o louvor (De todo o louvor)
+
 Eu te sigo (Eu te sigo)
 Eu te ouço (Eu te ouço)
 Para sempre (Para sempre)
@@ -10499,6 +10565,7 @@ Ele é meu Senhor, Ele é o Rei dos reis
 Ele é o Pai de amor, Poderoso Deus
 É o Emanuel, Ele é o Grande Eu Sou
 Ele é o cordeiro que me salvou
+
 Ele vivo está, Ele ressurgiu
 Sempre reinará, Ele sempre existiu
 Ele é o Alfa, o Ômega, o início e o fim
@@ -10516,7 +10583,7 @@ Só por Ele eu viverei.
 →387 Tu és soberano
 Tu és soberano sobre a terra,
 Sobre os céus, Tu és Senhor Absoluto.
-   Tudo que existe e acontece
+Tudo que existe e acontece
 Tu o sabes muito bem, Tu és tremendo.
 
 E apesar dessa glória que tens
@@ -10609,6 +10676,7 @@ Tu não és um Deus criado
 Por nossas mãos.
 Nem um Deus que é dependente
 De um homem mortal.
+
 Nada que possamos dar-Te
 É tão bom para Ti
 Tu és Deus, e serás pra sempre assim.
@@ -10623,6 +10691,7 @@ Só o Teu poder é eterno,
 Ninguém detém
 Ao Teu nome seja a glória
 Honra e poder
+
 Tudo o que podemos dar-Te
 És digno de receber
 Tu és Deus, e serás pra sempre assim.
@@ -10638,6 +10707,7 @@ Uma coisa eu peço ao Senhor
 E a buscarei, e a buscarei
 Que meus pés estejam em Tua casa
 Para sempre, para sempre.
+
 Seu amor me sustenta
 Nas minhas fraquezas
 Nas minhas fraquezas
@@ -10702,6 +10772,7 @@ Ele veio em minha vida,
 Num dia especial,
 Trocou meu coração
 Por um outro sem igual
+
 E esta é a razão
 Por que eu digo que
 Vamos adorar a Deus.
@@ -10756,6 +10827,7 @@ Esta casa será chamada
 Casa de oração
 Esta casa será chamada
 Casa de louvor
+
 E todo o joelho se dobrará
 E toda a língua confessará
 Que Jesus Cristo é o Senhor!
@@ -10790,7 +10862,7 @@ O tesouro maior terá.
 →399 Vem louvar
 Hoje é tempo de louvar a Deus
 E em nós agora habita o seu Espírito
-   A    B      E (A E)  A     B    E(A E)
+A    B      E (A E)  A     B    E(A E)
 Então é só cantar, e a Cristo exaltar
 E sua glória encherá este lugar.
 
@@ -10799,7 +10871,7 @@ Vem louvar (Sim vem louvar)
 
 No meio dos louvores Deus habita
 E é seu prazer cumprir o que nos diz
-   A    B      E (A E)  A     B    E(A E)
+A    B      E (A E)  A     B    E(A E)
 Então é só cantar, e a Cristo exaltar
 E sua glória encherá este lugar…
 
@@ -10809,14 +10881,16 @@ Pai, sei que os Teus olhos
 Estão sobre a Terra a procurar
 Alguém que Te adore em espírito
 Alguém que Te adore em verdade
-Pai, como achasTe a davi
+
+Pai, como achas-te a Davi
 Vem e derrama sobre mim
 O óleo precioso da unção
 E me faz segundo o Teu coração
 
 Ache em mim verdadeiro adorador
-Com vesTes de louvor
-Quero conTemplar Teu rosto, ó Pai
+Com vestes de louvor
+Quero contemplar Teu rosto, ó Pai
+
 Vem ungir minha oferta de amor
 Dou a ti meu coração
 Meu Deus, meu Pai
@@ -10827,15 +10901,6 @@ Ache em mim um verdadeiro adorador
 
 É meu prazer Te adorar, Senhor
 É meu prazer ministrar louvor ôôôôô...
-
-Ache em mim verdadeiro adorador
-Com vesTes de louvor
-Quero conTemplar Teu rosto, ó Pai
-Vem ungir minha oferta de amor
-Dou a ti meu coração
-Meu Deus, meu Pai
-Ache em mim um verdadeiro adorador
-
 
 
 
@@ -10864,12 +10929,13 @@ Ache em mim um verdadeiro adorador
 
 
 →401 Veste a Armadura
-    Dele é o poder a glória
+
+Dele é o poder a glória
 O domínio está em tuas mãos
-   Teu povo assim declara: Tu és o Rei!
-   Teu brilho jamais se apaga
+Teu povo assim declara: Tu és o Rei!
+Teu brilho jamais se apaga
 A vitória nasce em tuas mãos
-   A Bíblia assim declara: Jesus!
+A Bíblia assim declara: Jesus!
 
 Veste a armadura segura está
 Vai pra batalha vitória alcançar
@@ -10877,12 +10943,12 @@ Vença com Cristo e não olhe para trás
 Deus contigo vai.  (1ª)
 Nosso Deus é mais. (2ª)
 
-   O inimigo e seus anjos rebeldes
+O inimigo e seus anjos rebeldes
 Querem nosso exército parar
 Com setas, ciladas e dardos, nos derrotar
-   Mas o povo está revestido
+Mas o povo está revestido
 De toda armadura de Deus
-   Novos e velhos marchando rumo ao lar.
+Novos e velhos marchando rumo ao lar.
 
 Couraça da justiça, escudo da fé
 Espada afiada, palavra de Deus
@@ -11058,8 +11124,8 @@ E ver também que Tu a renovaste no louvor.
 Por isso, ó Deus Pai,  sem impedimento algum,
 Adoramos o Teu filho que nos tem feito um.
 
-        Tem nos feito um só corpo e um só Espírito
-        Como Tu ó Pai e Cristo sois um,
+Tem nos feito um só corpo e um só Espírito
+Como Tu ó Pai e Cristo sois um,
 
 
 
@@ -11089,12 +11155,10 @@ E seu teu perdão
 
 Me leva ao teu coração
 
-Mostrou a vida
-Abriu meus olhos
+Mostrou a vida, abriu meus olhos
 Então te dou meu louvor
 Eu te dou tudo que sou
-Mostrou-me a vida
-Abriu os meus olhos
+Mostrou-me a vida, abriu os meus olhos
 Essa e a verdade amor maior não há
 
 Na escuridão a luz de Deus brilhara
