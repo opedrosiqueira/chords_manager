@@ -3232,6 +3232,7 @@ voltar!
 Oh meu criador lembrei-me
 Do teu grande amor
 Ele extravasa em mim causando fervor,
+
 Minha mocidade vai algum dia terminar,
 Enquanto houver força em mim
 Meu amanhã será linda recordação,
@@ -3276,6 +3277,7 @@ Nos tem alimentado
 Para nossa alegria.
 
 →165 Galileu
+
 Deixou Sua glória, foi por amor, foi por amor
 E o seu sangue, derramou
 Que grande amor.
@@ -3491,6 +3493,7 @@ Pois grandioso és, Deus
 Bem maior que o que possa me abalar
 Tu és a Torre Forte, Rei meu
 Perto assim eternamente quero estar
+
 Que seja bem mais de Ti, e menos de mim
 Que cresças e eu diminua
 Sempre mais de Ti e menos de mim
@@ -3887,6 +3890,7 @@ Cristo me comprou,
 Seu servo agora eu sou.
 
 →194 Lance Sua Rede
+
 Nosso Deus é poderoso pra fazer
 Infinitamente mais do que tudo
 Do que tudo que pedimos,
@@ -4175,9 +4179,11 @@ Maranata ora, vem Senhor Jesus.
 
 →209 Maravilhado
 Em meio a tantas dores, Quase perco a visão
-Mas fico maravilhado
-Com o poder da sua luz, Então cante assim:
-Eu vejo a sua luz, vejo suas maravilhas, Eu vejo o seu poder, vejo cores em vida
+Mas fico maravilhado com o poder da sua luz,
+Então cante assim:
+
+Eu vejo a sua luz, vejo suas maravilhas,
+Eu vejo o seu poder, vejo cores em vida
 Eu vivo em meio ao caos
 Mas prossigo em sua luz.
 
@@ -4206,6 +4212,7 @@ Maravilhosa graça,
 Teu amor que não falha
 Tomou o meu lugar
 Levou a minha cruz
+
 Teu sangue me salvou,
 Minha dívida pagou
 Jesus eu canto
@@ -4600,6 +4607,7 @@ Para o seu, para o seu,
 Para o seu louvor.
 
 →230 Ninguém, só Jesus
+
 No silêncio, na quietude, eu sei,
 Que tu és Deus
 Escondido em tua presença, eu sei,
@@ -4698,6 +4706,7 @@ Conselheiro, Deus Forte
 Pai da Eternidade, e Príncipe da Paz.
 
 →234 Nos Braços do Meu Pai
+
 Não há lugar melhor, Com tamanha paz,
 Paz igual eu nunca Encontrei jamais;
 É o lugar do meu prazer
@@ -4730,6 +4739,7 @@ Precisamos do teu perdão
 Nos arrependemos
 Dos nossos caminhos
 Nos voltamos pra ti outra vez.
+
 Senhor, nós clamamos,
 Perdidos estamos
 Mude os nossos corações
@@ -4851,6 +4861,7 @@ Aleluia estamos livres
 Livres da condenação
 Cristo deu-nos nova vida
 E um novo coração
+
 Aleluia, Cristo vive
 Nele nos alegraremos
 Sua graça infinita
@@ -4979,8 +4990,7 @@ Meus dons e talentos
 São pra te servir,
 Meus dons preciosos são teus,
 
-Não vejo razão
-da minha vida sem ti:
+Não vejo razão da minha vida sem ti:
 Tu és meu Senhor e meu Deus.
 Assim como o fogo refina o ouro,
 Vem tua obra em mim completar
@@ -5000,6 +5010,7 @@ Pois pra te adorar
 Foi que eu nasci
 Cumpre em mim o Teu querer
 Faça o que está em teu coração
+
 E que a cada dia,
 Eu queira mais e mais
 Estar ao teu lado Senhor.
@@ -5912,6 +5923,7 @@ Mais doce Ele é.
 Ver “Meu amigo, seja bem vindo”.
 
 →289 Quão grande é o meu Deus
+
 Com esplendor de um Rei
 Em majestade e luz
 Faz a Terra se alegrar
@@ -6089,10 +6101,10 @@ Me redimiu e me mostrou
 O quanto é fiel.
 
 →295 Quem dá a paz
+
 Quem dá a paz, Jesus,
 Quem dá o amor, Jesus,
-Ele é o Cordeiro que morreu
-Em meu lugar.
+Ele é o Cordeiro que morreu em meu lugar.
 Divino amor, Jesus, eterno Rei, Jesus,
 Somente a ele toda honra devo dar.
 
@@ -6293,6 +6305,7 @@ Ide, fazei discípulos
 De todas as nações.
 
 →306 Redenção
+
 Vivo hoje estou aqui
 Pois ele decidiu me amar
 E então eu posso livre andar.
@@ -6506,6 +6519,7 @@ A tua presença me basta
 Te quero Deus.
 
 →318 Rompendo em fé
+
 Cada vez que a minha fé é provada
 Tu me dás a chance
 De crescer um pouco mais
@@ -7154,6 +7168,7 @@ Que rega a terra.
 Sim, eu quero Deus te conhecer.
 
 →352 Te exaltamos
+
 Te exaltamos,
 Ó, Cordeiro Santo de Deus
 E declaramos as tuas maravilhas
@@ -7263,6 +7278,7 @@ Festa, alegria
 É uma dança de celebração
 Ao único digno, Jesus,
 Seu nome é Jesus
+
 Festa, alegria
 É um povo que se reúne aqui
 Diante do trono do Rei,
@@ -8106,9 +8122,10 @@ O óleo precioso da unção
 E me faz segundo o Teu coração
 
 Ache em mim verdadeiro adorador
-Com vesTes de louvor
+Com vestes de louvor
 Quero conTemplar Teu rosto, ó Pai
 Vem ungir minha oferta de amor
+
 Dou a ti meu coração
 Meu Deus, meu Pai
 Ache em mim um verdadeiro adorador
@@ -8268,6 +8285,7 @@ Mostrou a vida
 Abriu meus olhos
 Então te dou meu louvor
 Eu te dou tudo que sou
+
 Mostrou-me a vida
 Abriu os meus olhos
 Essa e a verdade amor maior não há
@@ -8331,6 +8349,7 @@ Acharás também lugar,
 Sim, na vinha do Senhor.
 
 → HC 291 A mensagem da cruz
+
 Rude cruz se erigiu,
 Dela o dia fugiu
 Como emblema de vergonha e dor
@@ -8365,6 +8384,7 @@ E com Ele no lar
 Uma parte da glória hei de ter.
 
 → HC 467 Sobre as ondas do mar
+
 Oh! Por que duvidar
 Sobre as ondas do mar
 Quando Cristo o caminho abriu?
@@ -8440,6 +8460,7 @@ E, no porvir, oh que doce esperança
 Desfrutarei do teu rico favor!
 
 → HCC 052 Grandioso és tu
+
 Senhor meu Deus,
 Quando eu maravilhado,
 Contemplo a tua imensa criação
@@ -8466,6 +8487,7 @@ E quando, enfim,
 Jesus vier em glória
 E ao lar celeste
 Então me transportar,
+
 Adorarei, prostrado e para sempre:
 Grandioso és tu,
 Meu Deus, hei de cantar.
@@ -8481,6 +8503,7 @@ Graça! Que maravilhosa graça!
 É imensurável e sem fim.
 É maravilhosa, é tão grandiosa,
 É suficiente para mim.
+
 É maior que a minha iniqüidade,
 É revelação do amor do Pai.
 O nome de Jesus engrandecei
@@ -8507,6 +8530,7 @@ Deixa o Salvador, com o seu amor
 Te ajudar, te guiar;
 Deixa o Salvador, com o seu amor
 Te ajudar, te guiar;
+
 Oh, abre teu coração,
 Aceita o seu perdão;
 Deixa o Salvador,
@@ -8616,6 +8640,7 @@ E cantarei que me fizeste bem!
 Como agradecer a Jesus o que fez por mim?
 Bênçãos sem medida
 Vêm provar o seu amor sem fim.
+
 Nem anjos podem expressar
 A minha eterna gratidão.
 Tudo o que sou e o que vier a ser
@@ -8635,6 +8660,7 @@ Ouvi contar a história
 De Jesus, o Rei da glória
 Que do céu desceu e aqui viveu
 Porque me quis salvar
+
 Ouvi do sofrimento
 Que ele padeceu morrendo
 Arrependi-me e aceitei-o como Salvador.
@@ -8650,6 +8676,7 @@ Jesus aqui curava
 Seu poder e amor mostrava
 Aleijados Cristo fez andar
 E aos cegos deu visão
+
 Clamei “Oh Cristo cura
 Meu espírito em amargura”
 Minh’alma Ele então livrou, E deu-me salvação.
@@ -8658,6 +8685,7 @@ Ouvi do lar glorioso
 Que Jesus meu Rei bondoso
 Preparou no céu E um dia ali
 Com Ele habitarei
+
 E no celeste coro
 Cantarei a linda história
 Ao meu Senhor e Salvador Pra sempre louvarei.
@@ -8667,6 +8695,7 @@ Quem irá aos campos trabalhar
 E a semente santa semear
 Lembra-te de quem levou
 Uma cruz onde expirou
+
 Toma tua cruz também, Renuncia tudo e vem
 Segue o Mestre com amor
 Semeando com fervor.
@@ -8675,6 +8704,7 @@ Fala, fala e não te cales
 Leve a cruz da redenção
 Cristo espera que tu fales
 Ou as pedras clamarão.
+
 Fala, fala e não te cales
 Deixa agora os teus temores
 Vai com fé aos pecadores
@@ -8683,7 +8713,9 @@ Proclamando a salvação.
 Da mensagem sê tu portador
 As ovelhas que não têm pastor
 Eis as multidões sem Deus
-Perecendo sem Jesus Ergue-te sem demorar
+Perecendo sem Jesus
+
+Ergue-te sem demorar
 Pois o Sol vai declinar
 Fala agora, fala irmão
 Leve alguém à salvação.
@@ -8747,6 +8779,7 @@ Este mundo jamais
 Poderá me afastar
 Dos tesouros celestiais
 Que eu vou receber.
+
 Minha firme esperança
 Está no meu novo lar;
 Sou herdeiro com Cristo,
@@ -8763,6 +8796,7 @@ Ao passar pelo rio,
 Nada mais temerei;
 Nem pecados nem tristezas
 Eu ali sofrerei.
+
 Oh, que glória tão sublime
 Quando eu subir para os céus!
 Cantarei a linda história
@@ -8853,6 +8887,7 @@ Toma-me, não sou mais meu
 Faz-me ser um servo Teu
 Quero junto a ti ficar
 Para o teu amor jorrar
+
 Faz-me ser um servo Teu
 Faz-me ser um servo Teu.
 
@@ -8940,6 +8975,7 @@ Num instante se apagou.
 De Jesus, que está no ar
 E deixe do seu rosto toda
 Lágrima tirar
+
 Para transmitir, sempre a sorrir
 A gloriosa luz.
 Proclame a alegria de Jesus!
