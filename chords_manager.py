@@ -1,5 +1,7 @@
 import re
 
+"""extrai acordes de um arquivo de cifras. cria um arquivo com os acordes encontrados e outro apenas com as letras das músicas"""
+
 chords = set()
 
 
