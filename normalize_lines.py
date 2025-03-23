@@ -2,6 +2,9 @@ import re
 import unicodedata
 import sys
 
+'''
+This script reads lines from a file or stdin, normalizes them to PascalCase, stripping accents and removing non letter, and prints them to stdout or a file.
+'''
 
 def to_pascal_case(phrase: str):
     words = phrase.lower().split()

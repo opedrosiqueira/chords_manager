@@ -6,7 +6,7 @@ coloca cada estrofe em uma linha, com os acordes em cima das letras e os versos 
 
 if __name__ == "__main__":
     input_file = input("input file (cifras.txt): ") or "cifras.txt"
-    output_file = input("output file (cifrasComprimidas.txt): ") or "cifrasComprimidas.txt"
+    output_file = input(f"output file ({input_file}Comprimidas.txt): ") or f"{input_file}Comprimidas.txt"
     with open(input_file, encoding="utf8") as file:
         origin = file.readlines()
         newer = []
