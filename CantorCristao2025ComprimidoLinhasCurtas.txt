@@ -1,6 +1,5 @@
 →001 Antífona
 
-
 1. A Ti, ó Deus, fiel e bom Senhor.|
 
 Eterno Pai, Supremo Benfeitor,|Nós, 
@@ -74,7 +73,6 @@ amor.
 
 →005 Presença Divina
 
-
 1. Onipotente Rei, aqui presente sê|
 
 No teu poder;|Em teu excelso amor 
@@ -111,7 +109,6 @@ nos-ás, ao céu nos levarás,|A
 glória nos darás Contigo aí.
 
 →006 Glória ao Senhor
-
 
 1. A nosso Pai do céu|tributa, 
 
@@ -153,7 +150,6 @@ Eternamente ali,|em canto abrasador,
 céus!
 
 →007 Maravilhas Divinas
-
 
 1. Ao Deus de amor e de imensa 
 
@@ -219,7 +215,6 @@ Espírito, glória dai.
 
 →009 Santo
 
-
 1. Santo! Santo! Santo! Deus 
 
 Onipotente!|Cedo de manhã 
@@ -267,7 +262,6 @@ Deus, supremo Criador.
 
 →010 Auxílio Divino
 
-
 1. Santo Deus, vem inflamar|Nossos 
 
 débeis corações;|Vem as trevas 
@@ -284,7 +278,6 @@ culto a celebrar;|Vem, oh, vem-nos
 revestir|De fervor pra Te louvar!
 
 →011 Ao Deus Trino
-
 
 1. Ó Deus, bom Pai e Benfeitor,|A 
 
@@ -322,7 +315,6 @@ bênçãos, lá dos altos céus,|A todos
 nós, os filhos teus.
 
 →012 Louvamos
-
 
 1. Louvamos, louvamos, Senhor e 
 
@@ -381,7 +373,6 @@ amor.
 
 →014 O Deus de Abraão
 
-
 1. Ao Deus de Abraão louvai,|Do 
 
 vasto céu Senhor,|Eterno e poderoso 
@@ -431,7 +422,6 @@ sempre engrandecer|Meu Redentor.
 
 →015 Exultação
 
-
 1. A Deus demos glória, com grande 
 
 fervor;|Seu Filho bendito por nós 
@@ -477,7 +467,6 @@ glória dos céus.
 
 →016 Vinde Adorar
 
-
 1. Oh! Vinde adorar o excelso e bom 
 
 Deus,|Eterno Senhor da terra e dos 
@@ -500,7 +489,6 @@ terra e no mar;|As gotas de orvalho,
 constantes seu grande Autor.
 
 →017 O Amor de Deus
-
 
 1. Decorridas eras são,|Desde que 
 
@@ -537,7 +525,6 @@ mesmo é;|Vida, vista, salvação,|
 Obtêm-se pela fé.
 
 →018 Amor Sem Igual
-
 
 1. Oh! Não tens ouvido do amor sem 
 
@@ -594,7 +581,6 @@ Por fé no Senhor, como teu Salvador,
 
 →019 Boa Nova
 
-
 1. Alegre nova nos chegou:|O grande 
 
 Deus assim amou|A todo o mundo 
@@ -631,7 +617,6 @@ tornar feliz|A cada povo e seu país,
 |Com sua proteção!
 
 →020 Amor Perene
-
 
 1. Amavas-me, Senhor,|não tendo a 
 
@@ -692,7 +677,6 @@ amor superno!|Meu Deus, que amor!|
 
 →021 Louvor Ao Pai e Ao Filho
 
-
 1. Do mundo Deus se condoeu|De tal 
 
 maneira que lhe deu|Por Salvador o 
@@ -730,7 +714,6 @@ Filho dai!
 
 →022 Amor Sublime
 
-
 1. Qual ave que, buscando os céus,|
 
 O mundo deixa e seus troféus,|Minha 
@@ -767,7 +750,6 @@ o teu amor!|Minha alma adora-te,
 Senhor!
 
 →023 Deus, Fonte da Vida
-
 
 1. Ó Deus do céu, da terra e mar,|
 
@@ -819,7 +801,6 @@ vida consagrar,|Pois tudo dás.
 
 →024 Deus É Amor
 
-
 1. Deus é amor. A sua graça|
 
 Conquistou meu coração;|Concedeu-me 
@@ -858,7 +839,6 @@ Deus é amor, sim, Deus é amor.
 
 →025 Amor
 
-
 1. Que grande amor, excelso amor,|
 
 Que Cristo nos mostrou!|Pra se 
@@ -889,7 +869,6 @@ nos vedado ver;|Mas Cristo em breve
 voltará,|E nos fará saber.
 
 →026 Rei Excelso
-
 
 1. Cantai, que o Salvador chegou!|
 
@@ -930,7 +909,6 @@ excelso Rei,|E lhe obedecerão,
 
 →027 Natal
 
-
 1. Eis dos anjos a harmonia,|Cantam 
 
 glória ao novo Rei;|Paz aos homens 
@@ -964,7 +942,6 @@ todos ao Senhor!
 Cantem glória ao Homem-Deus!
 
 →028 Nasceu o Redentor
-
 
 1. Alerta, ó terra, entoa o canto 
 
@@ -1031,7 +1008,6 @@ Redentor!
 
 →029 Nasce Jesus
 
-
 1. O povo, sim, coberto|De densas 
 
 trevas, perto|Do abismo e não 
@@ -1080,7 +1056,6 @@ com adoração!
 
 →030 Noite de Paz
 
-
 1. Tudo é paz! Tudo amor!|Dormem 
 
 todos em redor;|Em Belém Jesus 
@@ -1110,7 +1085,6 @@ pedir|Que nos venha conduzir.|Deste
 mundo a luz|É o Senhor Jesus.
 
 →031 Lugar para Cristo
-
 
 1. Tu deixaste, Jesus, o teu reino 
 
@@ -1166,7 +1140,6 @@ céus."
 
 →032 Cristo em Belém
 
-
 1. Alta noite estão pastores|De 
 
 Belém no derredor;|E os cercou de 
@@ -1204,7 +1177,6 @@ pastores procurar,|Para deste berço
 triste|Suas novas proclamar.
 
 →033 Nasceu Jesus
-
 
 1. Nasce Jesus, fonte de luz!|
 
@@ -1262,7 +1234,6 @@ sempre me guardar|Tem meu Senhor.
 
 →035 Incomparável
 
-
 1. O grande amor do meu Jesus,|Por 
 
 mim morrendo sobre a cruz,|Da 
@@ -1306,7 +1277,6 @@ inefável teu amor!|Quão impossível
 de sondar!|Imensidão sem par!
 
 →036 O Amor de Jesus
-
 
 1. Ó maravilha do amor de Jesus,|
 
@@ -1355,7 +1325,6 @@ Que me salvou de uma morte cruel;|
 Quero viver para meu Salvador.
 
 →037 Amor Glorioso
-
 
 1. Buscou-me com ternura|Jesus, o 
 
@@ -1422,7 +1391,6 @@ pra sempre irei gozar.
 
 →038 Divino Amor
 
-
 1. Quem pode o teu imenso amor 
 
 contar,|O Salvador Jesus, e 
@@ -1467,7 +1435,6 @@ sabe a voz do nosso coração|
 Apreciar.
 
 →039 A Ovelha Perdida
-
 
 1. Noventa e nove ovelhas vão|
 
@@ -1545,7 +1512,6 @@ transbordar.
 
 →041 Reconhecimento
 
-
 1. Até a cruz o meu Jesus foi por 
 
 mim,|Foi por mim, foi por mim;|Até 
@@ -1555,7 +1521,6 @@ a cruz o meu Jesus foi por mim,|
 Minha alma pra salvar!
 
 →042 Realização
-
 
 1. Jesus, agora, sim, eu sei,|Quão 
 
@@ -1594,7 +1559,6 @@ Sacerdote e Rei,|Do mundo o
 Salvador.
 
 →043 Palavras Preciosas
-
 
 1. Preciosas as palavras de Jesus, 
 
@@ -1649,7 +1613,6 @@ vida dei."
 
 →044 A Linda História
 
-
 1. Cantarei a linda história|De 
 
 Jesus, o Salvador,|Que deixou seu 
@@ -1687,7 +1650,6 @@ Sofrimento e dissabor;|Mas a Ele eu
 tudo exponho,|E me livra com amor.
 
 →045 Por Amor de Nós
-
 
 1. Senhor, quão admirável|É teu 
 
@@ -1740,7 +1702,6 @@ querer.
 
 →046 Jesus me Transformou
 
-
 1. Eu, perdido pecador,|Longe do 
 
 meu Jesus,|Já me achava sem vigor,|
@@ -1772,7 +1733,6 @@ transmitir|Aos que perdidos são.|
 Venham todos já fruir|A salvação.
 
 →047 Alegria Perene
-
 
 1. Desperta e canta com fervor,|Sim,
 
@@ -1806,7 +1766,6 @@ em paz me guardará|Com seu amor,
 que é perenal.
 
 →048 Salvação
-
 
 1. Cantai a Cristo, Salvador,|Que 
 
@@ -1854,7 +1813,6 @@ a vida; sua, a cruz;|Seu, o cálice
 amargoso;|Nossa, a dita que produz.
 
 →050 A Velha História
-
 
 1. Contai-me a velha história|Do 
 
@@ -1905,7 +1863,6 @@ história,|Que veio aqui salvar.
 
 →051 Vida Na Graça
 
-
 1. Jamais houve alguém feliz como o 
 
 cristão,|O qual alcançou de Deus 
@@ -1946,7 +1903,6 @@ tudo fazer;|A luz da verdade quer
 sempre expandir.
 
 →052 Jesus Glorioso
-
 
 1. Oh, sim, Jesus é tão maravilhoso|
 
@@ -2009,7 +1965,6 @@ vinde a Cristo a vida consagrar!
 
 →053 Os Filhos de Sião
 
-
 1. Ó filhos de Sião,|Honrai o Rei 
 
 dos reis;|Louvores altos Lhe cantai,
@@ -2063,7 +2018,6 @@ nosso Mestre!|Aleluia! Aleluia!|
 Vinde todos o adorar!
 
 →055 Hosana Nas Alturas
-
 
 1. Bendito o Rei que vem em nome do 
 
@@ -2129,7 +2083,6 @@ vem em nome do Senhor!
 
 →056 Rei da Glória
 
-
 1. A Jesus, o Rei da glória,|Hinos 
 
 de louvor cantai;|Aos seus pés, 
@@ -2173,7 +2126,6 @@ exaltai-o,|Seu amor anunciai!
 
 →057 Bendito o Rei
 
-
 1. No mundo paz, louvor nos céus!|
 
 Cantava a multidão;|Com o clamor 
@@ -2206,7 +2158,6 @@ Como em Jerusalém,|Sem atender aos
 fariseus,|Louvamos-Te também.
 
 →058 O Nome de Jesus
-
 
 1. Do Salvador o nome traz|
 
@@ -2244,7 +2195,6 @@ quem, por grande amor,|Nos deu
 Jesus, o Redentor.
 
 →059 Saudai Emanuel
-
 
 1. Saudamos-te, ó Emanuel!|A ti 
 
@@ -2307,7 +2257,6 @@ Emanuel!
 
 →060 Coroai
 
-
 1. Saudai o Nome de Jesus!|Arcanjos,
 
  vos prostrai!|Arcanjos, vos 
@@ -2345,7 +2294,6 @@ divino honrai;|Ao Rei divino honrai;
 glória coroai!
 
 →060 Coroai (CORONATION)
-
 
 1. Saudai o nome de Jesus.|Arcanjos,
 
@@ -2400,7 +2348,6 @@ Redentor!
 
 →062 Nome Precioso
 
-
 1. Leva tu contigo o Nome|De Jesus, 
 
 o Salvador;|Este Nome dá consolo,|
@@ -2436,7 +2383,6 @@ o amado teu;|Rei dos reis, Senhor
 Eterno,|Tu o aclamarás no céu.
 
 →063 Jesus, o Senhor
-
 
 1. Jesus, santo nome do Cristo de 
 
@@ -2516,7 +2462,6 @@ dá vigor;|Ó céus, ó mar, ó vastidão,
 
 →065 Jesus, o Bem-amado
 
-
 1. Jesus, teu Nome satisfaz;|Por 
 
 todo o orbe espalha a paz;|Perfeito 
@@ -2559,7 +2504,6 @@ Pastor,|Sou teu eternamente!
 
 →066 Rei dos Céus
 
-
 1. Eis que chefe tão glorioso|É 
 
 Jesus, o bom Senhor!|Que lutou mui 
@@ -2600,7 +2544,6 @@ céus!
 
 →067 Cristo Exaltado
 
-
 1. Eis entronizado, à destra do bom 
 
 Deus,|Como Rei eterno, Cristo, lá 
@@ -2636,7 +2579,6 @@ nos ajuda e sempre ajudará.
 
 →068 Bem-aventurados
 
-
 1. Glória seja dada a Cristo,|Filho 
 
 eterno do bom Deus,|Pois remiu-nos 
@@ -2669,7 +2611,6 @@ Viveremos em amor;|Bem-aventurados
 somos;|Entoemos-lhe louvor.
 
 →069 Aleluia
-
 
 1. Aleluia! Aleluia!|Gratos hinos 
 
@@ -2711,7 +2652,6 @@ da graça, Deus da paz!
 
 →070 Nome Adorável
 
-
 1. Mui doce soa ao coração|Do pobre 
 
 pecador|O Nome que lhe dá perdão -|
@@ -2742,7 +2682,6 @@ aflição desfaz;|E o ver-te bem
 melhor será;|É descansar em paz.
 
 →071 Amigo Eterno
-
 
 1. Irmãos, todos juntos louvemos|A 
 
@@ -2803,7 +2742,6 @@ braço|De tudo vos podem livrar.
 
 →072 Amigo Sem Igual
 
-
 1. Amigo sem igual! Amigo sem igual!
 
 |O meu Jesus em meu lugar|Morreu 
@@ -2826,7 +2764,6 @@ Amigo sem igual!|Convida com imenso
 amor|A todo pecador!
 
 →073 Um Grande Amigo
-
 
 1. Achei um grande amigo,|Jesus, o 
 
@@ -2957,7 +2894,6 @@ céu|Favores seus paternos.
 
 →076 Amigo Verdadeiro
 
-
 1. Há um amigo verdadeiro,|Cristo, 
 
 o Senhor,|Que sofreu sobre o 
@@ -2995,7 +2931,6 @@ Guia no maior aperto;|Seu socorro
 sempre é certo.|Que grande amor!
 
 →077 O Melhor Amigo
-
 
 1. Sei que o amigo melhor é Cristo;|
 
@@ -3067,7 +3002,6 @@ salvação.
 
 →079 Um Bom Amigo
 
-
 1. Um bom amigo, e fiel, achei:|
 
 Jesus, meu Salvador;|Contar aquilo 
@@ -3116,7 +3050,6 @@ Torna puro o coração.
 
 →081 Amor Incomparável
 
-
 1. Nenhum amigo há igual a Cristo!|
 
 Não nenhum! Não nenhum!|Outro não 
@@ -3163,7 +3096,6 @@ nenhum! Não, nenhum!
 
 →082 O Gólgota
 
-
 1. Mui longe o monte verde está,|Ao 
 
 norte de Sião,|No qual o bom Jesus, 
@@ -3201,7 +3133,6 @@ pena universal;|Só Cristo pôde nos
 remir,|Ao preço divinal.
 
 →083 A Cruz de Cristo
-
 
 1. Pendurado foste, ó Senhor Jesus,|
 
@@ -3253,7 +3184,6 @@ Gozo paz, tornei-me um herdeiro teu,
 
 →084 A Cruz
 
-
 1. Cristo, em tua cruz há glória,|
 
 Dominando o caos maior;|Toda a luz 
@@ -3286,7 +3216,6 @@ ventura e a dor, na cruz;|Alegrias
 inauditas|Nela trouxe o bom Jesus.
 
 →085 Cantai Louvores
-
 
 1. Oh, vinde, crentes, e entoai|
 
@@ -3335,7 +3264,6 @@ glória, salvos, nos conduzirá.
 
 →086 Sangue Precioso
 
-
 1. Oh, que tão precioso sangue|Meu 
 
 Senhor verteu,|Quando, para 
@@ -3371,7 +3299,6 @@ liberta os réus!|Podem ter por ele
 entrada|Lá nos céus!
 
 →087 Calvário
-
 
 1. Oh, como foi que meu Jesus|Assim 
 
@@ -3410,7 +3337,6 @@ foi por mim, pra me salvar,|Para eu,
 
 →088 Que Fazes Por Mim
 
-
 1. Das glórias eternais|Ao mundo 
 
 vil desci;|A sorte eu assumi|Dos 
@@ -3447,7 +3373,6 @@ perenal|Te dou de graça a ti;|Não
 temas, vem a mim.
 
 →089 O Poder do Sangue
-
 
 1. Do teu pecado te queres livrar?|
 
@@ -3495,7 +3420,6 @@ leal?|Terás no seu sangue o poder.
 
 →090 Contemplação
 
-
 1. Olhando o lenho crucial|Em que 
 
 morreu da glória o Rei,|Às honras, 
@@ -3541,7 +3465,6 @@ me purifica;|Mesmo, mesmo a mim.
 
 →092 Substituição
 
-
 1. Morri na cruz por ti,|Morri pra 
 
 te livrar;|Meu sangue, sim, verti,|
@@ -3579,7 +3502,6 @@ céus, favor;|É livre meu perdão;|
 Sincero, meu amor.
 
 →093 Só No Sangue
-
 
 1. Quem me poderá salvar?|Cristo, 
 
@@ -3626,7 +3548,6 @@ sem fim,|Esse tão precioso sangue.
 
 →094 Jesus Na Cruz
 
-
 1. Só tu, Jesus, levaste a cruz,|
 
 Humilde em teu amor;|No teu olhar 
@@ -3666,7 +3587,6 @@ consumado está.'|Missão que o Pai
 te deu!
 
 →095 Vitória do Rejeitado
-
 
 1. Jesus é rejeitado,|O mundo não o 
 
@@ -3717,7 +3637,6 @@ triunfante, aqui reinar!
 
 →096 Deslumbrante
 
-
 1. Se nos cega o sol ardente,|
 
 Quando visto em seu fulgor,|Quem 
@@ -3760,7 +3679,6 @@ morte,|Nova entrada abrindo ao céu.
 
 →097 Jesus Veio Aqui
 
-
 1. Oh, como é tão singular Jesus,|
 
 Esbelto e mui gentil!|No rosto traz 
@@ -3799,7 +3717,6 @@ descansar.
 
 →098 Jesus Triunfou
 
-
 1. Jesus Cristo está sentado|No seu 
 
 trono de poder;|Tudo já tem 
@@ -3833,7 +3750,6 @@ legou;|Com que glória, com que
 glória|Sobre a morte triunfou!
 
 →099 Ressurreição
-
 
 1. Eis morto o Salvador|Na 
 
@@ -3869,7 +3785,6 @@ glória!|Oh, graças, alcançou|Vida
 eternal.
 
 →100 Jesus Ressuscitado
-
 
 1. Eis Jesus ressuscitado!|Ele para 
 
@@ -3911,7 +3826,6 @@ ressuscitado,|E Consigo nos terá!
 
 →101 Ressurgiu
 
-
 1. Cristo já ressuscitou; aleluia!|
 
 Sobre a morte triunfou; aleluia!|
@@ -3939,7 +3853,6 @@ Jesus, o grande Rei; aleluia!|Pois
 Pecadores pra salvar; aleluia!
 
 →102 Cristo Volta
-
 
 1. Cristo volta brevemente,|Para 
 
@@ -3998,7 +3911,6 @@ esperaremos|Ver Jesus aqui voltar.
 
 →103 Jesus Vindo
 
-
 1. Jesus desceu, a Bíblia o diz,|Do 
 
 seu celeste lar,|A fim de o grande 
@@ -4034,7 +3946,6 @@ mundo reinará;|Então, Senhor
 universal,|louvor sem fim terá.
 
 →104 O Bom Porvir
-
 
 1. O dia alegre chega,|Radiante em 
 
@@ -4097,7 +4008,6 @@ Eu não mereço, sou vil pecador,|Mas,
 
 →106 O Desejado
 
-
 1. Vem, ó Cristo desejado!|Vem 
 
 depressa, Redentor!|Salve o dia 
@@ -4138,7 +4048,6 @@ nos ares|Para nos arrebatar!
 
 →107 Esperando
 
-
 1. Bem ansiosos aguardamos|Tua 
 
 vinda, ó bom Jesus,|Quando em 
@@ -4178,7 +4087,6 @@ Desfarás toda opressão;|Exultando,
 aplaudiremos|Tua glorificação!
 
 →108 Chamada Final
-
 
 1. Quando Cristo sua trombeta|Lá do 
 
@@ -4229,7 +4137,6 @@ estarei.
 
 →109 Por Pouco Tempo
 
-
 1. Anseio a paz, que qual um rio 
 
 corre,|E no deserto faz brotar a 
@@ -4261,7 +4168,6 @@ noivo vindo,|Com Ele nós iremos pra
 seu lar.
 
 →110 Quando Cristo Vier
-
 
 1. Quando Cristo os crentes vier 
 
@@ -4313,7 +4219,6 @@ deixar,|Quando nos vier buscar.
 
 →111 Não Tardará
 
-
 1. Cristo do céu em breve virá|Ele 
 
 afirmou-nos, e não tardará;|Oh, que 
@@ -4361,7 +4266,6 @@ porvir?|Oh, que alegria teremos em
 ir,|Quando Jesus regressar!
 
 →112 Vencendo Vem Jesus
-
 
 1. Já refulge a glória eterna|De 
 
@@ -4429,7 +4333,6 @@ glória! Aleluia!|Vencido tem Jesus!
 
 →113 O Dia Glorioso
 
-
 1. Regozijai-vos, sim, ó crentes,|O 
 
 Senhor não tardará!|Já vem o dia 
@@ -4470,7 +4373,6 @@ pasmado,|Vendo a Cristo em seu
 fulgor!
 
 →114 A Vinda do Senhor
-
 
 1. Como foi para o céu,|Jesus 
 
@@ -4547,7 +4449,6 @@ Jesus e seu amor! (3 vezes)
 
 →116 Desejo da Alma
 
-
 1. Vem, Espírito divino,|Grande 
 
 ensinador!|Vem! Descobre às nossas 
@@ -4583,7 +4484,6 @@ povos vêem;|Oh, derrama a mesma
 bênção|Sobre nós também!
 
 →117 Espírito Santo
-
 
 1. Ó divino Preceptor,|Mostra-nos o 
 
@@ -4636,7 +4536,6 @@ lá.
 
 →119 Fidelidade
 
-
 1. Por meus delitos expirou|Jesus, 
 
 a Vida e Luz;|Ele o castigo meu 
@@ -4669,7 +4568,6 @@ grande Salvador;|E, quando for no
 céu morar,|Louvá-Lo-ei melhor.
 
 →120 Louvai Ao Senhor
-
 
 1. Louvai ao Senhor, o Deus 
 
@@ -4716,7 +4614,6 @@ sempre! Que amor sem igual!
 
 →121 Ecos de Louvor
 
-
 1. Aquele que, de amor por nós,|À 
 
 morte se entregou|E, pela mão 
@@ -4761,7 +4658,6 @@ terra celebrar.
 
 →122 Motivos de Louvor
 
-
 1. Oh, vinde ouvir, enquanto|De 
 
 Cristo eu vou cantar,|Meu Salvador 
@@ -4801,7 +4697,6 @@ Eternamente a Cristo|Louvor hei de
 cantar.
 
 →123 Bendito Cordeiro
-
 
 1. Seja bendito o Cordeiro|Que na 
 
@@ -4858,7 +4753,6 @@ torna, Senhor!
 
 →124 Cantarei
 
-
 1. Cantarei do amor de Cristo,|
 
 Nunca houve amor igual;|Deu a vida 
@@ -4896,7 +4790,6 @@ regenera|O perdido, indigno
 malfeitor.
 
 →125 Redenção
-
 
 1. Minha alma, canta ao Salvador,|
 
@@ -4951,7 +4844,6 @@ a redenção.
 
 →126 Louvai
 
-
 1. Louvai, louvai|Cristo, o bom 
 
 Mestre divino!|Por nós na cruz|Ele 
@@ -5005,7 +4897,6 @@ assim os crentes protegerá.
 
 →127 Jesus Bondoso
 
-
 1. Jesus, teu Nome é santo,|Amável 
 
 teu querer;|Louvor real, com puro 
@@ -5046,7 +4937,6 @@ grato coração.
 
 →128 A Redenção
 
-
 1. Eterno Deus, queremos nós|
 
 Louvores a Jesus cantar;|O seu amor,
@@ -5079,7 +4969,6 @@ promover-|Eis nossa glória singular!
 
 
 →129 Bendita Luz
-
 
 1. Que bendita, que gloriosa luz!|É 
 
@@ -5126,7 +5015,6 @@ crente em Cristo, o Redentor.|Ó
 bendita luz de Deus!
 
 →130 Beneficência
-
 
 1. Se já liberto foste, ó pecador,|
 
@@ -5176,7 +5064,6 @@ Escutando assim dizer:
 
 →131 Bendize
 
-
 1. Bendize, ó tu, meu coração,|
 
 Bendize ao Salvador,|E tudo quanto 
@@ -5211,7 +5098,6 @@ assim,|Tu, como as águas, tens.
 (bis)
 
 →132 Ebenézer
-
 
 1. Fonte Tu de toda bênção,|Vem o 
 
@@ -5259,7 +5145,6 @@ Senhor.
 
 →133 Exultação
 
-
 1. Tributai, ó vós, remidos,|Gratos 
 
 hinos a Jesus;|Tendes uma herança 
@@ -5302,7 +5187,6 @@ luz!
 
 →134 Reino Universal
 
-
 1. Ó línguas, povos e nações,|
 
 Louvor a Cristo celebrai;|Em alta 
@@ -5333,7 +5217,6 @@ redenção;|Em toda língua proclamai|
 Que reino dEle os povos são.
 
 →135 Louvor
-
 
 1. Louvamos-Te, ó Deus,|Pelo dom de 
 
@@ -5370,7 +5253,6 @@ rendemos, sem fim;|Aleluia, tua
 graça|Imploramos. Amém!
 
 →136 Estudo Bíblico
-
 
 1. Eis Samuel ouviu|Palavras de 
 
@@ -5426,7 +5308,6 @@ louvor:|"Escuto; fala, pois, Senhor!
 
 →137 O Pão da Vida
 
-
 1. Enquanto, ó Salvador, teu livro 
 
 eu ler,|Meus olhos vem abrir, pois 
@@ -5449,7 +5330,6 @@ assim,|Satisfazer, Senhor, a mim, a
 mim!
 
 →138 A Lei do Senhor
-
 
 1. Sábia, justa, santa e pura|É a 
 
@@ -5479,7 +5359,6 @@ Senhor|Iluminam nossas mentes|Com
 divino resplendor.
 
 →139 Dia do Senhor
-
 
 1. A semana já passou,|O Senhor 
 
@@ -5524,7 +5403,6 @@ coração.
 
 →140 Domingo
 
-
 1. Domingo, ó dia de amor,|Tão 
 
 cheio de prazer!|Almejo, ó meu 
@@ -5554,7 +5432,6 @@ meigo e bom pastor!|Ensina-me, pois,
  meu dever;|Dirige todo meu viver.
 
 →141 Descanso Aos Domingos
-
 
 1. Na terra, aos domingos, Jesus, 
 
@@ -5603,7 +5480,6 @@ sem fim.
 
 →143 A Ceia do Senhor
 
-
 1. Será possível esquecer|O teu 
 
 amor, Senhor?|A tua graça em 
@@ -5633,7 +5509,6 @@ penar,|Sim, nossa redenção.
 
 →144 Vera Páscoa
 
-
 1. Ó Jesus! Ó vera Páscoa,|
 
 Suspirada dos antigos!|Ó Cordeiro 
@@ -5657,7 +5532,6 @@ de perene gozo!|Faze que nossa alma
 viva|Para Ti, de Ti, em Ti.
 
 →145 Batismo
-
 
 1. Às águas do Jordão desceu|Jesus, 
 
@@ -5695,7 +5569,6 @@ viver,|Do amor de Deus falar.
 
 →146 Alegria Verdadeira
 
-
 1. Sei agora o que me alegra,|Sei 
 
 agora o que me alegra,|Sei agora o 
@@ -5710,7 +5583,6 @@ o que me alegra,|É Jesus o que me
 alegra,|Confiando no Senhor!
 
 →147 Obediência No Batismo
-
 
 1. Cercando teu sepulcro,|Estamos 
 
@@ -5760,7 +5632,6 @@ Contigo andar;|Oh, vem, vem ajudar-
 nos|A sempre a Ti honrar!
 
 →148 Hora Bendita
-
 
 1. Bendita a hora de oração,|Pois 
 
@@ -5818,7 +5689,6 @@ só louvor.
 
 →149 Persistência Em Oração
 
-
 1. Eis que, ó Pai, prostrados, Te 
 
 rogamos nós:|Dá-nos a vitória, 
@@ -5864,7 +5734,6 @@ tua compaixão!|Dá-nos fé mais forte,
 
 →150 Pai Nosso
 
-
 1. Nosso Pai, que estás nos céus,|
 
 Que és rodeado de esplendor,|Nome 
@@ -5908,7 +5777,6 @@ pois, cair.|Livra-nos de todo mal.
 (bis)
 
 →151 Comunhão
-
 
 1. Quão preciosas são as horas|Na 
 
@@ -5969,7 +5837,6 @@ perfeita, graça e luz.
 
 →152 Pastor Divino
 
-
 1. Ouve-nos, Pastor divino,|Nós, 
 
 que neste bom lugar,|Teu rebanho 
@@ -6025,7 +5892,6 @@ Tua afável proteção.
 
 →153 Perdão
 
-
 1. Se aqui, Senhor, bem poucos|Te 
 
 vêm cantar louvor,|E aos vis 
@@ -6065,7 +5931,6 @@ graça não aceitam,|Oh, dá perdão,
 Jesus!
 
 →154 Firme Nas Promessas
-
 
 1. Firme nas promessas do meu 
 
@@ -6115,7 +5980,6 @@ luz,|Firme nas promessas de Jesus.
 
 →155 O Grande Amigo
 
-
 1. Em Jesus amigo temos,|Mais 
 
 chegado que um irmão;|Ele manda que 
@@ -6155,7 +6019,6 @@ nosso em oração;|Em seus braços nos
 acolhe|E nos dá consolação.
 
 →156 Orando Sempre
-
 
 1. Ó Deus bendito, atende o nosso 
 
@@ -6234,7 +6097,6 @@ esperamos,|Vivifica-nos, Senhor!
 
 →158 Em Oração
 
-
 1. Nosso Deus e Pai bondoso,|Ouve a 
 
 nossa petição,|Que com verdadeiro 
@@ -6286,7 +6148,6 @@ traz.
 
 →159 Minha Oração
 
-
 1. Dirijo a Ti, Jesus, minha oração,
 
 |A Ti que tudo vês no coração.|Eu 
@@ -6331,7 +6192,6 @@ Salvador;|Possa eu em teu amor
 sempre viver!
 
 →160 A Fé Contemplada
-
 
 1. Deus promete grandes coisas 
 
@@ -6385,7 +6245,6 @@ contemplará.
 
 →161 Poder Espiritual
 
-
 1. Senhor Jesus, oh, vem me 
 
 conceder|A plenitude do Consolador;|
@@ -6422,7 +6281,6 @@ Correta vida, santa, modelar,|
 Também repleta de fervor, poder.
 
 →162 Vigiar e Orar
-
 
 1. Bem de manhã, embora o céu 
 
@@ -6470,7 +6328,6 @@ constante|É que o fiel vai triunfar.
 
 →163 Desejos
 
-
 1. Eu conhecer desejo|O amor do meu 
 
 Jesus,|A glória sempiterna|Do reino 
@@ -6506,7 +6363,6 @@ concede|Que alcance teu amor;|A mim,
  ovelha tua,|Contempla com favor!
 
 →164 Revivificação
-
 
 1. Tu, que sobre a amarga cruz|
 
@@ -6547,7 +6403,6 @@ mas também|frios, sem amor estão.
 Ao teu brando e doce amor!
 
 →165 Oração
-
 
 1. Pai celeste, Deus bendito,|
 
@@ -6595,7 +6450,6 @@ Amém!
 
 →166 As Promessas de Deus
 
-
 1. Acaso podíamos nós conseguir|
 
 Maior segurança do que possuir|As 
@@ -6641,7 +6495,6 @@ Eu vou socorrer.
 
 →167 Vem Inflama
 
-
 1. Meu pecado resgatado|Foi na cruz 
 
 por teu amor,|E da morte, triste 
@@ -6672,7 +6525,6 @@ alma em teu amor;|Com apreço
 reconheço|Quanto devo a Ti, Senhor!
 
 →168 Chuvas de Bênçãos
-
 
 1. Chuvas de bênçãos teremos,|É a 
 
@@ -6714,7 +6566,6 @@ bom Deus.
 
 →169 Mais de Cristo
 
-
 1. Mais de Cristo eu quero ver,|
 
 Mais do seu amor obter,|Mais da sua 
@@ -6740,7 +6591,6 @@ santo amor,|Mais de Ti mesmo, ó
 Salvador!
 
 →170 Oração de Consagração
-
 
 1. Oh, mais detestável, sim, seja-
 
@@ -6776,7 +6626,6 @@ ansioso, mais vida por Ti.
 
 →171 Avivamento
 
-
 1. Aviva-nos, Senhor!|Oh, dá-nos 
 
 teu poder!|De santidade, fé e amor|
@@ -6806,7 +6655,6 @@ A bem do pecador!
 
 →172 Cada Dia
 
-
 1. Cada dia tinham pão,|Dado pela 
 
 eterna mão|Do Sustentador fiel|Da 
@@ -6828,7 +6676,6 @@ dá-me fé;|Cada dia, ó bom Senhor,|
 Tudo supre com amor.
 
 →173 Mais Amor
-
 
 1. Ó meu Deus, Te peço: Dá-me mais 
 
@@ -6863,7 +6710,6 @@ guiar|Sempre no caminho em que
 convém andar.
 
 →174 Faça-se a Luz
-
 
 1. Tu que mandaste, ó Deus,|Dando 
 
@@ -6906,7 +6752,6 @@ Consolador,|Faça-se a luz!
 
 →175 Minha Aspiração
 
-
 1. Cristo, bom Mestre, eis meu 
 
 querer;|Tua vontade sempre fazer;|
@@ -6934,7 +6779,6 @@ vencer;|Faze-me rijo para lutar,|
 Para a vitória sempre ganhar.
 
 →176 Tempo de Ser Santo
-
 
 1. Tempo de ser santo tu deves 
 
@@ -6981,7 +6825,6 @@ do teu Salvador.
 
 →177 Alvorada
 
-
 1. Apenas rompe a aurora,|Em Ti eu 
 
 penso, ó Deus,|E a Ti levanto logo|
@@ -7020,7 +6863,6 @@ mãos erguer.
 
 →178 O Culto Findou
 
-
 1. O culto sagrado findou,|No dia 
 
 bendito de Deus:|Nosso último canto 
@@ -7038,7 +6880,6 @@ Senhor!
 
 →179 Fim do Culto
 
-
 1. Teu culto findo aqui,|Despede-
 
 nos, Senhor;|Dirigi-nos, até o fim,|
@@ -7053,7 +6894,6 @@ viver.|De teu Espírito gozar,|E a
 graça receber.
 
 →180 Despedida
-
 
 1. Grande Deus, em paz, agora,|Vem, 
 
@@ -7083,7 +6923,6 @@ de Deus,|E a comunhão do Espírito
 Santo,|Conosco seja Amém! Amém!
 
 →182 Despedida do Culto
-
 
 1. Despede-nos, ó bom Jesus,|No fim 
 
@@ -7117,7 +6956,6 @@ Espírito de Deus,|Dá-nos inspiração
 também.
 
 →183 A Luz do Mundo
-
 
 1. Pra todo perdido nas trevas do 
 
@@ -7164,7 +7002,6 @@ brilha o Cordeiro no Templo de Deus;
 |Jesus éa luz do mundo!
 
 →184 Há Livre Perdão
-
 
 1. Glória a Jesus, pois há livre 
 
@@ -7244,7 +7081,6 @@ pleno e livre perdão!
 
 →185 Somente Cristo
 
-
 1. Somente Cristo é Salvador,|Nem 
 
 outro conhecemos;|Morreu por nós, 
@@ -7282,7 +7118,6 @@ todo crente;|O que Ele fez na dura
 cruz|Pra sempre é suficiente.
 
 →186 É Jesus Quem Salva
-
 
 1. O chorar não salva!|Mesmo o 
 
@@ -7328,7 +7163,6 @@ salva!
 
 →187 Teus Pecados
 
-
 1. Pecador, teus pecados|Brancos, 
 
 brancos se farão; (bis)|Inda que 
@@ -7368,7 +7202,6 @@ embora tu sejas|Seu descanso te
 dará|E feliz te tornará!
 
 →188 O Evangelho
-
 
 1. A nova do evangelho|Já se fez 
 
@@ -7430,7 +7263,6 @@ ao pecador.
 
 →189 Graça Inefável
 
-
 1. A graça do Senhor meu coração 
 
 venceu,|Pois, para me salvar, seu 
@@ -7466,7 +7298,6 @@ perdão,|E juntos possuir Jesus e a
 salvação!
 
 →190 Para Salvar-te
-
 
 1. Veio Jesus a este mundo vil|Para 
 
@@ -7538,7 +7369,6 @@ certeza de gozar|A redenção de Deus!
 
 →191 Eis a Nova
 
-
 1. Oh, que mensagem cheia|Da 
 
 compaixão de Deus,|A do evangelho 
@@ -7574,7 +7404,6 @@ salvação;|Porta da vida aberta,|
 Única redenção!
 
 →192 Só Por Jesus
-
 
 1. Cristo veio dos santos céus,|
 
@@ -7625,7 +7454,6 @@ Salvos nele estamos,|Glória a Deus
 rendamos!
 
 →193 Proclamação
-
 
 1. Proclamai a todo o mundo que 
 
@@ -7685,7 +7513,6 @@ reis vier!|Proclamai! Proclamai!
 
 →194 A Mensagem Celeste
 
-
 1. A mensagem vem de Deus,|Que 
 
 Jesus é Salvador!|Oh, clamai, vós, 
@@ -7725,7 +7552,6 @@ pecador.|Glória! Glória a Deus
 Jeová,|Pois Jesus é Salvador!
 
 →195 Vida Por Um Olhar
-
 
 1. Terás vida em olhar pra Jesus, 
 
@@ -7790,7 +7616,6 @@ Jesus gozarás.
 
 →196 Conta-me
 
-
 1. Conta-me a história de Cristo,|
 
 Grava-a no meu coração;|Conta-me a 
@@ -7834,7 +7659,6 @@ favor divinal!|Santos louvores
 cantemos|Ao Salvador eternal! (bis)
 
 →197 Inabalável
-
 
 1. A cruz ainda firme está;|Aleluia!
 
@@ -7887,7 +7711,6 @@ pela cruz!
 
 →198 Aleluia
 
-
 1. A mensagem do Senhor; alelui-a!|
 
 É cheia de perdão e amor!|Cristo 
@@ -7934,7 +7757,6 @@ Exaltai o grande Redentor!
 
 →199 Cordeiro Divino
 
-
 1. Sacrifícios imolados|Sobre o 
 
 sanguinoso altar|Não tiravam os 
@@ -7979,7 +7801,6 @@ cantando, vou cantando:|Minha culpa
 estava ali.
 
 →200 A Vinda de Jesus
-
 
 1. Cristo, meu Salvador, veio a 
 
@@ -8042,7 +7863,6 @@ me vier buscar!
 
 →201 O Novo Nascimento
 
-
 1. Um rico, de noite, chegou a 
 
 Jesus,|A fim de saber o caminho da 
@@ -8088,7 +7908,6 @@ Deus confessar|E a ordem de Cristo
 com fé acolher;|Importa renascer!
 
 →202 Jesus Tem Poder
-
 
 1. Jesus tem o poder|De as culpas 
 
@@ -8141,7 +7960,6 @@ levar!
 
 →203 Olha para Cristo
 
-
 1. Olha para Cristo, olha, pecador,|
 
 Pois por ti tragou o cálix de 
@@ -8175,7 +7993,6 @@ do céu a luz,|Tudo está cumprido;
 olha pra Jesus.
 
 →204 Reconciliai-vos
-
 
 1. Eis a ordem dos céus,|do nosso 
 
@@ -8224,7 +8041,6 @@ já com Deus!
 
 →205 Ó minha alma, sem demora
 
-
 1. Ó minha alma, sem demora|Ergue-
 
 te para entoar|Os louvores do teu 
@@ -8272,7 +8088,6 @@ Vinde todos|Já comigo adorar!
 
 →206 Promessa Gloriosa
 
-
 1. Vitória como a de Jesus|Ninguém 
 
 jamais ouviu;|Morrendo numa ignóbil 
@@ -8310,7 +8125,6 @@ Deus, sem fé, sem luz,|Escuta a voz
 de salvação,|E rende-te a Jesus!
 
 →207 Mensagem Real
-
 
 1. Sou forasteiro aqui, em terra 
 
@@ -8354,7 +8168,6 @@ Cristo vai viver|No reino eterno do
 meu Rei.
 
 →208 Justificação
-
 
 1. Das águas da vida quem queira 
 
@@ -8400,7 +8213,6 @@ assim como estais;|Vós sem mais
 receios a Cristo venhais!
 
 →209 Venham Escutar
-
 
 1. Desprezado foi o verbo|Por 
 
@@ -8466,7 +8278,6 @@ Sempre havemos de vencer.
 
 →210 Cristo Te Chama
 
-
 1. Cristo te chama com mui terno 
 
 amor;|Ó pecador, vem atender!|Dele 
@@ -8509,7 +8320,6 @@ Nada te deve deter!
 
 →211 Vem Pecador
 
-
 1. Eis, Cristo te convida: vem, 
 
 pecador!|Pois dá eterna vida; vem, 
@@ -8532,7 +8342,6 @@ vem, pecador!|Sim, urge que decidas!
  Vem, pecador!
 
 →212 Oh, Vinde Já
-
 
 1. Jesus vos diz: Oh, vinde já|A 
 
@@ -8585,7 +8394,6 @@ pecador!
 
 →213 Quem Quiser
 
-
 1. Quem ouvir as novas, vá 
 
 proclamar:|Salvação de graça vinde 
@@ -8624,7 +8432,6 @@ Ele a todos fala com mui terno amor:
 |Todo que quiser, é vir!
 
 →214 Cristo Chama Por Ti
-
 
 1. Cristo Jesus, com amor divinal,|
 
@@ -8672,7 +8479,6 @@ bom tempo embora!
 
 →215 Fonte Bendita
 
-
 1. Oh, vinde a fonte de sangue;|
 
 Vinde, sim, vinde a Jesus!|Paz e 
@@ -8717,7 +8523,6 @@ gozar.
 
 →216 Descanso Em Jesus
 
-
 1. "Vem, vem a mim, se cansado 
 
 estás",|Diz o Filho do santo Deus;|
@@ -8754,7 +8559,6 @@ essa paz veio consumar|Sobre a cruz
 a favor dos seus.
 
 →217 Segue-me
-
 
 1. Escuta a voz do bom Jesus:|
 
@@ -8817,7 +8621,6 @@ Seguirei, sim, seguirei."
 
 →218 Vinde a Mim
 
-
 1. Oh, vinde a mim, o vosso 
 
 Salvador,|Vosso Advogado, vosso 
@@ -8870,7 +8673,6 @@ paternal!
 
 →219 Vem Já
 
-
 1. Não te demores, amigo!|Por que 
 
 te delongas assim?|Jesus está 
@@ -8910,7 +8712,6 @@ Jesus aceitar!|Despreza teus muitos
 pecados;|Jesus dá-te graça sem par.
 
 →220 Perdão e Salvação
-
 
 1. "Vem, vem a mim!" - o Salvador 
 
@@ -8956,7 +8757,6 @@ grande amor?
 
 →221 Convite
 
-
 1. "Vinde todos sem demora"|Diz o 
 
 amado Redentor;|Ele salva, e mesmo 
@@ -8987,7 +8787,6 @@ brancas ele dá;|Aflições, tristezas,
  dores,|Lá no céu não haverá.
 
 →222 Manso e Suave
-
 
 1. Manso e suave Jesus, convidando,|
 
@@ -9039,7 +8838,6 @@ Veio por ti e por mim.
 
 →223 Abrigo
 
-
 1. Óh, vinde, vós aflitos, já,|A 
 
 Cristo o Redentor!|Abrigo certo vos 
@@ -9075,7 +8873,6 @@ Cristo vos unir!|Perdão Jesus
 concederá|Àquele que o seguir.
 
 →224 Um Passo Só
-
 
 1. Um passo só pra Cristo!|Por que 
 
@@ -9144,7 +8941,6 @@ E nele confiando!|O passo dou pra
 Cristo|Sem mais me demorar!
 
 →225 Voz de Ternura
-
 
 1. A terna voz do Salvador|A todos 
 
@@ -9230,7 +9026,6 @@ coração a Jesus.
 
 →227 Despertado Coração
 
-
 1. Despertado coração,|Em Jesus há 
 
 salvação;|Eis-nos todos a rogar|
@@ -9268,7 +9063,6 @@ encontrarás|Vida infinda, gozo e
 paz.
 
 →228 Ouvi a Chamada
-
 
 1. Oh, escutai! Jesus vos chama;|
 
@@ -9311,7 +9105,6 @@ obdureis o coração!
 
 →229 Régio Hóspede
 
-
 1. Tendes vós lugar vazio|Para 
 
 Cristo, o Salvador?|Ele bate e quer 
@@ -9340,7 +9133,6 @@ buscarei em vão!|Hoje é tempo
 favorável|De aceitar a salvação!
 
 →230 Deus Chamando
-
 
 1. Deus sempre insiste em me chamar,
 
@@ -9390,7 +9182,6 @@ entregar.
 
 →231 Vem, Filho, Vem
 
-
 1. Do país distante, onde tu não 
 
 tens|Pai, nem pão, nem casa, vem, 
@@ -9426,7 +9217,6 @@ fartura tem!|Tu estás faminto; vem,
 filho, vem!
 
 →232 Cristo À Porta
-
 
 1. À porta chamo-te, alma triste,|
 
@@ -9474,7 +9264,6 @@ Posso eu entrar?
 
 →233 Por Que Não Já
 
-
 1. Ó corações, considerai|A voz de 
 
 amor do vosso Deus!|As vossas 
@@ -9512,7 +9301,6 @@ não já?
 
 →234 Cristo Salva
 
-
 1. Cristo salva o pecador,|Lava o 
 
 negro coração;|Ao contrito, com 
@@ -9541,7 +9329,6 @@ luz no Redentor;|Vinde, e então
 recebereis|Vida eterna do Senhor.
 
 →235 Chamada
-
 
 1. Cristo te chama, chama, chama|
 
@@ -9581,7 +9368,6 @@ tu a Cristo, Cristo, Cristo;|Há
 salvação para o vil pecador!
 
 →236 Atribulado Coração
-
 
 1. Atribulado coração,|Em Cristo 
 
@@ -9623,7 +9409,6 @@ viver!
 
 →237 Tão Perto
 
-
 1. Tão perto do reino, mas sem 
 
 salvação!|Tão perto, porém sem 
@@ -9662,7 +9447,6 @@ Ao convite atendei,|E sem mais
 demora a Jesus vos rendei!
 
 →238 A Água da Vida
-
 
 1. A água da vida Jesus nos dá|
 
@@ -9725,7 +9509,6 @@ que o amam.
 
 →239 A Luz do Céu
 
-
 1. Tu anseias hoje mesmo a salvação?
 
 |Tens desejo de banir a escuridão?|
@@ -9766,7 +9549,6 @@ Salvador Jesus!|Deixa a luz do céu
 entrar!
 
 →240 Vem a Cristo
-
 
 1. Jesus, lá na glória, de retidão 
 
@@ -9819,7 +9601,6 @@ mágoa, nem gemidos,|Também tu terás
 um lugar lá nos céus
 
 →241 Palavra Abençoada
-
 
 1. Palavra abençoada,|Convite que 
 
@@ -9883,7 +9664,6 @@ submisso,|O 'vinde' de Jesus.
 
 →242 Vinde Já
 
-
 1. Vinde já, vinde já,|Ao bendito 
 
 Salvador;|Confiai, pois ele vos 
@@ -9925,7 +9705,6 @@ dou, ó meu Benfeitor,|Por todo o
 teu favor!
 
 →243 Vida Eterna
-
 
 1. Oh, vinde ver Jesus, o Salvador!|
 
@@ -9972,7 +9751,6 @@ A Cristo, pois, eu vou me submeter,|
 Pois vida eterna dá.
 
 →244 Graça Admirável
-
 
 1. Vinde, aflitos pecadores,|Cheios 
 
@@ -10029,7 +9807,6 @@ isso basta,|Vinde, vinde sem temor.
 
 →245 Cristo Vai Passar
 
-
 1. Há hoje alguém esperando|Para 
 
 Jesus encontrar?|Venha, sem mais 
@@ -10083,7 +9860,6 @@ chorando;|Cristo vai hoje passar!
 
 →246 Vem Agora
 
-
 1. Vem a Cristo, vem agora.
 
 
@@ -10107,7 +9883,6 @@ chorando;|Cristo vai hoje passar!
 6. Ele almeja perdoar-te.
 
 →247 Vem, Filho Perdido
-
 
 1. Vem, filho perdido,|Ó pródigo, 
 
@@ -10151,7 +9926,6 @@ E tu andas errante!
 
 →248 Filho Pródigo
 
-
 1. Ide meu filho procurar,|Já 
 
 prestes a perecer|No meio dos males,
@@ -10184,7 +9958,6 @@ vai ao céu!
 como está,|Pois tanto o desejo ter!
 
 →249 Banquete de Belsazar
-
 
 1. Numa orgia nefanda,|O rebelde 
 
@@ -10248,7 +10021,6 @@ possas|Sua graça receber.
 
 →250 Quase Induzido
 
-
 1. Quase induzido a crer em Jesus,|
 
 Quase induzido a andar na luz!|Não 
@@ -10279,7 +10051,6 @@ te lançará na perdição!
 
 →251 Quase Achegado
 
-
 1. Quase achegado ao bom Salvador?|
 
 Chega mais perto, sim, pecador!|Não 
@@ -10307,7 +10078,6 @@ não valerá,|Nunca te salvará,|Mas,
 sim, te levará à perdição.
 
 →252 A Porta Franca
-
 
 1. Franqueada a porta a nós está|Da 
 
@@ -10337,7 +10107,6 @@ vinde sem demora!|O tempo próprio
 passará,|Oh, vinde entrar agora!
 
 →253 Não Havia Lugar
-
 
 1. Não teve um palácio no mundo o 
 
@@ -10379,7 +10148,6 @@ deseja habitar|Em ti, meu amigo. Oh,
  dá-lhe lugar!
 
 →254 Não Venhas Tarde
-
 
 1. Depressa vem, amigo, pois é bem 
 
@@ -10425,7 +10193,6 @@ se te descuidares não hás de ali
 chegar.
 
 →255 Qual É Teu Refúgio
-
 
 1. Amigo, qual é teu refúgio|E qual 
 
@@ -10482,7 +10249,6 @@ vida de paz!
 
 →256 Inda Há Lugar
 
-
 1. Inda há lugar; o régio Salvador|
 
 Chama ao banquete o pobre pecador.
@@ -10518,7 +10284,6 @@ fechar,|E se dirá então: 'Não há
 lugar.'
 
 →257 Quem É Que Vai
-
 
 1. Quem é que vai com Jesus estar|
 
@@ -10589,7 +10354,6 @@ Vou eu?
 
 →258 Chora Agora
 
-
 1. Pecador, confessa e chora|Teus 
 
 pecados sem tardar;|Olha bem que o 
@@ -10633,7 +10397,6 @@ naquele grande dia|Justiceiro ele
 há de ser.
 
 →259 A Última Hora
-
 
 1. Ao findar o labor desta vida,|
 
@@ -10692,7 +10455,6 @@ caminho brilhante de luz.
 
 →260 Agora
 
-
 1. Oh, quantos enganados,|Fiados no 
 
 porvir!|E quantos condenados,|Por 
@@ -10728,7 +10490,6 @@ hora|De contas dar a Deus;|Tornai-
 vos desde agora|Amados filhos seus!
 
 →261 Alma Ansiosa
-
 
 1. Só vejo trevas e furor,|Da 
 
@@ -10784,7 +10545,6 @@ nos|Do teu grande amor!
 
 →263 Luz Divina
 
-
 1. Oh, vem, divina luz,|As trevas 
 
 dissipar!|Oh, vem-me alumiar!|Oh, 
@@ -10821,7 +10581,6 @@ mim, ó Salvador!
 
 →264 Das Trevas
 
-
 1. Envolvido em densas trevas,|
 
 Almejava a luz do céu,|Bem sentindo 
@@ -10854,7 +10613,6 @@ verdade justa e santa|Que me leva
 ao céu de luz.
 
 →265 Resgate
-
 
 1. Pendurado no madeiro,|Ó Jesus, 
 
@@ -10895,7 +10653,6 @@ todo pecador|A limpar o seu pecado,|
 Nesse sangue expiador.
 
 →266 Tal Qual Estou
-
 
 1. Tal qual estou, eis-me, Senhor,|
 
@@ -10944,7 +10701,6 @@ a salvação!
 
 →268 Como Estou
 
-
 1. Ouço meu Senhor dizer:|'Teus 
 
 esforços são em vão,|Nada podes 
@@ -10987,7 +10743,6 @@ redenção;|Sempre ali te renderei|
 Meu louvor e gratidão.
 
 →269 Confissão
-
 
 1. Eu aos teus pés, Jesus,|Com 
 
@@ -11034,7 +10789,6 @@ passos meus,|Ó tu, Jeová!
 
 →270 Resolução
 
-
 1. Jesus, Senhor, me chego a ti;|Oh,
 
  dá-me alívio mesmo aqui!|O teu 
@@ -11077,7 +10831,6 @@ pecador!
 
 →271 Substituição
 
-
 1. Todo o meu tão vil pecado|Lanço, 
 
 Cristo, sobre ti;|Ó Cordeiro 
@@ -11107,7 +10860,6 @@ Quero descansar em ti;|Deste modo
 aliviado,|Me consolas tu a mim.
 
 →272 Só Um Passo
-
 
 1. Mui terna e mui doce do Mestre é 
 
@@ -11155,7 +10907,6 @@ coração.
 
 →273 Salvador Benigno
 
-
 1. Salvador benigno, atende,|Pois 
 
 me queres bem!|Vais abençoando a 
@@ -11191,7 +10942,6 @@ a vida vem;|Dá-me alívio mesmo
 agora,|E perdão também.
 
 →274 Coro Santo
-
 
 1. Oh, que belos hinos cantam lá 
 
@@ -11236,7 +10986,6 @@ se resgatou um pecador!
 
 →275 Contentamento
 
-
 1. Eu já contente estou; tenho 
 
 Jesus!|Com alegria vou; tenho Jesus!
@@ -11268,7 +11017,6 @@ Quando meu Rei descer;|Certo, ele
 irá dizer: 'Sou teu Jesus.'
 
 →276 Coro Celeste
-
 
 1. Celeste, estranho coro,|Jamais 
 
@@ -11330,7 +11078,6 @@ lar.
 
 →277 Convencido
 
-
 1. Já convencido, eis-me, Senhor,|
 
 Que fui remido por teu amor;|Eu 
@@ -11367,7 +11114,6 @@ eu quero, sim, o grande Salvador,|
 Porque primeiro amou o pecador.
 
 →278 Cantai
-
 
 1. O meu coração sofredor|Descanso 
 
@@ -11413,7 +11159,6 @@ seu lar.
 
 →279 A Doce Luz
 
-
 1. Eu nas trevas vagueava|Sem a luz 
 
 da retidão;|A minha alma estava 
@@ -11454,7 +11199,6 @@ e vida,|Santidade e seu amor.
 
 →280 Fiquei Curado
 
-
 1. Para Jesus, Senhor, olhando pela 
 
 fé,|Curado já fiquei e foi real 
@@ -11487,7 +11231,6 @@ o céu.
 
 →281 Fonte Divina
 
-
 1. Achei a fonte carmesim|Que meu 
 
 Jesus abriu.|Na cruz morrendo ali 
@@ -11519,7 +11262,6 @@ com fervor|Em quem por mim morreu.
 
 →282 Maravilha
 
-
 1. Chegado á cruz do meu Salvador,|
 
 Prostrado aos pés do meu Redentor,|
@@ -11545,7 +11287,6 @@ meus laços e me livrou!|Glória ao
 Salvador!
 
 →283 Mais Perto
-
 
 1. Mais perto quero estar, meu Deus,
 
@@ -11592,7 +11333,6 @@ Meu Deus, de ti!
 
 →284 Companhia Divina
 
-
 1. Ó meu querido Salvador,|Vem 
 
 conceder-me teu favor;|Nuvem 
@@ -11618,7 +11358,6 @@ poderei assim vencer|As seduções do
 tentador;|Fica comigo, Salvador.
 
 →285 O Alvo Supremo
-
 
 1. O mundo vil já desprezei,|E seu 
 
@@ -11662,7 +11401,6 @@ até chegar|Às portas do celeste lar!
 
 →286 Junto a Ti
 
-
 1. Minha possessão eterna,|És o meu 
 
 maior amor;|Bem maior que o bem da 
@@ -11698,7 +11436,6 @@ feliz Jerusalém|Eu puder entrar na
 glória,|Gozarei o eterno bem.
 
 →287 Com Jesus
-
 
 1. Triste e sombrio foi meu viver,|
 
@@ -11745,7 +11482,6 @@ Junto de ti vencer ou morrer,|
 Cristo, meu Salvador.
 
 →288 Perto do Senhor
-
 
 1. Perto de ti almejo estar,|Perto, 
 
@@ -11808,7 +11544,6 @@ bis )
 
 →289 Ao Pé da Cruz
 
-
 1. Quero estar ao pé da cruz,|De 
 
 onde rica fonte|Corre franca, 
@@ -11844,7 +11579,6 @@ temor vigio,|Pois à terra santa
 irei,|Salvo, além do rio.
 
 →290 Cristo, Meu Mestre
-
 
 1. Cristo, meu Mestre, meu amigo 
 
@@ -11886,7 +11620,6 @@ fronte reclinar,|Para ter descanso
 desse labutar.
 
 →291 Comunhão Celeste
-
 
 1. Comigo assiste, ó Deus! A noite 
 
@@ -11942,7 +11675,6 @@ eterna habitação.
 
 →292 Perto de Jesus
 
-
 1. Meu Senhor, sou teu, tua voz 
 
 ouvi|A chamar-me com amor;|Mas a ti 
@@ -11977,7 +11709,6 @@ viva e mui reverente fé|Com o
 Salvador falar.
 
 →293 Desejos Espirituais
-
 
 1. Em mim vem habitar, oh, vem, 
 
@@ -12020,7 +11751,6 @@ Salvador
 
 →294 Necessitado
 
-
 1. De ti, Jesus, Senhor,|Eu tenho 
 
 precisão;|Só teu divino amor|Dá paz 
@@ -12049,7 +11779,6 @@ viverei|Sob tua proteção,|Ó meu
 bendito Rei!
 
 →295 Tudo Entregarei
-
 
 1. Tudo, ó Cristo, a ti entrego;|
 
@@ -12102,7 +11831,6 @@ Salvador!
 
 →296 Consagração
 
-
 1. A ti seja consagrada|Minha vida, 
 
 ó meu Senhor;|Meus momentos e meus 
@@ -12151,7 +11879,6 @@ teu nome honrar;|Faze que meu corpo
 inteiro|Eu te possa consagrar.
 
 →297 Súplica
-
 
 1. Prometo agora, meu Jesus,|Servir-
 
@@ -12213,7 +11940,6 @@ Dirige-me com teu favor|Até chegar
 à redenção.
 
 →298 Estou Pronto
-
 
 1. Nem sempre será pra o lugar que 
 
@@ -12278,7 +12004,6 @@ ser.
 
 →299 Onde Quer Que Seja
 
-
 1. Onde quer que seja, com Jesus 
 
 irei;|Ele é meu bendito Salvador e 
@@ -12320,7 +12045,6 @@ comigo estás, não temerei.'
 
 →300 Tudo Por Cristo
 
-
 1. Do Salvador bendito|Sempre 
 
 desejo ser;|Livre do mundo iníguo|
@@ -12356,7 +12080,6 @@ como sou, Senhor?|Venho entregar-me
 agora;|Sou teu, meu Redentor.
 
 →301 Crer e Observar
-
 
 1. Em Jesus confiar, sua lei 
 
@@ -12408,7 +12131,6 @@ a tua vontade cumprir.
 
 →302 Como a Neve
 
-
 1. Bom Jesus, és todo meu;|Eu 
 
 também sou todo teu.|Dá-me graça 
@@ -12439,7 +12161,6 @@ andar em tua luz,|Té que enfim eu
 vá morar|No celeste e eterno lar.
 
 →303 Amor a Jesus
-
 
 1. Jesus, sempre te amo porque sei 
 
@@ -12474,7 +12195,6 @@ por ti viverei;|A ti, ó meu Cristo,
 me submeterei!
 
 →304 Um Vaso de Bênção
-
 
 1. Quero ser um vaso de bênção,|Sim,
 
@@ -12522,7 +12242,6 @@ divinal.
 
 →305 Consagrar Tudo
 
-
 1. Teu divinal amor veio me buscar;|
 
 Tudo com gratidão quero consagrar.|
@@ -12568,7 +12287,6 @@ porvir vou enfim fruir.
 
 →306 O Caminho da Cruz
 
-
 1. Foi Jesus que abriu o caminho 
 
 pra o céu;|Não há outro meio de ir.|
@@ -12605,7 +12323,6 @@ Sigo, pois, Jesus, com a minha cruz,
 |No caminho que ao céu conduz.
 
 →307 Reconhecimento
-
 
 1. Não sou meu! Por Cristo salvo,|
 
@@ -12649,7 +12366,6 @@ teu!
 
 →308 Para Onde For Irei
 
-
 1. Se eu tiver Jesus ao lado,|E por 
 
 ele auxiliado,|Se por ele for 
@@ -12688,7 +12404,6 @@ prometida,|Eu pra meu Senhor irei.
 
 →309 Consagrando-nos
 
-
 1. Consagrando-nos a ti,|Implorando 
 
 tua proteção;|Oh, presente sê aqui,|
@@ -12721,7 +12436,6 @@ Pastor,|Imploramos bênçãos conceder.
 
 
 →310 Em Teus Braços
-
 
 1. Em teus braços eu me escondo,|
 
@@ -12784,7 +12498,6 @@ refugiado,|Nada tenho que temer.
 
 →312 Amparo
 
-
 1. Nas agruras desta vida,|No 
 
 descanso e no labor,|Dá-me força na 
@@ -12827,7 +12540,6 @@ sustentar.
 
 →313 Proteção Divina
 
-
 1. Ao crente é dada proteção|De 
 
 Deus, seu Benfeitor;|Conforto dá ao 
@@ -12864,7 +12576,6 @@ Ele nos guadará,|Sempre nos guiará,|
 E vida celestial|Teremos afinal.
 
 →314 Estou Seguro
-
 
 1. Que consolação tem meu coração,|
 
@@ -12912,7 +12623,6 @@ Deus.
 
 →315 Meu Clamor
 
-
 1. Neste mundo, mar profundo,|Não 
 
 me deixes perecer;|Sê comigo, bom 
@@ -12952,7 +12662,6 @@ meu clamor;|Em tormentos, meus
 lamentos|Oh, escuta bom Senhor!
 
 →316 Deus É Por Mim
-
 
 1. É Deus por mim; não temo|O mundo 
 
@@ -13010,7 +12719,6 @@ amor.
 
 →317 Abrigo
 
-
 1. Refúgio Cristo sempre dá,|
 
 Refúgio, sim, de todo mal;|Quem 
@@ -13045,7 +12753,6 @@ após a inquietação;|Pois só Jesus
 concederá|Sossego e paz ao coração.
 
 →318 Deus me Esconde
-
 
 1. Quando a tempestade ruge,|Quando 
 
@@ -13084,7 +12791,6 @@ peregrinação;|Nas maiores
 tempestades|Cristo dá-me proteção.
 
 →319 Abrigo Perfeito
-
 
 1. Deus é meu abrigo em todo 
 
@@ -13131,7 +12837,6 @@ poder;|Sim, prossigo vitorioso, sem
 pavor,|Por não ter o que temer!
 
 →320 Abrigo Feliz
-
 
 1. Abrigado em meu Jesus, há 
 
@@ -13180,7 +12885,6 @@ prazer.
 
 →321 Abrigo Seguro
 
-
 1. Confio só em ti, Jesus, meu 
 
 Salvador;|Em quem, senão em ti, 
@@ -13211,7 +12915,6 @@ descansarei,|E seu louvor entoarei.
 
 →322 Cristo Valerá
 
-
 1. Oscilando minha fé,|Cristo 
 
 valerá;|Perseguido, sem mercê,|Ele 
@@ -13240,7 +12943,6 @@ me deixará;|Vida eterna me outorgou,
 |Sim, me valerá.
 
 →323 Castelo Forte
-
 
 1. Castelo forte é nosso Deus,|
 
@@ -13298,7 +13000,6 @@ mulher,|Embora a vida vá,|Pos nós
 Jesus está,|E dar-nos-á seu reino.
 
 →324 Refúgio Verdadeiro
-
 
 1. Seguro estou, não tenho temor do 
 
@@ -13367,7 +13068,6 @@ firmado em seu amor.
 
 →325 Naufrágio
 
-
 1. Uma barca naufragando,|Quem a 
 
 valerá?|Afundando está no abismo,|
@@ -13407,7 +13107,6 @@ de pavor,|Foi que Cristo quis
 salvar-te,|Pobre pecador.
 
 →326 Refúgio
-
 
 1. Meu divino Protetor.|Quero em ti 
 
@@ -13462,7 +13161,6 @@ Queiras sempre me valer.
 
 →326 Refúgio (segunda música)
 
-
 1. Meu divino Protetor.|Quero em ti 
 
 me refugiar;|Pois as ondas de 
@@ -13516,7 +13214,6 @@ Queiras sempre me valer.
 
 →327 O Piloto
 
-
 1. Guia, Cristo, minha nau|Sobre o 
 
 revoltoso mar;|Tão enfurecido e mau,
@@ -13550,7 +13247,6 @@ deleitar|Em ouvir Jesus dizer:|
 do Senhor.'
 
 →328 Sossegai
-
 
 1. Ó Mestre, o mar se revolta,|As 
 
@@ -13613,7 +13309,6 @@ seguro|Ao porto, destino meu.
 
 →329 Conta as Bênçãos
 
-
 1. Se da vida as vagas procelosas 
 
 são|Se com desalento julgas tudo 
@@ -13668,7 +13363,6 @@ celestial.
 
 →330 O Segredo do Viver
 
-
 1. Quando nos cercar o mal,|Ao 
 
 rugir o temporal,|Em Jesus é 
@@ -13706,7 +13400,6 @@ pronto pra salvar|Quem somente
 confiar.
 
 →331 Glória No Porvir
-
 
 1. Temos sombras neste vale,|Em que 
 
@@ -13758,7 +13451,6 @@ o a repetir:|Há, sim, sombras neste
 vale,|Mas há glória no porvir.
 
 →332 Meu Senhor de Tudo Sabe
-
 
 1. Meu Senhor de tudo sabe,|
 
@@ -13813,7 +13505,6 @@ guia|Cristo, o Salvador.
 
 →333 Deus É Sabedor
 
-
 1. Eu sei que Deus é sabedor|Do meu 
 
 sofrer, da minha dor;|Mas sei 
@@ -13855,7 +13546,6 @@ proteger.
 
 →334 Alívio
 
-
 1. Vem, alma cansada, tomada de dor,
 
 |Entrega os cuidados na mão do 
@@ -13889,7 +13579,6 @@ de dor;|Vai, traze os contritos aos
 pés do Senhor.
 
 →335 O Gozo da Vida
-
 
 1. Cristo amado, sei que na força 
 
@@ -13943,7 +13632,6 @@ Jesus, Rei de amor!
 
 →336 Fonte de Consolação
 
-
 1. Alma, que aflita estás, Deus, 
 
 Pai bondoso,|Em compaixão e amor, 
@@ -13986,7 +13674,6 @@ somos benquistos,|Ele nos ama e nos
 protegerá.
 
 →337 Nada de Desânimo
-
 
 1. Queres desanimar-te?|Já não tens 
 
@@ -14041,7 +13728,6 @@ eternas|Comigo irás viver."
 
 →338 Redentor
 
-
 1. Sei que vive o Redentor,|Sei que 
 
 há vida em seu favor,|Que, se aqui 
@@ -14072,7 +13758,6 @@ Reina! E salvo eu sou!|Vivo nele, o
 Redentor,|Sempre firme em seu amor!
 
 →339 Não Consintas
-
 
 1. Oh, não consintas tristezas|
 
@@ -14110,7 +13795,6 @@ incerteza e temor;|Paz e prazer tu
 em breve|Receberás do Senhor.
 
 →340 Importará
-
 
 1. Importará ao Senhor Jesus|Que eu 
 
@@ -14158,7 +13842,6 @@ Jesus? Pesará?
 
 →341 Socorro Divino
 
-
 1. No meu viver é ajudador|Meu Pai 
 
 dos céus, meu bom Senhor;|A minha 
@@ -14203,7 +13886,6 @@ está.
 
 →342 A Minha Cruz
 
-
 1. A cruz que me deu Jesus Cristo|
 
 Fortalece o meu amor;|As dores que 
@@ -14242,7 +13924,6 @@ tão bela história|Tenho gozo e paz
 sem fim.
 
 →343 Sempre Firme
-
 
 1. Minha morada, Jesus, assegura,|
 
@@ -14284,7 +13965,6 @@ certeza|De ir me alegrar sob imenso
 docel.
 
 →344 Deus Cuidará de Ti
-
 
 1. Aflito e triste coração,|Deus 
 
@@ -14328,7 +14008,6 @@ cuidará de ti;|Nos braços seus te
 sustentar,|Pois cuidará de ti.
 
 →345 Contar a Jesus
-
 
 1. A Jesus Cristo contarei tudo|Que 
 
@@ -14375,7 +14054,6 @@ Jesus Cristo, forte e zeloso,|
 Sempre me ajuda a permanecer.
 
 →346 Meu Deus Proverá
-
 
 1. Na forte aflição, nos perigos e 
 
@@ -14455,7 +14133,6 @@ certeza: 'Meu Deus proverá.'
 
 →347 O Coração Em Paz
 
-
 1. Vindo sombras escuras nos 
 
 caminhos teus,|Oh, não te desanime! 
@@ -14501,7 +14178,6 @@ tristezas, se tiveres paz.
 
 →348 Confiando
 
-
 1. Confiando em meu Jesus,|Dele vêm-
 
 me paz e luz;|Quando vem a provação,
@@ -14539,7 +14215,6 @@ vida terminar,|Lá na glória irei
 cantar.
 
 →349 Rica Promessa
-
 
 1. Oh. como é grande e doce a 
 
@@ -14589,7 +14264,6 @@ guardarei.
 
 →350 Quero o Salvador
 
-
 1. Quero o Salvador comigo;|Só com 
 
 ele eu posso andar;|Quero conhecê-
@@ -14625,7 +14299,6 @@ guia e Bom Pastor,|Té passar além
 da morte,|Longe do perigo e dor.
 
 →351 Direção Divina
-
 
 1. As tuas mãos dirigem meu destino.
 
@@ -14695,7 +14368,6 @@ seguirei.
 
 →353 Sou Pecador
 
-
 1. Ó Deus, tu me provaste a mim;|
 
 Ninguém se esconderá de ti;|Prevês 
@@ -14751,7 +14423,6 @@ Qualquer ofensa contra ti.
 
 →354 Cada Momento
 
-
 1. Sendo remido por Cristo na cruz,|
 
 Vivo gozando no reino da luz;|Cheio 
@@ -14800,7 +14471,6 @@ Cristo, meu Mestre, me pode guardar.
 
 →355 Luz Benigna
 
-
 1. Na escuridão, oh, brilha, meiga 
 
 Luz!|Guiar-me vem!|Na negra noite 
@@ -14836,7 +14506,6 @@ vida terreal,|Irei morar no lar
 celestial.
 
 →356 Jesus Como Guia
-
 
 1. Meu Jesus me guia sempre|Que 
 
@@ -14890,7 +14559,6 @@ ser a criação!
 
 →357 Guia-me
 
-
 1. Guia-me, meu Salvador;|Sempre me 
 
 conduz, Senhor;|Certo, firme e 
@@ -14921,7 +14589,6 @@ da vida o fim,|Para a terra do
 fulgor,|Na presença do Senhor.
 
 →358 Não Há Perigo
-
 
 1. Muitos falam dos perigos|Do 
 
@@ -14957,7 +14624,6 @@ divino auxílio,|Hei de sempre
 triunfar.
 
 →359 Jesus Como Guia
-
 
 1. Jesus me guia, que prazer!|
 
@@ -15004,7 +14670,6 @@ guardado, meu Senhor,|Contigo
 espero então morar.
 
 →360 Companheiro
-
 
 1. De teu cuidado terno|Me cerca, ó 
 
@@ -15059,7 +14724,6 @@ triunfal.
 
 →361 Por Mim
 
-
 1. Salvação Jesus me dá;|Com amor 
 
 me guiará;|Para o céu me levará!|Tu 
@@ -15101,7 +14765,6 @@ louvar.|Tu não queres a Cristo
 seguir?
 
 →362 Nunca Sozinho
-
 
 1. Neste mundo sozinho|Não quero 
 
@@ -15154,7 +14817,6 @@ irá me deixar.
 
 →363 Sê Tu Meu Guia
 
-
 1. Sê tu meu Guia, ó Cristo; estou 
 
 medroso|De andar sozinho pela 
@@ -15200,7 +14862,6 @@ bem.
 
 →364 Filhos de Deus
 
-
 1. Do Deus santo somos filhos,|Co-
 
 herdeiros de Jesus!|Em seu Filho o 
@@ -15240,7 +14901,6 @@ tua obra;|Vem, oh, vem-nos libertar!
 
 →365 Fé Persistente
 
-
 1. Almejo a fé que forte é|Diante 
 
 do terror,|Que, calma, não recuará|
@@ -15269,7 +14929,6 @@ venha o que vier|Aqui na lide
 provarei|Celestial prazer.
 
 →366 Firmeza
-
 
 1. Em nada ponho a minha fé,|Senão 
 
@@ -15313,7 +14972,6 @@ no céu estão.
 
 →367 Firme Na Rocha
 
-
 1. Que alicerce tendes pra 
 
 construir|Uma casa firme pra 
@@ -15352,7 +15010,6 @@ têm;|Sua fé firmada no Salvador,|Na
 maior procela, ei-los sem temor!
 
 →368 Confiança
-
 
 1. Salvador bendito, terno e bom 
 
@@ -15406,7 +15063,6 @@ amor.
 
 →369 Só Jesus
 
-
 1. Quem tenho eu no céu, Senhor?|Só 
 
 Jesus, só Jesus.|É só Jesus meu 
@@ -15458,7 +15114,6 @@ vou cantar:|Só Jesus, só Jesus.
 
 →370 Crendo Em Cristo
 
-
 1. Mestre divino, ó Jesus, meu 
 
 Senhor,|Eu creio em ti, sim, creio 
@@ -15506,7 +15161,6 @@ Sempre refúgio, defesa real,|Cristo
 Jesus, creio em ti!
 
 →371 Rocha Eterna
-
 
 1. Rocha eterna, foi na cruz|Que 
 
@@ -15579,7 +15233,6 @@ terei de em ti viver!
 
 →372 Salvo Estou
 
-
 1. Glória a Jesus, sim, ao Filho de 
 
 Deus,|O bom Salvador que nos veio 
@@ -15630,7 +15283,6 @@ consagrarei.
 
 →373 Certeza
 
-
 1. Por mim sofreu o Salvador;|
 
 Glória, glória a meu Jesus!|Louvai 
@@ -15677,7 +15329,6 @@ glória a meu Jesus!
 
 →374 Salvo
 
-
 1. Salvo por Jesus Cristo,|tenho 
 
 perfeita paz.|A comunhão com Ele|
@@ -15723,7 +15374,6 @@ reinar!
 
 →375 Segurança
 
-
 1. Vivo feliz, pois sou de Jesus,|E 
 
 já desfruto o gozo da luz!|Sou por 
@@ -15762,7 +15412,6 @@ Esperançoso, vivo na luz,|Pela
 bondade do meu Jesus!
 
 →376 Salvação Perfeita
-
 
 1. Livres do medo temos ficado;|
 
@@ -15810,7 +15459,6 @@ segurança de uma vez!
 
 →377 Não Sei Por Que
 
-
 1. Não sei por que de Deus o amor|A 
 
 mim se revelou,|Por que razão o 
@@ -15849,7 +15497,6 @@ Senhor virá|Na glória que ele tem.
 
 →378 Já Certo Estou
 
-
 1. Já certo estou, sim, certo estou|
 
 Que Cristo tem amor por mim.|Já 
@@ -15877,7 +15524,6 @@ salvo estou por meu Jesus,|Pois
 padeceu por mim.
 
 →379 Laços Benditos
-
 
 1. Benditos laços são|Os do 
 
@@ -15907,7 +15553,6 @@ separar,|No céu eterna comunhão|
 Havemos de gozar.
 
 →380 Amor
-
 
 1. Qual o adorno desta vida?|É o 
 
@@ -15979,7 +15624,6 @@ reina o amor.
 
 →381 Amor Fraternal
 
-
 1. Jesus, Pastor amado,|Contempla-
 
 nos aqui;|Concede que sejamos|Um 
@@ -16026,7 +15670,6 @@ pediste|Em nós se cumprirá,|E todo
 o mundo inteiro|A ti conhecerá.
 
 →382 Vamos À Igreja
-
 
 1. Tenho gozo e alegria celeste|
 
@@ -16076,7 +15719,6 @@ abraçar, defender.
 
 →383 Satisfação
 
-
 1. Senhor Jesus, eu te amo mais|Que 
 
 o mundo e seu prazer;|Pois deste-me 
@@ -16115,7 +15757,6 @@ temor|Teu rosto contemplar!
 
 →384 A Voz de Jesus
 
-
 1. Que doce voz tem meu Senhor,|Voz 
 
 de amor, tão terna e graciosa,|Que 
@@ -16152,7 +15793,6 @@ mal, com firmeza tal|Que nunca
 estou sozinho.
 
 →385 Louvor
-
 
 1. Vamos nós louvar a Deus,|Vamos, 
 
@@ -16212,7 +15852,6 @@ bênçãos!
 
 →386 Cristo, Meu Deleite
 
-
 1. Ah, se eu tivesse mil vozes|Para 
 
 o Brasil encher|Com os louvores de 
@@ -16243,7 +15882,6 @@ Jesus Senhor;|Que este país tão
 querido|Renda-se ao Salvador.
 
 →387 Contentamento
-
 
 1. Minha alma deleita-se em Cristo;|
 
@@ -16277,7 +15915,6 @@ com fervor.
 morada,|Oh, graças a meu Salvador!
 
 →388 O Homem Feliz
-
 
 1. Feliz é o homem que não vai|
 
@@ -16334,7 +15971,6 @@ eterna dor.
 
 →389 Ventura
 
-
 1. O amor de meu Cristo é ventura,|
 
 Repleto de graça sem-par;|E sua 
@@ -16372,7 +16008,6 @@ gozarei.
 
 →390 Nada Falta
 
-
 1. De Jesus a doce voz|Ouvi eu, 
 
 pecador;|Aceitei, de coração,|Jesus,
@@ -16401,7 +16036,6 @@ seu favor;|Nada aqui me faltará,|
 Com Cristo, meu Senhor.
 
 →391 Estou Contente
-
 
 1. Oh, como estou contente,|Feliz, 
 
@@ -16465,7 +16099,6 @@ sem-par!
 
 →392 Extraviado
 
-
 1. Bem longe de Deus eu andava,|Um 
 
 pobre perdido fui eu;|Pensava que 
@@ -16520,7 +16153,6 @@ para sempre|A quem me deu vida
 eternal
 
 →393 Cristo pra Mim
-
 
 1. Oh, que descanso em Jesus 
 
@@ -16595,7 +16227,6 @@ pra mim!
 
 →394 Realidade
 
-
 1. Ouvi o Salvador dizer:|"Vem 
 
 descansar em mim,|E nos meus braços 
@@ -16635,7 +16266,6 @@ em mim;|E nessa luz eu andarei|Até
 da vida o fim.
 
 →395 Cristo Satisfaz
-
 
 1. Riquezas não preciso ter,|Mas, 
 
@@ -16677,7 +16307,6 @@ aqui viver|De um modo que lhe dê
 prazer.
 
 →396 Cegueira e Vista
-
 
 1. Oh, tão cego eu andei, e perdido 
 
@@ -16733,7 +16362,6 @@ pecador!
 
 →397 Achei Descanso
 
-
 1. Ó Jesus, achei descanso|Em teu 
 
 terno coração;|É manancial de gozo|
@@ -16773,7 +16401,6 @@ de perene amor,|Sou feliz com tua
 glória,|Cristo Salvador!
 
 →398 Sou Feliz
-
 
 1. Se paz a mais doce me deres 
 
@@ -16823,7 +16450,6 @@ remidos na luz do Senhor!
 
 →399 Cantarei de Cristo
 
-
 1. Cantarei de Jesus Cristo,|Que 
 
 sofreu pra me salvar;|Ele sobre a 
@@ -16864,7 +16490,6 @@ e ardor.
 
 →400 Júbilo
 
-
 1. Jesus, Senhor altíssimo,|A morte 
 
 quis sofrer,|De pecadores míseros|
@@ -16893,7 +16518,6 @@ compaixão de Deus|O meu alegre
 cântico|Aqui e lá nos céus.
 
 →401 Eu Sou de Jesus
-
 
 1. Mui triste eu andava, sem gozo e 
 
@@ -16935,7 +16559,6 @@ Oh, vem, vem a Cristo, sem
 hesitação!
 
 →402 Escrava Resgatada
-
 
 1. Eis a escrava resgatada,|Grande 
 
@@ -16981,7 +16604,6 @@ habitar.
 
 →403 Alegre
 
-
 1. Perdido andei na escuridão,|Mas 
 
 Cristo me encontrou,|E com a luz do 
@@ -17019,7 +16641,6 @@ Jesus, o Salvador,|O qual a sua
 vida deu|Por mim, vil pecador.
 
 →404 Substituição
-
 
 1. De pecados carregado,|Abatido e 
 
@@ -17077,7 +16698,6 @@ grande o teu amor!
 
 →405 Gozo e Paz
 
-
 1. Oh, eu sou feliz,|pois já creio 
 
 em meu Jesus|Que por mim morreu,|
@@ -17123,7 +16743,6 @@ pela fé no eterno Rei;|Paz perfeita,
 
 →406 Confiar Em Cristo
 
-
 1. Que delícia é crer em Cristo,|Em 
 
 seu nome confiar,|Aceitar os seus 
@@ -17156,7 +16775,6 @@ mui submisso,|Sempre a ele obedecer.
 
 
 →407 Ditoso Dia
-
 
 1. Ditoso o dia em que aceitei|Do 
 
@@ -17197,7 +16815,6 @@ dos céus.
 
 →408 Descanso Verdadeiro
 
-
 1. Cada coração procura|Onde possa 
 
 descansar,|Mas descanso verdadeiro|
@@ -17229,7 +16846,6 @@ eu!|E, seguindo a meu Jesus,|Vou
 andando para o céu.
 
 →410 Felicidade No Serviço
-
 
 1. No serviço do meu Rei eu sou 
 
@@ -17277,7 +16893,6 @@ serviço do meu Rei.
 
 →411 Dia Festivo
 
-
 1. Que alegria neste dia|Nós 
 
 estamos a gozar!|Neste ensejo bom 
@@ -17313,7 +16928,6 @@ Abençoa-nos aqui;|Que esta igreja
 sempre seja|Consagrada só a ti!
 
 →412 A Música dos Salvos
-
 
 1. Ah, que canto que, soando,|Enche 
 
@@ -17358,7 +16972,6 @@ compaixão!|Eis o divinal convite!|
 Abraçai a salvação.
 
 →413 Lealdade
-
 
 1. É ordem do Senhor,|Selada com 
 
@@ -17406,7 +17019,6 @@ nos a ti;|Queremos, pois, ser fiéis,
 leais|A Cristo, Salvador!
 
 →414 Acordai
-
 
 1. Eis que vamos para aquele bom 
 
@@ -17477,7 +17089,6 @@ Oh, sim, vamos trabalhar!
 
 →415 Alerta
 
-
 1. Minha alma alerta vai,|Eis 
 
 inimigos mil;|De Satanás a hoste 
@@ -17499,7 +17110,6 @@ com teu Deus;|Pois ele vai te
 proteger|E coroar nos céus.
 
 →416 Filhos da Luz
-
 
 1. Filhos da luz, que desfrutais 
 
@@ -17566,7 +17176,6 @@ luz.
 
 →417 Brilha No Viver
 
-
 1. Não somente pra fazer um feito 
 
 singular|É mister agir com muito 
@@ -17607,7 +17216,6 @@ almas vivem sem prazer!|Jazem na
 negra escuridão.
 
 →418 Disposição de Trabalhar
-
 
 1. Bendito Senhor, nosso Rei Jesus,|
 
@@ -17659,7 +17267,6 @@ visão.
 
 →419 Mãos Ao Trabalho
 
-
 1. Mãos ao trabalho, crentes,|Vai 
 
 já passando o alvor;|Vamos, 
@@ -17699,7 +17306,6 @@ trabalhar;|Eia, que em vindo a
 noite,|Vamos descansar.
 
 →420 Servir Alegremente
-
 
 1. Ao Mestre, alegremente,|Irmãos, 
 
@@ -17746,7 +17352,6 @@ exercer.
 
 →421 Conversação Cristã
 
-
 1. Sabeis falar de tudo|Que neste 
 
 mundo há,|Mas nem sequer palavra|De 
@@ -17782,7 +17387,6 @@ nos quis dar|Seu sangue tão
 precioso,|E assim nos resgatar.
 
 →422 Trabalho Cristão
-
 
 1. Vamos nós trabalhar, somos 
 
@@ -17836,7 +17440,6 @@ pela graça nos dá!
 
 →423 Oh, Buscai
 
-
 1. Oh, buscai, não as riquezas|
 
 Deste mundo de incertezas,|Que as 
@@ -17889,7 +17492,6 @@ mandou chamá-los;|Oh, buscai-os,
 sim, buscai!
 
 →424 Vamos À Colheita
-
 
 1. Ceifeiros somos nós fiéis,|
 
@@ -17946,7 +17548,6 @@ céu levar,|Ou folhas só apresentar?
 
 →425 Luz Após Trevas
 
-
 1. Luz após trevas, glória após luz|
 
 Ganho após perda, trono após cruz,|
@@ -17976,7 +17577,6 @@ Tudo isso eu tenho, crendo em Jesus.
 
 
 →426 Gratidão Na Luta
-
 
 1. Com gratidão e com fervor|
 
@@ -18016,7 +17616,6 @@ prosseguir|No bom querer de te
 servir.
 
 →427 Conquistar o Mundo
-
 
 1. 'O mundo vasto imenso,|Pra 
 
@@ -18062,7 +17661,6 @@ entregar,|Pois no universo inteiro|
 Jesus há de imperar!
 
 →428 Luz Nas Trevas
-
 
 1. Avançai! Avançai! Derramai santa 
 
@@ -18110,7 +17708,6 @@ perdão!|Avançai com amor, avançai!
 
 →429 Ceifando
 
-
 1. Espalhemos todos a semente santa,
 
 |Desde a madrugada até o anoitecer,|
@@ -18156,7 +17753,6 @@ que alcançou na cruz!
 
 →430 Em Cada Lugar
 
-
 1. Se já estás salvo por Cristo, o 
 
 Senhor|Dize-o em cada lugar!|E se 
@@ -18200,7 +17796,6 @@ presença chegares de Deus,|Dize-o
 em cada lugar!
 
 →431 Acode Em Tempo
-
 
 1. Acode em tempo! Depressa, ó 
 
@@ -18251,7 +17846,6 @@ Acode em tempo! Sim, faze luzir|A
 luz salvadora do eterno povir!
 
 →432 Avante com Deus
-
 
 1. Ó crentes brasileiros,|Firmai-
 
@@ -18304,7 +17898,6 @@ Avante com fervor!
 
 →433 A Colheita Além
 
-
 1. Cai a semente no bom frescor,|É 
 
 semeada, sim, no calor,|É semeada 
@@ -18353,7 +17946,6 @@ contigo ceifar em luz.
 
 →434 Onde os Obreiros
 
-
 1. Oh, onde os obreiros pra 
 
 trabalhar|Nos campos tão vastos a 
@@ -18395,7 +17987,6 @@ Deus o perdão de um amor sem-par?
 
 →435 Ainda Há Lugar
 
-
 1. Oh, convidai-os, pois há lugar|
 
 No banquete celestial!|Sim, ide 
@@ -18432,7 +18023,6 @@ Deveis convidá-los, sem exceção,|Ao
 banquete do Salvador!
 
 →436 Dai-nos Luz
-
 
 1. Uma voz ressoa de geral clamor:|
 
@@ -18479,7 +18069,6 @@ Aos milhões perdidos sem tardar
 valei|Com a luz de Jesus!
 
 →437 As Boas-novas
-
 
 1. Povo de Deus, cumpri o vosso 
 
@@ -18551,7 +18140,6 @@ Redentor!
 
 →438 Ouvindo de Jesus
 
-
 1. Disse Jesus: Ide por todo o 
 
 mundo|E pregai o eterno dom|Da 
@@ -18621,7 +18209,6 @@ tanta!
 
 →439 Oração Pela Pátria
 
-
 1. Minha Pátria para Cristo!|Eis a 
 
 minha petição;|Minha Pátria tão 
@@ -18655,7 +18242,6 @@ temor servil;|Ou ficar a Pátria
 salva,|Ou morrer pelo Brasil.
 
 →440 A Pátria Feliz
-
 
 1. A Pátria para Cristo!|Esta é 
 
@@ -18696,7 +18282,6 @@ além,|Que todo brasileiro|Atenda e
 goze o bem!
 
 →441 Graça e Salvação
-
 
 1. Ide a mensagem ao mundo levar:|
 
@@ -18753,7 +18338,6 @@ Graça e salvação!
 
 →442 O Missionário
 
-
 1. Desde um a outro pólo,|Da China 
 
 ao Panamá,|E do africano solo|Até 
@@ -18802,7 +18386,6 @@ lado de Jesus|Terá a eterna vida|
 Que promanou da cruz.
 
 →443 Eis os Milhões
-
 
 1. Eis os Milhões que, em trevas 
 
@@ -18858,7 +18441,6 @@ a Ti darão!
 
 →444 Brasil
 
-
 1. Do vasto Mato Grosso|À costa 
 
 Ceará,|Por vilas e cidades,|Do sul 
@@ -18896,7 +18478,6 @@ Unidos no evangelho,|Salvemos o
 Brasil.
 
 →445 Deves Divulgar
-
 
 1. Oh, que bela e doce história|Do 
 
@@ -18945,7 +18526,6 @@ De Deus e seu amor!
 
 →446 Avançai
 
-
 1. Confiando no Senhor, avançai, 
 
 avançai!|Esperando em seu amor, 
@@ -18979,7 +18559,6 @@ o céu, o eterno lar,|Onde havéis de
 descansar. Avançai!
 
 →447 Nunca Ouvir de Cristo
-
 
 1. Não te importa se algum dos 
 
@@ -19035,7 +18614,6 @@ falaram de Cristo!"
 
 →448 Ide
 
-
 1. Cristo, divino Rei, para os 
 
 perdidos|Lauto banquete mandou 
@@ -19076,7 +18654,6 @@ apressados!|Cristo nas bodas a
 todos quer ver.
 
 →449 Ousados Proclamai
-
 
 1. Ousados, com firmeza,|Ó crentes, 
 
@@ -19134,7 +18711,6 @@ corrupção,|Pregando as boas-novas|
 De luz e salvação.
 
 →450 Igreja, Alerta
-
 
 1. É tempo, é tempo, o mestre está 
 
@@ -19200,7 +18776,6 @@ louvor terá.
 
 →451 Os Que Confiam
 
-
 1. Ceifeiros da seara santa|Sois 
 
 poucos, débeis sois;|Porém, é forte 
@@ -19235,7 +18810,6 @@ luta contra o mal;|Coragem, pois,
 irmãos, avante|Na obra sem igual!
 
 →452 Decisão
-
 
 1. Quem está ao lado do bom 
 
@@ -19293,7 +18867,6 @@ seus fiéis.
 
 →453 À Peleja
 
-
 1. Sois vós, irmãos, campeões da 
 
 cruz?|Para a campanha vos alistai;|
@@ -19328,7 +18901,6 @@ combater contra o mal, segui|Sempre
 o fiel Capitão!
 
 →454 Vitória Nas Lutas
-
 
 1. Temos por lutas passado,|Umas 
 
@@ -19370,7 +18942,6 @@ Sim, todo o bem-estar|Quer nos dar!
 
 →455 Heróis
 
-
 1. Erguei-vos, cristãos! O clarim 
 
 já soou;|À guerra vos chama quem 
@@ -19411,7 +18982,6 @@ firmeza mostrai;|À sombra da cruz,
 corajosos, lutai!
 
 →456 O Estandarte
-
 
 1. O estandarte desta igreja|
 
@@ -19460,7 +19030,6 @@ evangelho|Toda a terra abrangerá.
 
 →457 Confiança Em Deus
 
-
 1. Confia sempre, ó crente,|Na luta 
 
 por Jesus,|Em Deus, pois que à 
@@ -19489,7 +19058,6 @@ igual;|Confia nele, ó crente,|Até o
 dia final.
 
 →458 Cristo Vos Conduz
-
 
 1. Eia, ó soldados, crentes em 
 
@@ -19569,7 +19137,6 @@ deseja a glória tome a sua cruz.
 
 →459 Companheiras
 
-
 1. Sempre unidas, companheiras,|
 
 Declaremos por Jesus|Guerra santa 
@@ -19602,7 +19169,6 @@ fé do Salvador,|Imploremos sua
 graça,|Pra vivermos em amor.
 
 →460 Vitória
-
 
 1. Eia, avante, crentes, já na 
 
@@ -19643,7 +19209,6 @@ Seu bendito reino nunca findará!
 
 →461 Fujamos da Tentação
 
-
 1. Sempre combatamos toda tentação,|
 
 Pois infelicita nosso coração;|
@@ -19682,7 +19247,6 @@ atenção,|A Jesus seguindo sempre em
 união.
 
 →462 Unidos
-
 
 1. Irmãos fiéis, uni-vos já|Pra 
 
@@ -19728,7 +19292,6 @@ Eu triunfarei|pelo sangue de Jesus;|
 Sim, triunfarei|pela sua cruz.
 
 →464 Sempre Fiéis
-
 
 1. Sempre fiéis, sim, a Ti nós 
 
@@ -19791,7 +19354,6 @@ Jesus!
 
 →465 Igual a Daniel
 
-
 1. Meu irmão, procura ser|Igual a 
 
 Daniel!|Resoluto em combater|O 
@@ -19820,7 +19382,6 @@ timidez!|Muitos males cairão|
 Perante a intrepidez!
 
 →466 Lutai Por Cristo
-
 
 1. Lutai, irmãos, por Cristo|
 
@@ -19890,7 +19451,6 @@ confia no seu grande amor!
 
 →468 Testemunhos
 
-
 1. Eia, crentes destemidos!|Da 
 
 verdade convencidos,|Para a luta 
@@ -19942,7 +19502,6 @@ Deus, verdade e fé!
 
 →469 Corajosos
 
-
 1. Um pendão real vos entregou o 
 
 Rei,|A vós, soldados seus;|
@@ -19979,7 +19538,6 @@ batalha sempre são fiéis|Com Ele
 reinarão.
 
 →470 O Combate
-
 
 1. Cristo vos chama, crentes fiéis,|
 
@@ -20021,7 +19579,6 @@ ardor|Por Cristo, o Mestre, Rei
 vencedor!
 
 →471 Vitorioso
-
 
 1. Sempre vencendo, mui valoroso,|
 
@@ -20078,7 +19635,6 @@ findar!
 
 →472 Frente Ousada
 
-
 1. Eia, às armas, camaradas!|
 
 Prestos já formai!|Destras firmes 
@@ -20114,7 +19670,6 @@ Toques de clarim?|Vem Jesus, vem
 triunfante!|Venceremos, sim!
 
 →473 Firmes Na Fé
-
 
 1. Campeões da peleja sagrada|O 
 
@@ -20163,7 +19718,6 @@ enfraquece|Os heróis da conquista
 do bem.
 
 →474 Eia, Ao Combate
-
 
 1. Eia, ao combate! Em vibrações 
 
@@ -20214,7 +19768,6 @@ e todo o seu poder,|E, com seu povo,
 
 →475 Lutar
 
-
 1. Vamos batalhar, juntos pelejar,|
 
 Todos guerrear, vamos já!|O inimigo 
@@ -20252,7 +19805,6 @@ nos coroar, por teu amor!
 
 →476 Brilho Celeste
 
-
 1. Peregrinando vou pelos montes|E 
 
 pelos vales, sempre na luz!|Cristo 
@@ -20289,7 +19841,6 @@ e mais perto, o Mestre seguindo,|
 Canto os louvores da salvação.
 
 →477 Como Andar
-
 
 1. Peregrinos, quais estrangeiros,|
 
@@ -20346,7 +19897,6 @@ caminhar.
 
 →478 O Peregrino
 
-
 1. Eu sou um peregrino,|Da estrada 
 
 pouco sei;|E dizem que perigos|Eu 
@@ -20384,7 +19934,6 @@ quando a noite|Eu enfrentar, no fim,
 Encontrarei, enfim.
 
 →479 Vou À Pátria
-
 
 1. Vou à pátria, eu, peregrino,|A 
 
@@ -20424,7 +19973,6 @@ Felicidade, paz e doçura,|Terei na
 glória! Ah, quando irei daqui?
 
 →480 Favor
-
 
 1. Deus de paz, aos peregrinos|Ouve 
 
@@ -20469,7 +20017,6 @@ nos do vil pecado;|Dá-nos teu favor.
 
 →481 Ao Lar Celestial
 
-
 1. À Pátria abençoada vou|Ansioso 
 
 peregrino sou,|Em busca do feliz 
@@ -20502,7 +20049,6 @@ canto angelical|Da triunfante
 multidão|Feliz por sua redenção.
 
 →482 Guia, Ó Deus
-
 
 1. Guia, ó Deus, a minha sorte|
 
@@ -20543,7 +20089,6 @@ Jordão hei de passar,|E acharei no
 céu morada,|Que Jesus foi preparar.
 
 →483 Pátria Celestial
-
 
 1. Pátria minha, por ti suspiro;|
 
@@ -20600,7 +20145,6 @@ reinarão.
 
 →484 Saudade
 
-
 1. Da linda pátria estou mui longe,|
 
 Triste eu estou;|Eu tenho de Jesus 
@@ -20640,7 +20184,6 @@ o sei;|Mas ele me achará alerta,|E
 para o céu irei.
 
 →485 Livro da Vida
-
 
 1. As riquezas do mundo|Pouco valem 
 
@@ -20683,7 +20226,6 @@ Pelo seu Redentor.
 
 →486 Doce Porvir
 
-
 1. Após as lutas desta vida,|Com o 
 
 Senhor eu estarei;|Após a minha 
@@ -20718,7 +20260,6 @@ atribulada.|Com o Senhor eu estarei.
 
 
 →487 Precioso É Jesus
-
 
 1. Anelo por Cristo, meu Rei 
 
@@ -20771,7 +20312,6 @@ para mim!
 
 →488 Cada Vez Mais
 
-
 1. É grato relembrar|Que cada dia 
 
 estou|Mais perto do celeste lar|Em 
@@ -20814,7 +20354,6 @@ teu, Senhor,|Até que possa
 descansar|Naquele lar de amor.
 
 →489 Céu pra Mim
-
 
 1. Não sei quando Cristo Jesus há 
 
@@ -20872,7 +20411,6 @@ isso será céu pra mim!
 
 →490 Com Cristo É Céu
 
-
 1. Depois que Cristo me salvou,|Em 
 
 céu o mundo se tornou;|Até no meio 
@@ -20907,7 +20445,6 @@ gruta, boa ou ruim,|Com Cristo aí é
 céu pra mim.
 
 →491 Como Há de Ser
-
 
 1. Como há de ser, conclusa a longa 
 
@@ -21026,7 +20563,6 @@ glória divinal.
 
 →492 Meu Canto Celestial
 
-
 1. Já muitas vezes eu pensei|Qual 
 
 há de ser o canto meu,|Indo eu 
@@ -21084,7 +20620,6 @@ Que nunca tal eu mereci!
 
 →493 No Paraíso
 
-
 1. No paraíso do cristão,|Prazeres 
 
 santos há;|E muitos meus queridos 
@@ -21128,7 +20663,6 @@ esperam lá!
 
 →494 Além
 
-
 1. Uma cidade mui feliz existe|Além 
 
 das brumas e da cerração;|Somente 
@@ -21167,7 +20701,6 @@ vos turba a calma,|E, enfim, ao lar
 do céu vos recolhei.
 
 →495 Redenção
-
 
 1. Nós iremos com Cristo Jesus 
 
@@ -21236,7 +20769,6 @@ esperança do povo seu!
 
 →496 Rio da Vida
 
-
 1. Há um rio cristalino|Onde os 
 
 santos viverão,|Nasce no divino 
@@ -21265,7 +20797,6 @@ peregrinação,|E louvores
 sempiternos|Nossos lábios cantarão.
 
 →497 Tantos Remidos
-
 
 1. Tantos remidos vejo nos céus,|
 
@@ -21314,7 +20845,6 @@ estão,|Brancos, mui brancos no
 coração.
 
 →498 A Bela Cidade
-
 
 1. Tenho lido da bela cidade,|
 
@@ -21373,7 +20903,6 @@ contou ao mortal.
 
 →499 Tudo Feliz
 
-
 1. Se infeliz nos corre a vida 
 
 terreal,|Temos de deixá-la um dia,|
@@ -21420,7 +20949,6 @@ mui feliz.
 
 →500 Glória pra Mim
 
-
 1. Quando meu tempo de lutas passar,
 
 |Quando meu Deus para si me chamar,|
@@ -21457,7 +20985,6 @@ Mas quando meu Salvador me saudar,|
 Glória perene será para mim!
 
 →501 O Nosso Lar
-
 
 1. Querido lar tenho eu no céu,|
 
@@ -21496,7 +21023,6 @@ no lar de amor.
 
 →502 Um Pouco Mais
 
-
 1. Um pouco mais, e partirei|Para 
 
 onde não há dor;|Um pouco mais, e 
@@ -21532,7 +21058,6 @@ voz do Salvador:|"Fiel, bom servo,
 vem entrar|No gozo do Senhor."
 
 →503 Face a Face
-
 
 1. Em breve a vida vai findar;|Aqui 
 
@@ -21577,7 +21102,6 @@ dia vou fazer|Aquilo que ao Senhor
 honrar.
 
 →504 Lá no Céu
-
 
 1. Há um lar mui feliz lá no céu,|
 
@@ -21640,7 +21164,6 @@ céu;|Nesse lar tão feliz lá no céu!
 
 →505 Jerusalém
 
-
 1. Jerusalém excelsa,|Gloriamo-nos 
 
 em ti,|Afável esperança|De todo 
@@ -21676,7 +21199,6 @@ Na dor que te desfaz,|Com Deus, que
 te redime,|Feliz, então, serás.
 
 →506 Junto Ao Trono
-
 
 1. Junto ao trono de Deus preparado|
 
@@ -21743,7 +21265,6 @@ escuta e recebe Jesus.
 
 →507 Minha Coroa
 
-
 1. Meu deleite é pensar numa terra 
 
 de além,|Onde irei, finda a luta de 
@@ -21787,7 +21308,6 @@ adorar!|Na cidade celeste de Cristo,
 
 →508 Terra Feliz
 
-
 1. Eu avisto uma terra feliz,|Onde 
 
 irei para sempre morar;|Há mansões 
@@ -21827,7 +21347,6 @@ Vou gozar, vou gozar|Nessa terra,
 celeste porvir! (bis)
 
 →509 Verei Meu Redentor
-
 
 1. Finda a lida terreal.|Quando já 
 
@@ -21891,7 +21410,6 @@ então.
 
 →510 Fonte de Amor
 
-
 1. Fonte de amor perene,|É 
 
 manancial de luz;|Água da vida 
@@ -21931,7 +21449,6 @@ minha alma para sempre -|Corra mais
 e mais!
 
 →511 Com Jesus
-
 
 1. Quando terminar a minha vida 
 
@@ -21981,7 +21498,6 @@ céu com seu bendito Rei,|Num prazer
 eterno que desfruta a santa grei.
 
 →512 O Doce Lar
-
 
 1. Na pátria celeste, de Deus doce 
 
@@ -22033,7 +21549,6 @@ salvar-me, por mim quis morrer.
 
 →513 Triunfo
 
-
 1. Milhares de milhares|Eu vejo em 
 
 santa luz;|São os guerreiros salvos,
@@ -22081,7 +21596,6 @@ sim,|Irão com o Senhor.
 
 →514 Paz Real
 
-
 1. Oh, quando o momento chegar|De 
 
 eu ir com Jesus habitar,|Em paz eu 
@@ -22112,7 +21626,6 @@ nele real salvação,|Há nele também
 essa paz|Que agora me satisfaz.
 
 →515 Na Glória
-
 
 1. Oh, vai me encontrar na glória|
 
@@ -22169,7 +21682,6 @@ além.
 
 →516 Além da Morte
 
-
 1. Há uma terra de prazer,|Morada 
 
 dos que crêem;|O dia eterno reina 
@@ -22207,7 +21719,6 @@ os salvos hão de entrar|Naquele lar
 de amor.
 
 →517 Querido Lar
-
 
 1. De todas as terras irão chegar|
 
@@ -22264,7 +21775,6 @@ teus!
 
 →518 Glória
 
-
 1. Há um lugar de paz no mundo além,
 
 |Dos salvos a feliz Jerusalém.|Oh, 
@@ -22298,7 +21808,6 @@ nele crêem,|E muita glória têm,|
 Sempre, sem fim!
 
 →519 Perante o Rei
-
 
 1. Estarei perante o Rei,|Com os 
 
@@ -22342,7 +21851,6 @@ presença do meu Rei,|No porvir, no
 porvir.
 
 →520 Canaã Celeste
-
 
 1. Há uma terra de prazer,|De gozo 
 
@@ -22441,7 +21949,6 @@ cessar!
 
 →522 Um Bom Amigo
 
-
 1. Há um bom amigo acima|Do céu 
 
 azul, sem-par;|E mora nas alturas|
@@ -22515,7 +22022,6 @@ Senhor.
 
 →523 Cordeirinhos
 
-
 1. Amigo dos meninos,|Benigno 
 
 Salvador,|Conosco sê presente,|Ó 
@@ -22542,7 +22048,6 @@ Sejamos instruídos,|Ó grande Deus,
 por ti!
 
 →524 Jóias Preciosas
-
 
 1. Eis que Cristo vem à terra,|
 
@@ -22572,7 +22077,6 @@ servem a Cristo|São-lhe jóias,
 ricas jóias,|De muito valor.
 
 →525 Vinde, Meninos
-
 
 1. Vinde, meninos, vinde a Jesus;|
 
@@ -22620,7 +22124,6 @@ Vinde ao Salvador!
 
 →526 Os Meninos
 
-
 1. Venham, venham os meninos|Ao 
 
 bendito Salvador;|Cristo mesmo quer 
@@ -22659,7 +22162,6 @@ seus rogos quer ouvir!
 
 →527 A Bênção
 
-
 1. A Jesus crianças vinham|Suas 
 
 bênçãos suplicar;|Pois a mim, que 
@@ -22690,7 +22192,6 @@ suplicam, ó Senhor:|Dá-me, pois, a
 tua bênção,|Tua graça e teu amor!
 
 →528 Aspiração Infantil
-
 
 1. Aqui no mundo branda luz,|Ó Deus,
 
@@ -22734,7 +22235,6 @@ ou mesmo a sós,|Com viva fé e ardor.
 
 →529 Vai Buscar
 
-
 1. Ouço o clamor do bom Pastor|Pelo 
 
 deserto abrasador,|Seus 
@@ -22771,7 +22271,6 @@ cordeirinhos vai buscar,|Para que
 os possa abençoar.
 
 →530 Soldado Infantil
-
 
 1. Sou um soldado de Jesus Cristo,|
 
@@ -22819,7 +22318,6 @@ causa me gastarei.
 
 →531 Teu Cantinho
 
-
 1. Cristo é que nos manda como luz 
 
 brilhar,|Para o pecador ao céu 
@@ -22852,7 +22350,6 @@ Essa luz alcemos, que Jesus nos deu,
 
 →532 Ó Meninos Vinde
 
-
 1. Ó meninos, vinde agora|A Jesus, 
 
 Salvador,|O qual vos espera;|Quer-
@@ -22881,7 +22378,6 @@ Pressa temos de vir|A teus braços
 fortes,|Teu amor possuir.
 
 →533 Pequenos Guerreiros
-
 
 1. Eia, guerreirinhos, por Jesus 
 
@@ -22916,7 +22412,6 @@ vitória como galardão;|Sede
 lutadores de alta distinção.
 
 →534 Cantam Glória
-
 
 1. Perante o trono do Senhor,|Na 
 
@@ -22964,7 +22459,6 @@ seu amor;|Agora face a face estão|
 Com ele em seu fulgor.
 
 →535 Hosana Infantil
-
 
 1. Num sonho vi em resplendor|O céu 
 
@@ -23017,7 +22511,6 @@ fazem lá,|Naquele coro além.
 
 →536 A Lição
 
-
 1. Jesus amado, escuta|A nossa 
 
 petição,|E dá-nos teu auxílio|Nas 
@@ -23042,7 +22535,6 @@ outros|Com verdadeiro amor|E sempre
 obedeçamos|Ao grande Salvador.
 
 →537 Desejo Infantil
-
 
 1. Sou um infantil, gosto de 
 
@@ -23086,7 +22578,6 @@ Sendo os filhos seus campeões da
 cruz!
 
 →538 Oh! Vinde Meninos
-
 
 1. Oh, vinde, meninos!|Cantai a 
 
@@ -23141,7 +22632,6 @@ venham a mim!'
 
 →539 Brilhando
 
-
 1. Vejo no céu resplendente|Do sol 
 
 a clara luz;|Quero viver tão 
@@ -23186,7 +22676,6 @@ Brilhando viverei,|E pela tua
 bondade|Ao lindo céu irei.
 
 →540 Oração de Criança
-
 
 1. Jesus escuta o rogar terninho|Da 
 
@@ -23234,7 +22723,6 @@ temos no Salvador.
 
 →541 Pequenos Raios
 
-
 1. Deus dá às criancinhas,|Por onde 
 
 ele as conduz,|O encargo tão 
@@ -23280,7 +22768,6 @@ temor.
 
 →542 Jesus e as Crianças
 
-
 1. Cristo tem amor por mim,|Com 
 
 certeza creio assim;|Por amor de 
@@ -23316,7 +22803,6 @@ lado e levará,|Afinal, ao céu de
 luz,|Os que resgatou na cruz.
 
 →543 Cântico Escolar
-
 
 1. Alerta, meninos! Tenhamos viveza,
 
@@ -23359,7 +22845,6 @@ tudo por Cristo viver.
 
 →544 Avante Mocidade
 
-
 1. Mocidade cristã, eia, avante!|
 
 Vossas forças uni pra lutar!|O 
@@ -23396,7 +22881,6 @@ povos levar o evangelho,|Para a
 glória de Deus trabalhai!
 
 →545 Vamos À Escola
-
 
 1. Vamos, jovens alunos, à escola,|
 
@@ -23436,7 +22920,6 @@ sempre, do estudo aqui feito,|Muito
 fruto possamos colher.
 
 →546 Mocidade Avante
-
 
 1. Eia, avante, mocidade,|Vamos por 
 
@@ -23487,7 +22970,6 @@ esperança,|Sempre unidos no avançar!
 
 →547 Semeando e Segando
 
-
 1. Semente lançada na terra|Germina 
 
 e seu fruto produz:|As nossas ações 
@@ -23533,7 +23015,6 @@ tu serás para sempre|Com Cristo
 Jesus, o Senhor.
 
 →548 Jovens Lutadores
-
 
 1. Ó jovens, acudi ao brilhante 
 
@@ -23582,7 +23063,6 @@ conquistaremos imortais lauréis!
 
 →549 Alerta Mocidade
 
-
 1. Alerta, mocidade!|À guerra vos 
 
 chamou|Jesus, que sua vida|Por vós 
@@ -23618,7 +23098,6 @@ temor!|Pois certa é a vitória|Dos
 crentes no Senhor.
 
 →550 Juventude
-
 
 1. Levantai-vos, moços crentes,|
 
@@ -23661,7 +23140,6 @@ certeza|De encontrá-lo lá nos céus.
 
 →551 Mocidade
 
-
 1. Mocidade, deixa o mundo,|Com seu 
 
 mal e seu pesar,|E procura o amor 
@@ -23700,7 +23178,6 @@ nesse embate,|Anuncia a salvação.
 
 →552 Mocidade Crente
 
-
 1. Levantai-vos, jovens crentes,|
 
 Firmes pela cruz!|Combatei os 
@@ -23729,7 +23206,6 @@ Jesus!|Seja a Bíblia vosso guia,|
 Seja vossa luz.
 
 →553 Lealdade a Cristo
-
 
 1. Mocidade, estais amando|A Jesus 
 
@@ -23788,7 +23264,6 @@ suas leis.
 
 →554 Agora
 
-
 1. Ó moços, que ventura|Vos é 
 
 servir a Deus!|Com vida santa e 
@@ -23826,7 +23301,6 @@ alma|À santa vocação,|Lembrai que
 Deus condena|A vossa dilação.
 
 →555 Alerta Jovens
-
 
 1. Vinde, ó mocidade,|Dedicar com 
 
@@ -23879,7 +23353,6 @@ dos céus.
 
 →556 Oração para a Noite
 
-
 1. Finda-se este dia que meu Pai me 
 
 deu;|Sombras vespertinas cobrem já 
@@ -23925,7 +23398,6 @@ perturbação.
 
 →557 O Anoitecer
 
-
 1. Vai fugindo o dia, breve a noite 
 
 vem,|Vespertina estrela já se 
@@ -23955,7 +23427,6 @@ vigor.
 
 →558 Hino Vespertino
 
-
 1. Salvador, por ti guardados,|
 
 Desejamos descansar.|Os defeitos e 
@@ -23982,7 +23453,6 @@ fim mortal,|Com certeza acordaremos|
 Na mansão celestial.
 
 →559 Fim do Ano
-
 
 1. Já termina o ano velho;|Damos a 
 
@@ -24024,7 +23494,6 @@ derradeiro,|Junto a ti feliz lugar.
 
 →560 Ano Novo
 
-
 1. Rompe a aurora, vai-se embora|
 
 Mais um ano de labor;|Não temamos, 
@@ -24060,7 +23529,6 @@ ao Senhor!|Vem do arcano mais um
 ano|Que anuncia seu favor!
 
 →561 Salve, Ano Novo
-
 
 1. Grande, Senhor, é tua compaixão,|
 
@@ -24111,7 +23579,6 @@ Atende, pois, ó Mestre, a nossa
 petição.
 
 →562 Templo Novo
-
 
 1. A ti, ó Deus, louvores altos 
 
@@ -24169,7 +23636,6 @@ incitem|A tua casa amar de coração!
 
 →563 Consagração de Templo
 
-
 1. Entoemos hinos de louvor a Deus|
 
 Pelas bênçãos que ele deu aos 
@@ -24214,7 +23680,6 @@ vêm buscar,|E em conjunto todos vêm
 a Deus louvar.
 
 →564 Mais Um Templo
-
 
 1. Hoje, inaugura-se aqui, santo 
 
@@ -24262,7 +23727,6 @@ dos céus!
 
 →565 Separação
 
-
 1. Deus vos guarde pelo seu poder,|
 
 Protegidos e velados,|Desfrutando 
@@ -24308,7 +23772,6 @@ tão glorioso,|Deus vos guarde para
 seu louvor!
 
 →566 Saudação
-
 
 1. Saudamo-vos, irmãos em Cristo,|
 
@@ -24359,7 +23822,6 @@ seguimos para o lar celestial!
 
 →567 União Vital
 
-
 1. Duas vidas, Senhor, se unem num 
 
 só ser,|Duas almas e dois nobres 
@@ -24405,7 +23867,6 @@ pois, entoamos louvor a ti!
 
 →568 Casamento
 
-
 1. Benigno Salvador,|com tua 
 
 aprovação,|Consagra em doce amor|
@@ -24439,7 +23900,6 @@ na tentação,|Consola-os na
 tribulação.
 
 →569 O Ministério Santo
-
 
 1. Senhor da ceifa, atende|À nossa 
 
@@ -24488,7 +23948,6 @@ forte,|Mais cheio de fervor,|A
 todos manifeste|A graça do Senhor.
 
 →570 Mais Um Obreiro
-
 
 1. Mais um obreiro escuta|A tua voz,
 
@@ -24539,7 +23998,6 @@ liça,|Vencendo a tentação.
 
 →571 Morte do Crente
 
-
 1. Para o crente o morrer é cessar|
 
 Do trabalho, cessar de gemer;|É com 
@@ -24574,7 +24032,6 @@ prazeres celestes gozar,|É chegar à
 morada de Deus.
 
 →572 Dormir Em Cristo
-
 
 1. Dormir em Cristo é muito bom,|Já 
 
@@ -24612,7 +24069,6 @@ transportar-nos faz|Ao gozo divinal
 de além.
 
 →573 Dormindo No Senhor
-
 
 1. Dormindo no Senhor,|Bendito é 
 
@@ -24656,7 +24112,6 @@ com fulgor,|Ao teu encontro subirão.
 |Não tardes, ó Senhor!
 
 →574 Pátria Brasileira
-
 
 1. Do meu país Brasil, ó terra 
 
@@ -24776,7 +24231,6 @@ irmãos!
 
 →576 Hino à Bandeira Nacional
 
-
 1. Salve, lindo pendão da esperança!
 
 |Salve, símbolo augusto da paz!|Tua 
@@ -24822,7 +24276,6 @@ Para sempre, sagrada bandeira,|
 Pavilhão da justiça e do amor!
 
 →577 Hino Nacional Brasileiro
-
 
 1. Ouviram do Ipiranga às margens 
 
@@ -24925,7 +24378,6 @@ Pátria amada, Brasil!
 
 →578 Sonda-me, Ó Deus
 
-
 1. Sonda-me, ó Deus, pois vês meu 
 
 coração;|Prova-me, ó Pai, te peço 
@@ -24970,7 +24422,6 @@ Concede aos que são teus, ó Pai de
 amor.
 
 →579 Olhando Para Cristo
-
 
 1. Ruge forte, contundente, a 
 
@@ -25038,7 +24489,6 @@ Senhor!|Vivifica, vivifica|Nossas
 almas, ó Senhor!
 
 →581 A Única Esperança
-
 
 1. Do Amapá ao Rio Grande,|Do 
 
