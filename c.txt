@@ -195,6 +195,7 @@ Em D   G  D G      C   D  G
 A Deus o filho, a Deus o Pai,
        Em D  C   G/D D   G
 A Deus Espírito, glória dai.
+
 →009 Santo, santo, santo
      D     Bm      A A/C# D  D/F#
 [1] Santo! Santo! San  -  to!
@@ -277,6 +278,7 @@ E as nossas aflições desfaz.
 Ampara-nos, embora réus,
 Com bênçãos, lá dos altos céus,
 A todos nós, os filhos teus.
+
 →012 Louvamos
         G        D/F#
 [1] Louvamos, louvamos,
@@ -321,6 +323,7 @@ Deixar sem castigo.
 Com a compaixão que por graça
 Recebe e exime de culpas
 O réu pecador.
+
 →013 Adoração a Deus
   E     A  E
 [1] Bendigam a Deus,
@@ -334,6 +337,7 @@ C#7    F#m    Am E
 Que os guarda seguros
 C#m F#m B4   B E
 No seu amplo amor.
+
 →014 O Deus de Abraão
     Em         B7 Em   D  G
 [1] Ao Deus de Abraão louvai;
@@ -431,6 +435,7 @@ E quem, pois, confia
 No seu Salvador,
 Vai vê-lo sentado
 Na glória dos céus.
+
 →016 Vinde adorar
     G   C/G D/G C/G G
 [1] Oh! Vinde adorar
@@ -457,6 +462,7 @@ As gotas de orvalho,
 Sim, toda flor
 Proclamam constantes
 Seu grande autor.
+
 →017 O amor de Deus
      G               Em
 [1] Decorridas eras são,
@@ -556,6 +562,7 @@ O amor do teu Deus conhecer?
 Por fé no Senhor,
 Como teu Salvador,
 Irás alcançar tal prazer
+
 →019 Boa nova
       G   C/E     D4  D
 [1] Alegre nova nos chegou:
@@ -586,6 +593,7 @@ Ao que concede todo o bem,
 Que poderá tornar feliz
 A cada povo e seu país
 Com sua proteção.
+
 →020 Amor perene
      Bb   Eb/G    Bb
 [1] Amavas-me, Senhor,
@@ -665,6 +673,7 @@ Louvor ao Pai e ao filho dai!
 Foi sepultado e ressurgiu,
 E para Deus depois subiu.
 Louvor ao Pai e ao filho dai!
+
 →022 Amor sublime
               G
 [1] Qual ave que
@@ -695,6 +704,7 @@ E me salvar Por seu poder!
 A tua graça, A tua lei,
 O teu poder, E o teu amor;
 Minha alma Adora-te, Senhor!
+
 →023 Deus, fonte da vida
   C   G7   C
 [1] Ó Deus, do céu,
@@ -775,6 +785,7 @@ Como ao povo de Israel.
 A este pobre pecador;
 Perdoado, agora almeja
 Proclamar o teu amor!
+
 →025 Amor
         C            Cº C      Em
 [1] Que grande amor, excelso amor
@@ -855,6 +866,7 @@ Que é justo e bom o excelso Rei,
 E lhe obedecerão,
 E lhe obedecerão;
 Sim, todos lhe obedecerão.
+
 →027 Natal
      E              A/E  B/E
 [1] Eis dos anjos a harmonia,
@@ -1021,6 +1033,7 @@ Boa no céu azul ressoa,
 Que Cristo nos perdoa.
 Aceita-o, ó povos;
 Dai-lhe o coração!
+
 →030 Noite de paz
      C
 [1] Tudo é paz! Tudo amor!
@@ -1170,6 +1183,7 @@ Para a nova confirmar.
 Quis pastores procurar,
 Para deste berço triste
 Suas novas proclama.
+
 →033 Nasceu Jesus
      A            E7/B     A/C#
 [1] Nasce Jesus, Fonte de luz!
@@ -1215,6 +1229,7 @@ Reino bendito!
 Reino de amor divino!
 Eis que as nações
 Resgate por Cristo têm!
+
 →034 Plena graça
      G               D7
 [1] Plena graça para me salvar,
@@ -1224,6 +1239,7 @@ Sangue puro para me lavar,
 E poder pra sempre me guardar,
 Am7 G/D A7 D7 G
 Tem meu    Senhor.
+
 →035 Incomparável
         F             Bb/F  F
 [1] O grande amor de meu Jesus,
@@ -1461,6 +1477,7 @@ O salmo vencedor!
 E os anjos cantam lá nos céus:
 A errante já voltou a Deus,
 A errante já voltou a Deus!
+
 →040 Amor de Cristo
   A  A/C#  D B/D#
 [1] Qual grande vaga
@@ -1470,6 +1487,7 @@ De um imenso mar,
 Vem o amor de Cristo
      E      E/G#    A4 A
 Minha alma transbordar.
+
 →041 Reconhecimento
       E           A7+
 [1] Até a cruz o meu Jesus
@@ -1483,6 +1501,7 @@ A/B      E
 Foi por mim;
 A    E      B7    A/E E
 Minha alma pra salvar!
+
 →042 Realização
        F           Am7     Dm7
 [1] Jesus, agora, sim, eu sei,
@@ -1573,6 +1592,7 @@ Por vós a vida dei,
 Por vós a vida dei;
 Por vós o mundo já venci;
 Por vós a vida dei.”
+
 →044 A linda história
           C     F        C
 [1] Cantarei a linda história
@@ -1694,6 +1714,7 @@ A mensagem transmitir
 Aos que perdidos são.
 Venham todos já fruir
 A salvação.
+
 →047 Alegria perene
         G       Em    D
 [1] Desperta e canta com fervor,
@@ -1780,6 +1801,7 @@ Nossa, a vida; su - a, a cruz;
 Seu, o cálice a - margoso;
 A7 D     G Em7 D/A A7 D
 Nossa, a dita que produz.
+
 →050 A velha história
      C           C/E      F C
 [1] Contai-me a velha história
@@ -1943,6 +1965,7 @@ Pode dar real perdão,
 A salvação e liberdade!
 Ó vinde a Cristo
 A vida consagrar!
+
 →053 Os filhos de Sião
        E     B7   E
 [1] Ó filhos de Sião,
@@ -2012,6 +2035,7 @@ B B/A E/G# B   B B/A E/G#
 A-le- lu - ia! A-le- luia!
 A E/G# A      E/B B7 E
 Vinde todos o a - dorar!
+
 →055 Hosana nas alturas
         E      A       E
 [1] Bendito o Rei que vem
@@ -2113,6 +2137,7 @@ Dedicados, consagrados,
 Sua fama publicai.
 Oh! Louvai-o, exaltai-o,
 Seu amor anunciai!
+
 →057 Bendito o Rei
         G
 [1] No mundo paz,
@@ -2245,6 +2270,7 @@ Jamais a morte reinará,
 Nem mal algum dominará.
 Eterna glória seja a Ti.
 |: Saudai! Saudai! :| Emanuel!
+
 →060 Coroai
         G   G/B    C D7 G
 [1] Saudai o nome de Jesus!
@@ -2273,6 +2299,7 @@ O Deus de paz, O Deus de luz
 [4] Ó raças, tribos e nações,
 O Rei divino honrai;
 A quem quebrou os vis grilhões.
+
 →061 Glória a Jesus
       F                 C
 [1] Glória, glória, aleluia!
@@ -2282,6 +2309,7 @@ Glória, glória ao nosso Salvador!
 Glória a Jesus, glória a Jesus,
  F            C7   F
 Nosso grande Redentor!
+
 →062 Nome precioso
      G          C     G G/B
 [1] Leva Tu contigo o nome
@@ -2315,6 +2343,7 @@ Tu terás o seu perdão.
 É Jesus, o amado teu;
 Rei dos reis, Senhor eterno,
 Tu o aclamarás no céu.
+
 →063 Jesus, o Senhor
        D    G     D
 [1] Jesus, santo nome
@@ -2393,6 +2422,7 @@ Tudo ele faz resplandecer,
 A tudo dá vigor;
 Ó céus, ó mar, ó vastidão,
 Louvai o Deus de amor!
+
 →065 Jesus, o bem-amado
   A    D/E      A    F#7  Bm
 [1] Jesus, teu nome satisfaz;
@@ -2471,6 +2501,7 @@ Obedecem sua lei.
 Triunfou o bom Jesus.
 Ele toma, pois, seu reino,
 Coroado Rei dos céus.
+
 →067 Cristo exaltado
     A
 [1] Eis entronizado à destra
@@ -2549,6 +2580,7 @@ Cristo agora nos conduz.
 Viveremos em amor;
 Bem-aventurados somos;
 Entoemos-lhe louvor.
+
 →069 Aleluia
     A       A/E    A
 [1] Aleluia!   Aleluia!
@@ -2585,6 +2617,7 @@ Aleluia ao Espírito Santo,
 Que nos dá consolo e paz,
 Aleluia ao Pai eterno,
 Deus da graça, Deus da paz!
+
 →070 Nome adorável
          A
 [1] Mui doce soa ao coração
@@ -2799,6 +2832,7 @@ Graças, graças a Jesus!
 Que morreu por grande amor
 Deste pobre pecador!
 Graças, graças a Jesus!
+
 →075 Que grande amigo
           G       D4     D
 [1] Que grande amigo é meu Jesus,
@@ -2871,6 +2905,7 @@ Cristo, o Senhor,
 Guia no maior aperto;
 Seu socorro sempre é certo.
 Que grande amor!
+
 →077 O melhor amigo
 [1]
             E    E/G# F#m/B F#/A#
@@ -2915,6 +2950,7 @@ Com os santos, transformados já,
 Este canto de louvor
 Entoaremos ao Senhor:
 Sempre o amigo melhor é Cristo!
+
 →078 Tudo de graça
      C      Cº C    C/E
 [1] Sim, de graça, Cristo
@@ -2924,6 +2960,7 @@ C  Cº C  C/E F5-79 F
 Inefável ale-gri - a,
  G7    G7/9 C
 Plena salvação.
+
 →079 Um bom amigo
         G  G5+ G6     D7   G  G/B
 [1] Um bom amigo, e fiel achei,
@@ -2957,6 +2994,7 @@ E bênçãos ricas recolher.
 Amigo sem igual,
 Amigo que lhes concederá
 Felicidade perenal.
+
 →080 Coração purificado
          G       C     G
 [1] A Jesus com fé chegando,
@@ -2966,6 +3004,7 @@ Acho ple - na salvação,
 E seu sangue me lavando
  C     G/B    D7  G
 Torna puro o coração.
+
 →081 Amigo incomparável
      E       E7
 [1] Nenhum amigo
@@ -3051,6 +3090,7 @@ Com limpos corações.
 [4] Ninguém podia, aqui, pagar
 A pena universal, Só Cristo pôde
 Nos remir a preço divinal.
+
 →083 A cruz de Cristo
           G    C/E
 [1] Pendurado foste,
@@ -3099,6 +3139,7 @@ Sobre Ti, Senhor.
 Gozo paz, tornei-me
 Um herdeiro teu,
 Sofreste tudo, creio, pelo amor!
+
 →084 A cruz
       C
 [1] Cristo, em tua
@@ -3177,6 +3218,7 @@ Jesus, o bom Senhor;
 Pois tudo vencerá;
 Vitória nos dará;
 A glória, salvos, nos conduzirá.
+
 →086 Sangue precioso
     D        G       C   C#º G
 [1] Oh! Que tão precioso sangue
@@ -3204,6 +3246,7 @@ Seu amor!
 Que liberta os réus!
 Podem ter por ele entrada
 Lá nos céus!
+
 →087 Calvário
               A             E7
 [1] Oh! Como foi que meu Jesus
@@ -3288,6 +3331,7 @@ Completa redenção,
 A eterna salvação,A dita perenal
 Te dou de graça a Ti;
 Não temas, vem a mim.
+
 →089 O poder do sangue
 [1]
 G         G/B     C         G  Em
@@ -3357,6 +3401,7 @@ Por mim, seu vil perseguidor.
 Seria oferta sem valor;
 Tudo o que sou, Senhor, é teu,
 Minha alma e todo o meu amor.
+
 →091 Sangue de Jesus
 [1]
 G         D7      C         G
@@ -3367,6 +3412,7 @@ Do pecado purifi - ca;
 O sangue de Jesus purifica,
  Am     D7      G
 Mesmo, mesmo a mim.
+
 →092 Substituição
         A      A7      D
 [1] Morri na cruz por Ti,
@@ -3447,6 +3493,7 @@ Esse tão precioso sangue.
 Pelo seu precioso sangue;
 Louvarei então sem fim
 Esse tão precioso sangue.
+
 →094 Jesus na cruz
         E     B7              E
 [1] Só Tu, Jesus, levaste a cruz,
@@ -3586,6 +3633,7 @@ Para que na glória eterna
 Nós miremo-lo sem véu,
 Cristo padeceu a morte,
 Nova entrada abrindo ao céu.
+
 →097 Jesus veio aqui
 [1]
 E           B7       E   B7 E
@@ -3621,6 +3669,7 @@ Mas breve há de voltar,
 E à glória
 Os salvos transportará,
 Onde hão de descansar.
+
 →098 Jesus triunfou
             A       E     A
 [1] Jesus Cristo está sentado
@@ -3756,6 +3805,7 @@ A Jesus, o grande Rei; aleluia!
 Pois à morte
 Quis baixar, aleluia!
 Pecadores pra salvar; aleluia!
+
 →102 Cristo volta
       C           G    C
 [1] Cristo volta brevemente,
@@ -3807,6 +3857,7 @@ A palavra santa o afirma,
 E não poderá falhar,
 E por isso esperaremos
 Ver Jesus aqui voltar.
+
 →103 Jesus vindo
        C   C/E F F#º G7 G#º   F/A
 [1] Jesus desceu, a Bíblia o diz,
@@ -3834,6 +3885,7 @@ Ao seu bendito lar.
 No mundo reinará;
 Então, Senhor universal,
 Louvor sem fim terá.
+
 →104 O bom porvir
        E
 [1] O dia alegre chega,
@@ -4043,6 +4095,7 @@ Quando, pois, findar a vida
 E o labor aqui cessar,
 E fizer-se então chamada,
 Lá estarei.
+
 →109 Por pouco tempo
             G
 [1] Anseio paz,
@@ -4250,6 +4303,7 @@ O juiz hão de encarar;
 E os remidos, triunfantes,
 Em fulgor hão de cantar:
 Vencido tem Jesus!
+
 →113 O dia glorioso
 [1]
 G      G/B      C      C/E
@@ -4287,6 +4341,7 @@ Com Jesus na glória além!
 Nos remidos, o Senhor.
 E o mundo ficará pasmado,
 Vendo a Cristo em seu fulgor!
+
 →114 A vinda do Senhor
           A
 [1] Como foi para o céu,
@@ -4341,6 +4396,7 @@ Vem, esposo celeste, reinar!
 Vem, ó sol da justiça,
 No mundo luzir; Ó meu Rei,
 Vem meu pranto estancar!
+
 →115 Breve com Jesus
         G
 [1] Em breve, em breve
@@ -4394,6 +4450,7 @@ Ao Senhor Jesus!
 Outros povos vêm;
 Oh! Derrama a mesma bênção
 Sobre nós também!
+
 →117 Espírito santo
     E         B A/B E
 [1] Ó divino Preceptor,
@@ -4420,6 +4477,7 @@ De Jesus, o Salvador!
 Esta escuridão desfaz,
 Enche-nos de santa luz,
 Guia todos a Jesus!
+
 →118 Santo Espírito
      C        F   G C
 [1] Jesus ao céu subindo,
@@ -4437,6 +4495,7 @@ Em nós agora está,
 O mundo além revela,
     Dm      G    C
 Conduz-nos para lá.
+
 →119 Fidelidade
          E      B7        E
 [1] Por meus delitos expirou
@@ -4466,6 +4525,7 @@ Minha alma quis salvar?
 Tão grande Salvador;
 E, quando for no céu morar,
 Louvá-lo-ei melhor.
+
 →120 Louvai ao Senhor
         G         C
 [1] Louvai ao Senhor,
@@ -4842,6 +4902,7 @@ Amarga foi a cruz; O teu sofrer,
 O teu penar A vida nos produz.
 Na glória já sentado estás, Atento à adoração que teus fiéis
 Te vêm prestar com grato coração!
+
 →128 A redenção
             G              D7
 [1] Eterno Deus, queremos nós
@@ -4870,6 +4931,7 @@ Pra divulgar a redenção.
 O reino seu anunciar,
 A fama dele promover;
 Eis nossa glória singular!
+
 →129 Bendita luz
 [1]
 G             C            G
@@ -4907,6 +4969,7 @@ Dele alcança graça e luz.
 Hás de ter, ó pecador,
 Aceitando Cristo, nossa luz,
 Este dom do Deus de amor!
+
 →130 Beneficência
 [1]
 C        C/E   F        G   C
@@ -4952,6 +5015,7 @@ De praticar nosso dever;
 Ouçam de longe as
 Gentes seu louvor,
 Escutando assim dizer:
+
 →131 Bendize
      F          F/A Bb F/C C7 F
 [1] Bendize, ó Tu, meu co- ração,
@@ -5089,6 +5153,7 @@ Com todo ardor, oh! Exaltai
 A Cristo, autor da redenção;
 Em toda língua proclamai
 Que reino dele os povos são.
+
 →135 Louvor
         E        A  E
 [1] Louvamos-te, ó Deus,
@@ -5183,6 +5248,7 @@ Oh! Quão feliz será,
 Com alma filial,
 Dizer-lhe, em hino de louvor:
 “Escuto; fala, pois, Senhor!”
+
 →137 O pão da vida
        C         G7   C
 [1] Enquanto, ó Salvador,
@@ -5245,6 +5311,7 @@ Mais que o sol, resplandecentes
 Os preceitos do Senhor,
 Iluminam nossas mentes
 Com vivo resplendor.
+
 →139 Dia do Senhor
          A    D     A
 [1] A semana já passou,
@@ -5311,6 +5378,7 @@ Que vejo em meu Jesus,
 O meigo e bom Pastor.
 Ensina-me, pois, meu dever,
 Dirige todo o meu viver.
+
 →141 Descanso aos domingos
         A
 [1] Na terra, aos domingos,
@@ -5348,6 +5416,7 @@ Eternos pra mim;
 Exausto na senda de dor e pecado,
 Eu quero o descanso
 Contigo sem fim.
+
 →142 Pão da vida
      G      G/B   C       G
 [1] Pão da vida, Pão dos céus,
@@ -5397,6 +5466,7 @@ Que muda o coração?
 Em santa comunhão,
 O teu sofrer, o teu penar,
 Sim, nossa redenção.
+
 →144 Vera páscoa
     C           G7   C
 [1] Ó Jesus! Ó vera páscoa!
@@ -5416,6 +5486,7 @@ Que sustenta o nosso amor.
 Fonte de perene gozo!
 Faze que nossa alma viva
 Para Ti, de Ti, em Ti.
+
 →145 Batismo
     E         B7    E4     E
 [1] Às águas do Jordão desceu
@@ -5463,6 +5534,7 @@ Confiando no Senhor!
 É Jesus, o que me alegra,
 É Jesus o que me alegra,
 Confiando em seu amor!
+
 →147 Obediência no batismo
      D              A   D
 [1] Cercando teu sepulcro,
@@ -5564,6 +5636,7 @@ Desejo a vida aqui findar
 Com fé, amor, constante orar;
 Depois da morte, do pavor,
 Então será, sim, só louvor.
+
 →149 Persistência em oração
     A
 [1] Eis que, ó Pai,
@@ -5604,6 +5677,7 @@ Tens real prazer. Que alcancemos
 Sempre tua compaixão!
 Dá-nos fé mais forte,
 Dá-nos tua mão!
+
 →150 Pai nosso
 [1]
  E                B7      E
@@ -5634,6 +5708,7 @@ Que nos pode ser fatal,
 Não nos deixes, pois, cair,
 Livra-nos de todo mal,
 Livra-nos de todo mal.
+
 →151 Comunhão
              G             C7+
 [1] Quão preciosas são as horas
@@ -5726,6 +5801,7 @@ Cantaremos, cantaremos
 Tua afável proteção.
 Cantaremos, cantaremos
 Tua afável proteção.
+
 →153 Perdão
          D       Dº       D
 [1] Se aqui, Senhor, bem poucos
@@ -5761,6 +5837,7 @@ Porém aos que rejeitam
 A salvação e a cruz,
 E a graça não aceitam,
 Ó, dá perdão, Jesus!
+
 →154 Firme nas promessas
      A            E7/B
 [1] Firme nas promessas
@@ -5940,6 +6017,7 @@ Tua bênção, Salvador!
 Imploramos, esperamos,
      Am   D7      G
 Vivifica-nos, Senhor!
+
 →158 Em oração
            E      B      A E
 [1] Nosso Deus e Pai bondoso
@@ -6031,6 +6109,7 @@ Ti, Senhor!
 
 [4] Escuta, meu Jesus, Esta oração, que humilde faço A Ti com gratidão. Tu és meu mediador,
 Meu Rei e Salvador; Possa eu em teu amor Sempre viver!
+
 →160 A fé contemplada
              A
 [1] Deus promete
@@ -6075,6 +6154,7 @@ Pois jamais desonrará o nome seu
 Ele cumprirá
 Promessas que nos deu
 Jesus Cristo a fé contemplará!
+
 →161 Poder espiritual
 [1]
 G       C G      D4  D       G
@@ -6105,6 +6185,7 @@ A teu espírito renovador.
 No meu viver, falar e proceder;
 Correta vida, santa, modelar,
 Também repleta de fervor, poder.
+
 →162 Vigiar e orar
 [1]
            A     F#m    F#7   Bm
@@ -6188,6 +6269,7 @@ A maldição da cruz.
 Que alcance teu amor;
 A mim, ovelha tua,
 Contempla com favor!
+
 →164 Revivificação
      E               B7     E
 [1] Tu que sobre a amarga cruz
@@ -6354,6 +6436,7 @@ Jamais poderá, pois
 Eu vou socorrer,
 Jamais poderá, pois
 Eu vou socorrer.
+
 →167 Vem, inflama!
      E          F#m7 E/G#
 [1] Meu pecado resgatado
@@ -6382,6 +6465,7 @@ E me tornas vencedor.
 A minha alma em teu amor;
 Com apreço, reconheço,
 Quanto devo a Ti, Senhor!
+
 →168 Chuvas de bênçãos
       A        E         A
 [1] Chuvas de bênçãos teremos
@@ -6415,6 +6499,7 @@ Desta palavra de amor.
 Chuvas mandadas dos céus,
 Bênçãos a todos os crentes,
 Bênçãos do nosso bom Deus.
+
 →169 Mais de Cristo
      G                 C     G
 [1] Mais de Cristo eu quero ver,
@@ -6536,6 +6621,7 @@ Enche Tu meu coração.
 Cada dia dá-me a fé;
 Cada dia, ó bom Senhor,
 Tudo supre com amor.
+
 →173 Mais amor
     A               D A
 [1] Ó meu Deus, te peço:
@@ -6567,6 +6653,7 @@ Sim, de coração; Pois que me protege Sua forte mão;
 Ele é poderoso Para me guiar
 Sempre no caminho
 Em que convém andar.
+
 →174 Faça-se a luz
      D         A/C#     D
 [1] Tu que mandaste, ó Deus,
@@ -6601,6 +6688,7 @@ Faça-se a luz!
 Pai! Santo é teu amor;
 És eternal Senhor,
 Terno consolador. Faça-se a luz!
+
 →175 Minha aspiração
   D             Em/D D
 [1] Cristo, bom Mestre,
@@ -6624,6 +6712,7 @@ Eis meu querer:
 Todas as minhas faltas vencer;
 Faze-me rijo para lutar,
 Para a vitória sempre ganhar.
+
 →176 Tempo de ser santo
      F            Bb F
 [1] Tempo de ser santo
@@ -6668,6 +6757,7 @@ Socorre os aflitos,
 Repleto de amor,
 Os passos seguindo
 Do teu Salvador.
+
 →177 Alvorada
       D     A    A#º Bm D7
 [1] Apenas rompe a aurora,
@@ -6768,6 +6858,7 @@ E o amor de Deus,
 E a comunhão do Espírito Santo
  A7 D A7 D    A D   A D
 Conosco seja. Amém! Amém!
+
 →182 Despedida do culto
         A           C#m   F#m
 [1] Despede-nos, ó bom Jesus,
@@ -6846,6 +6937,7 @@ Jesus é a luz do mundo;
 Pois brilha o Cordeiro
 No templo de Deus;
 Jesus é a luz do mundo!
+
 →184 Há livre perdão
       E
 [1] Glória a Jesus,
@@ -6959,6 +7051,7 @@ Aos seus, Deus sempre acode.
 Confia todo o crente;
 O que ele fez na dura cruz
 Pra sempre é suficiente.
+
 →186 É Jesus quem salva
     C             G7 Am
 [1] O chorar não salva!
@@ -7042,6 +7135,7 @@ Diz Jesus, Senhor.
 |: Mau embora Tu sejas, :|
 Seu descanso te dará,
 E feliz te tornará!
+
 →188 O evangelho
        D           G  D
 [1] A nova do evangelho
@@ -7094,6 +7188,7 @@ As novas se vos dão
 Que já veio o Salvador,
 Tão bondoso e poderoso,
 Que perdoa o pecador.
+
 →189 Graça inefável
        F           F/A
 [1] A graça do Senhor
@@ -7194,6 +7289,7 @@ Livre das culpas do pecar,
 Longe da dor e do chorar,
 Tendo certeza de gozar
 A redenção de Deus!
+
 →191 Eis a nova
     G           G/B   D4 D
 [1] Oh! Que mensagem cheia
@@ -7286,6 +7382,7 @@ Fez-nos, nosso Pai, Deus Jeová
 Filhos por adoção!
 Salvos nele estamos,
 Glória a Deus rendamos.
+
 →193 Proclamação
            G     C      G
 [1] Proclamai a todo o mundo
@@ -7339,6 +7436,7 @@ Servos dele ser;
 Sim, estejam prontos
 Quando o Rei dos reis vier!
 Proclamai! Proclamai!
+
 →194 A mensagem celeste
           E     A/B    E
 [1] A mensagem vem de Deus,
@@ -7569,6 +7667,7 @@ Convertei-vos hoje mesmo a Deus.
 Segui os passos do Senhor;
 Proclamai o seu perdão; aleluia!
 Exaltai o grande Redentor!
+
 →199 Cordeiro divino
           A     C#7 F#m
 [1] Sacrifícios imolados
@@ -7776,6 +7875,7 @@ Jesus tem o poder de,
 Quando o fim chegar,
 Cercar-nos de alegria e
 Paz e a glória nos levar!
+
 →203 Olha para Cristo
     E     B7/F# E/Bb
 [1] Olha para Cristo,
@@ -7804,6 +7904,7 @@ Eis o véu rasgado,
 Eis do céu a luz,
 Tudo está cumprido;
 Olha pra Jesus.
+
 →204 Reconciliai-vos
           A  A/C#    D
 [1] Eis a ordem dos céus,
@@ -7924,6 +8025,7 @@ Foi Jesus crucificado
 A minha alma pra salvar!
 Vinde todos, já comigo adorar!
 Vinde todos, já comigo adorar!
+
 →206 Promessa gloriosa
        E            A    E
 [1] Vitória como a de Jesus,
@@ -8050,6 +8152,7 @@ E então vos convida
 Que assim como estais,
 Vós sem mais receios
 A Cristo venhais.
+
 →209 Venham escutar
            C
 [1] Desprezado foi o verbo
@@ -8160,6 +8263,7 @@ Se põe a chamar;
 Corre depressa, sim,
 Vem te entregar,
 Nada te deve deter
+
 →211 Vem pecador
     E           A     B
 [1] Eis, Cristo te convida:
@@ -8278,6 +8382,7 @@ Tens pecador! Queres tua vida?
 Vem ao Salvador! Ele a todos fala
 Com mui terno amor:
 Todo o que quiser, é vir!
+
 →214 Cristo chama por Ti
 [1]
 C        Cº         C    F  C
@@ -8315,6 +8420,7 @@ Vem, ó, vem sem demora!
 De te entregares de coração;
 Vem a Jesus, que te dá salvação.
 Vai-se o bom tempo embora!
+
 →215 Fonte bendita
     E           A/B       E
 [1] Oh! Vinde à fonte de sangue,
@@ -8482,6 +8588,7 @@ Descanso e gozo, além,
 Concederei a todos os que creem.
 Sois convidados ao festim real!
 Ó! Vinde ao lar, À casa paternal!
+
 →219 Vem já
      G       C       G Em
 [1] Não te demores, amigo!
@@ -8515,6 +8622,7 @@ Terás de prestar conta além.
 Vem logo a Jesus aceitar!
 Despreza teus muitos pecados;
 Jesus dá-te graça sem par.
+
 →220 Perdão e salvação
       C
 [1] “Vem, vem a mim!”
@@ -8553,6 +8661,7 @@ De bênçãos celestes
 O grande Salvador.
 Podeis ouvir com indiferença
 Contar tão grande amor?
+
 →221 Convite
       E           A     E
 [1] “Vinde todos sem demora”
@@ -8637,6 +8746,7 @@ Tem dado a Ti, dado a mim!
 Veio salvar-nos
 Do tão vil pecado,
 Veio por Ti e por mim.
+
 →223 Abrigo
     G         C/D   G
 [1] Ó! Vinde, vós aflitos, já,
@@ -8847,6 +8957,7 @@ Salvação, amor e paz.
 De Jesus aceita o bem;
 Nele sempre encontrarás
 Vida infinda, gozo e paz.
+
 →228 Ouvi a chamada
     C                  G7   C
 [1] Oh! Escutai! Jesus vos chama;
@@ -8884,6 +8995,7 @@ Não desejais gozar
 Vida no eterno lar?
 Vinde aceitai a salvação,
 Não obdureis o coração!
+
 →229 Régio hóspede
      A               D/A A
 [1] Tendes vós lugar vazio
@@ -8957,6 +9069,7 @@ Deseja tanto me valer.
 Quero a Jesus a porta abrir,
 Eu quero ouvir o seu chamar
 E sem demora me entregar.
+
 →231 Vem, filho, vem
      E          B/D#
 [1] Do país distante,
@@ -9027,6 +9140,7 @@ Vida e gozo,
 Que podes hoje desfrutar;
 Com isso te farei ditoso.
 Posso eu entrar? Posso eu entrar?
+
 →233 Por que não já
            C       G7   C
 [1] Ó corações, considerai
@@ -9052,6 +9166,7 @@ Quereis perdão? Por que não já?
 A graça não recusará;
 Uni-vos, pois, ao Salvador.
 Quereis perdão? Por que não já?
+
 →234 Cristo salva
             C      G7   C
 [1] Cristo salva o pecador,
@@ -9080,6 +9195,7 @@ Aceitai de coração.
 Paz e luz no Redentor;
 Vinde, e então recebereis
 Vida eterna do Senhor.
+
 →235 Chamada
       C               F      C
 [1] Cristo te chama, chama, chama
@@ -9114,6 +9230,7 @@ Grande, grande
 Já veio ao mundo teu Salvador!
 Vem Tu a Cristo, Cristo, Cristo;
 Há salvação para o vil pecador!
+
 →236 Atribulado coração
       A   E7        A   F#m
 [1] Atribulado coração,
@@ -9148,6 +9265,7 @@ E em graça te dará poder!
 Pois ele almeja te valer;
 E sempre quer buscar teu bem;
 Confia nele em teu viver!
+
 →237 Tão perto
          C
 [1] Tão perto do reino,
@@ -9246,6 +9364,7 @@ Real, cedo, cedo, cedo!
 Creem, hoje, hoje, hoje!
 Todas as glórias do mundo além
 Cristo as revela aos que o amam.
+
 →239 A luz do céu
 [1]
  E         E/G#         B/A   B7
@@ -9281,6 +9400,7 @@ Ao brilho dessa luz!
 Vida eterna e paz
 No coração produz!
 Ó! Aceita agora O Salvador Jesus!
+
 →240 Vem a Cristo
        E         E/G#
 [1] Jesus, lá na glória,
@@ -9327,6 +9447,7 @@ Ali não há morte,
 Nem mágoa, nem gemidos,
 Também Tu terás
 Um lugar lá nos céus.
+
 →241 Palavra abençoada
        C     C/E  E
 [1] Palavra abençoada,
@@ -9388,6 +9509,7 @@ Assim conheceremos
 O gozo que produz
 No coração submisso,
 O “vinde” de Jesus.
+
 →242 Vinde já
           G G/B      C
 [1] Vinde já, vinde já,
@@ -9466,6 +9588,7 @@ Posso merecer; Cumpri tão poucas
 Vezes meu dever; A Cristo, pois,
 Eu vou me submeter,
 Pois vida eterna dá.
+
 →244 Graça admirável
      A            E/C# Fº F#m7
 [1] Vinde, aflitos pecadores,
@@ -9555,6 +9678,7 @@ Ele vai hoje passar!
 Não cesses, pois, de clamar!
 Vem tuas culpas chorando;
 Cristo vai hoje passar!
+
 →246 Vem agora
            E      A/B   E
 [1] Vem a Cristo, vem agora.
@@ -9711,6 +9835,7 @@ Que Jesus, pois, te faça
 Tal escrita compreender,
 Que, em havendo tempo, possas
 Sua graça receber.
+
 →250 Quase induzido
 [1]
   G    C    G    Em C   D     G
@@ -9735,6 +9860,7 @@ Escuta e vem!
 “Quase” te enganará,
 “Quase” não servirá
 “Quase” te lançará na perdição!
+
 →251 Quase achegado
 [1]
  G    C    G       Em D/F#  G
@@ -9808,6 +9934,7 @@ Que Cristo a Ti oferta.
 Sim, vinde sem demora;
 O tempo próprio passará,
 Oh! Vinde entrar agora!
+
 →253 Não havia lugar
      G  G/B       D7/A
 [1] Não teve um palácio
@@ -9957,6 +10084,7 @@ Depressa, depressa decide,
 Despreza este mundo falaz,
 Contente, submisso te entrega
 A quem te dá vida de paz.
+
 →256 Inda há lugar
     D    Dº    D
 [1] Inda há lugar;
@@ -10039,6 +10167,7 @@ Quem, com o coro celestial,
 Parte terá no louvor real,
 Livre de todo o poder do mal?
 Vais Tu? Vou eu? Vais Tu? Vou eu?
+
 →258 Chora agora
      E  E/G#     A       B7 E
 [1] Pecador, confessa e chora
@@ -10143,6 +10272,7 @@ Deixar teu pecados,
 E entregar tua vida a Jesus,
 Trilharás, sim, na última hora
 Um caminho brilhante de luz.
+
 →260 Agora
     Bb          Eb F Bb
 [1] Oh! Quantos enganados,
@@ -10178,6 +10308,7 @@ Pois cedo chega a hora
 De contas dar a Deus;
 Tornai-vos desde agora
 Amados filhos seus!
+
 →261 Alma ansiosa
      D             A7   D
 [1] Só vejo trevas e furor,
@@ -10208,6 +10339,7 @@ Estou, Senhor!
 Contrito rogo a Ti perdão;
 Só por teu sangue Remidor
 Eu peço minha salvação.
+
 →262 Contrição
     D       G        D A
 [1] A teus pés prostrados,
@@ -10217,6 +10349,7 @@ Eis-nos, Salvador!
 Vem agora mesmo encher-nos
 D/A     A7      D
 Do teu grande amor.
+
 →263 Luz divina
     F
 [1] Oh! Vem, divina luz,
@@ -10282,6 +10415,7 @@ Teu prazer eu cumprirei.
 Guarda-me, meu bom Jesus,
 Na vereda justa e santa
 Que me leva ao céu de luz.
+
 →265 Resgate
           D        D/F#
 [1] Pendurado no madeiro,
@@ -10357,6 +10491,7 @@ Quanto me é mister;
 E Tu minha alma limparás,
 Com teu amor me cobrirás;
 Ó Salvador, me achego a Ti!
+
 →267 Salvação pela fé
 [1]
      G        Bm      Em    Am
@@ -10447,6 +10582,7 @@ Eu creio em Ti, meu Deus;
 Sou um dos servos teus!
 Conduze os passos
 Meus, ó Tu Jeová!
+
 →270 Resolução
 [1]
 D                   A7      D
@@ -10597,6 +10733,7 @@ Goze teu amor.
 De onde a vida vem;
 Dá-me alívio mesmo agora,
 E perdão também.
+
 →274 Coro santo
     G             G/B
 [1] Oh! Que belos hinos
@@ -10670,6 +10807,7 @@ Bem grato me há de ser
 Quando meu Rei descer;
 Certo ele irá dizer:
 “Sou teu Jesus.”
+
 →276 Coro celeste
        E       A/B     E
 [1] Celeste, estranho coro,
@@ -10723,6 +10861,7 @@ Meu canto extasiado,
 Espera, sem cessar,
 Unir-se a voz dos anjos
 Ali no eterno lar.
+
 →277 Convencido
 [1]
  E E/G#  B C#m F#m7 A/B    E
@@ -10757,6 +10896,7 @@ Já persuadido de que sou seu;
 Amar eu quero, sim,
 O grande Salvador,
 Porque primeiro amou o pecador.
+
 →278 Cantai
        G      C/D       G  Em
 [1] O meu coração sofredor
@@ -10836,6 +10976,7 @@ Santamente me guiou.
 Honra e glória ao Redentor!
 Ele deu-me luz e vida,
 Santidade e seu amor.
+
 →280 Fiquei curado
      C   C#º Dm    G7
 [1] Para Jesus Senhor,
@@ -10905,6 +11046,7 @@ A vida eu consegui.
 Andar no trilho seu;
 Confio sempre com fervor
 Em que por mim morreu.
+
 →282 Maravilha
 [1]
  G        G/B      C        G
@@ -11031,6 +11173,7 @@ O lar em que descansarei
 Ó meu Jesus, me leva, sim,
 E me sustenta até chegar
 Às portas do celeste lar!
+
 →286 Junto a Ti
            F     C7   F
 [1] Minha possessão eterna,
@@ -11064,6 +11207,7 @@ Sempre, sempre me guiar.
 Da feliz Jerusalém,
 Eu puder entrar na glória,
 Gozarei o eterno bem.
+
 →287 Com Jesus
 [1]
   G         G/B   C         G
@@ -11155,6 +11299,7 @@ Manifestar o teu amor,
 O teu poder e teu favor,
 Graça, perdão ao pecador,
 Perto, sim, bem perto. (2x)
+
 →289 Ao pé da cruz
      E      E/G#    A
 [1] Quero estar ao pé da cruz,
@@ -11189,6 +11334,7 @@ Queiras abrigar-me.
 Sem temor vigio,
 Pois à terra santa irei,
 Salvo, além do rio.
+
 →290 Cristo, meu Mestre
      D   G      A4 A
 [1] Cristo meu Mestre,
@@ -11230,6 +11376,7 @@ Em teu seio quero
 Minha fronte reclinar,
 Para obter descanso
 Desse labutar.
+
 →291 Comunhão celeste
      D     A/C# Bm  F#m G
 [1] Comigo assiste, ó  Deus!
@@ -11302,6 +11449,7 @@ Delicia é aos teus
 Santos pés me achar,
 E com viva e mui reverente fé
 Com o Salvador falar.
+
 →293 Desejos espirituais
     G   C       G
 [1] Em mim vem habitar,
@@ -11375,6 +11523,7 @@ Submisso a Ti, Senhor!
 Contente viverei
 Sob tua proteção,
 Ó meu bendito Rei!
+
 →295 Tudo entregarei
      C      F/C     C G/B  E/G#
 [1] Tudo, ó Cristo, a Ti entrego;
@@ -11459,6 +11608,7 @@ Trono, ó Salvador.
 Sejam só teu nome honrar;
 Faze que meu corpo inteiro
 Eu te possa consagrar.
+
 →297 Súplica
         G    G/B    C
 [1] Prometo agora, meu Jesus,
@@ -11503,6 +11653,7 @@ Responde pois, ó meu Senhor
 À minha humilde petição;
 Dirige-me com teu favor
 Até chegar à redenção.
+
 →298 Estou pronto
          E       E/G#
 [1] Nem sempre será
@@ -11620,6 +11771,7 @@ Onde quer que seja,
 Sempre cantarei;
 “Tu, Senhor, comigo
 Estás, não temerei.”
+
 →300 Tudo por Cristo
      C             Em Am
 [1] Do Salvador bendito
@@ -11706,6 +11858,7 @@ Os teus passos queremos seguir;
 Teus preceitos guardar,
 O teu nome exaltar,
 Sempre a tua vontade cumprir.
+
 →302 Como a neve
            F      F/A   Bb
 [1] Bom Jesus, és todo meu,
@@ -11740,6 +11893,7 @@ No celeste e eterno lar.
 Qual a neve branca ser.
 Vive no meu coração,
 Faze-o puro, limpo e são.
+
 →303 Amor a Jesus
        E    A        E
 [1] Jesus, sempre te amo
@@ -11775,6 +11929,7 @@ Agora e pra sempre
 Por Ti viverei;
 A Ti, ó meu Cristo,
 Me submeterei!
+
 →304 Um vaso de benção
            G     G/B      C
 [1] Quero ser um vaso de bênção,
@@ -11860,6 +12015,7 @@ Teu rosto quando vir,
 Amor no céu luzir,
 A glória do porvir
 Vou enfim fruir.
+
 →306 O caminho da cruz
            E      A  E
 [1] Foi Jesus que abriu
@@ -11974,6 +12130,7 @@ Onde me mandar, irei
 Finda minha triste lida,
 Tenho a glória prometida
 Eu pra meu Senhor irei.
+
 →309 Consagrando-nos
           G      C     G
 [1] Consagrando-nos a Ti,
@@ -12002,6 +12159,7 @@ Revestindo-o sempre de fervor.
 Outorgando sempre mais poder;
 Ao teu povo, bom Pastor,
 Imploramos bênçãos conceder.
+
 →310 Em teus braços
              D     D#º      Em
 [1] Em teus braços eu me escondo,
@@ -12061,6 +12219,7 @@ E/G#  A        E
 Em Jesus refugiado,
      B7           E  A E
 Nada tenho que temer.
+
 →312 Amparo
           G     G/B    C
 [1] Nas agruras desta vida,
@@ -12094,6 +12253,7 @@ Por Jesus eu vencerei.
 Forte e rijo me assaltar,
 Meu Jesus, na minha lida,
 Certo me há de sustentar.
+
 →313 Proteção divina
         D       Bm    A4   A
 [1] Ao crente é dada proteção
@@ -12129,6 +12289,7 @@ Avante, então, ó campeões,
 Na luta, pois, entrai;
 Mantendo firmes convicções,
 Por Cristo trabalhai!
+
 →314 Estou seguro
 [1]
  A     A/C#     D
@@ -12167,6 +12328,7 @@ Hei de atravessar,
 Descansando no poder de Deus;
 Não me deixará, mas me susterá,
 Descansando no poder de Deus.
+
 →315 Meu clamor
            G      D      Em
 [1] Neste mundo, mar profundo,
@@ -12260,6 +12422,7 @@ O sol que me ilumina
 É Cristo, o meu Senhor;
 O gozo que me alegra
 É seu constante amor.
+
 →317 Abrigo
        E        B7  E  B7  E
 [1] Refúgio Cristo sempre dá,
@@ -12292,6 +12455,7 @@ Abrigo meu Jesus será.
 Bonança após a inquietação;
 Pois só Jesus concederá
 Sossego e paz ao coração.
+
 →318 Deus me esconde
      E             B7    E
 [1] Quando a tempestade ruge,
@@ -12325,6 +12489,7 @@ Para bem me defender.
 Nesta peregrinação;
 Nas maiores tempestades
 Cristo dá-me proteção.
+
 →319 Abrigo perfeito
      G          G/B
 [1] Deus é meu abrigo
@@ -12409,6 +12574,7 @@ De Jesus, o Rei da glória;
 Trabalhando por Jesus,
 Há prazer, prazer.
 Confiando em seu Amor, há prazer.
+
 →321 Abrigo seguro
   C        G/B   Am
 [1] Confio só em Ti,
@@ -12469,6 +12635,7 @@ Sem o seu poder.
 Não me deixará;
 Vida eterna me outorgou,
 Sim, me valerá.
+
 →323 Castelo forte
         C    G    Em Am D  G
 [1] Castelo forte é nosso Deus,
@@ -12638,6 +12805,7 @@ Cristo, o Salvador.
 Cheio de pavor,
 Foi que Cristo quis salvar-te,
 Pobre pecador.
+
 →326 Refúgio
   E              B
 [1] Meu divino protetor,
@@ -12682,6 +12850,7 @@ Fonte Tu de todo bem,
 Dá-me sempre de beber!
 Confortar minha alma vem;
 Queiras sempre me valer.
+
 →327 O piloto
   A           A5+  D     A
 [1] Guia, Cristo, minha nau
@@ -12761,6 +12930,7 @@ Fica comigo, ó meu Mestre,
 Dono da terra e céu,
 E assim chegarei bem seguro
 Ao porto, destino meu.
+
 →329 Conta as bênçãos
      C
 [1] Se da vida as vagas
@@ -12874,6 +13044,7 @@ E pesar a minha cruz,
 Sempre perto está Jesus,
 Perto e pronto pra salvar
 Quem somente confiar.
+
 →331 Glória no porvir
      F     Fº  F        C4 C
 [1] Temos sombras neste vale,
@@ -12961,6 +13132,7 @@ Pois que Deus, meu Pai,
 Me assiste com divino amor.
 Sendo aquele que me guia
 Cristo, o Salvador.
+
 →333 Deus é sabedor
         C      Am     A7   Dm
 [1] Eu sei que Deus é sabedor
@@ -13203,6 +13375,7 @@ E nas mansões eternas
 Comigo irás viver,
 E nas mansões eternas
 Comigo irás viver.
+
 →338 Redentor
      A             D/E   A  A/C#
 [1] Sei que vive o Redentor,
@@ -13343,6 +13516,7 @@ Buscar, ó meu irmão,
 Divina paz em aflição;
 De todo mal te livrará
 O teu Senhor, que perto está.
+
 →342 A minha cruz
 [1]
    C           A7        Dm
@@ -13421,6 +13595,7 @@ Finda a jornada Do mundo cruel,
 Certo, terei nesse dia a certeza
 De ir me alegrar
 Sob imenso docel.
+
 →344 Deus cuidará de Ti
     A               E7/13 A
 [1] Aflito e triste coração,
@@ -13708,6 +13883,7 @@ Venha, sim, o que vier!
 Confiança eu hei de ter,
 Quando a vida terminar,
 Lá na glória irei cantar.
+
 →349 Rica promessa
 [1]
            E       E/G#     A
@@ -13746,6 +13922,7 @@ Não temas, pois Eu muito te amei;
 Quem dos meus braços
 Pode arrancar-te?
 “Sempre seguro te guardarei.”
+
 →350 Quero o Salvador
      C            F     C
 [1] Quero o Salvador comigo,
@@ -13837,6 +14014,7 @@ Imenso o seu amor;
 E em breve, entrando
 Na cidade eterna,
 Eu louvarei meu guia e Salvador!
+
 →352 Seguindo a Cristo
 [1]
  G      G/B     C           G
@@ -13938,6 +14116,7 @@ E do maligno também me livrar;
 Cada momento por onde eu andar,
 Cristo, meu Mestre,
 Me Pode guardar.
+
 →355 Luz benigna
               G
 [1] Na escuridão,
@@ -13970,6 +14149,7 @@ Teu braço vai-me ainda
 Defender, e guiará.
 E finda minha vida terreal,
 Irei morar no lar celestial.
+
 →356 Jesus guia
            G       C   G
 [1] Meu Jesus me guia sempre.
@@ -14044,6 +14224,7 @@ Neste mundo enganador!
 Té chegar da vida o fim,
 Para a terra do fulgor,
 Na presença do Senhor.
+
 →358 Não há perigo
      C     C/E    F     C
 [1] Muitos falam dos perigos
@@ -14127,6 +14308,7 @@ Por tua mui bondosa mão.
 E a minha vida aqui ceifar,
 Por Ti guardado, meu Senhor,
 Contigo espero então morar.
+
 →360 Companheiro
         G     G/B  G#º Am
 [1] De teu cuidado terno
@@ -14250,6 +14432,7 @@ Cristo sempre comigo
 Anda pra me livrar;
 Pois ele mesmo promete
 Que nunca irá me deixar.
+
 →363 Sê Tu meu guia
     C/D        G      G/B
 [1] Sê Tu meu Guia, ó Cristo,
@@ -14285,6 +14468,7 @@ Na casa paternal, No céu além;
 Ali, sem fim,
 Minha alma descansada
 Terá contigo Seu eterno bem.
+
 →364 Filhos de Deus
      A              E     A
 [1] Do Deus santo so-mos filhos
@@ -14355,6 +14539,7 @@ Paz, audaz na escuridão.
 Que venha o que vier,
 Aqui na lide provarei
 Celestial prazer.
+
 →366 Firmeza
         E   E/G#    B4     B
 [1] Em nada ponho a minha fé,
@@ -14387,6 +14572,7 @@ Soar, irei com ele me
 Encontrar; e gozarei da
 Redenção com todos
 Que no céu estão.
+
 →367 Firme na rocha
 [1]
         E     A         A/B B7 E
@@ -14472,6 +14658,7 @@ Tu os inimigos podes bem vencer;
 Salvo e bem seguro
 Leva-me, Senhor,
 Sempre protegido pelo teu amor.
+
 →369 Só Jesus
      C               F/A  G/B C
 [1] Quem tenho eu no céu, Senhor?
@@ -14516,6 +14703,7 @@ Dores me podem retalhar;
 Ou meus amigos me deixar;
 Eu, não obstante, vou cantar:
 Só Jesus; só Jesus.
+
 →370 Crendo em Cristo
      G  Gº    G
 [1] Mestre divino,
@@ -14647,6 +14835,7 @@ Minha alma lavou;
 Louvores pra sempre
 Ao Senhor eu darei,
 Ao seu trabalho me consagrarei.
+
 →373 Certeza
          A    A/C#    D    A
 [1] Por mim sofreu o Salvador;
@@ -14680,6 +14869,7 @@ Glória, glória a meu Jesus!
 Glória, glória a meu Jesus!
 No céu de luz eu vou cantar.
 Glória, glória a meu Jesus!
+
 →374 Salvo
      F        Bb/C    F
 [1] Salvo por Jesus Cristo,
@@ -14803,6 +14993,7 @@ Favor inaudito!
 Deus nos amou em grau infinito!
 Nesta clemência não há dobrez;
 Há segurança de uma vez!
+
 →377 Não sei por que
 [1]
      C             Dm/C     C
@@ -14843,6 +15034,7 @@ Até da vida o fim.
 Se breve ou tarde vem;
 Mas sei que meu Senhor virá
 Na glória que ele tem.
+
 →378 Já certo estou
 [1]
             A        A7       D
@@ -14891,6 +15083,7 @@ No gozo e no lidar.
 Nós vamos separar,
 No céu eterna comunhão
 Havemos de gozar.
+
 →380 Amor
              C    C/E    F C
 [1] Qual o adorno desta vida?
@@ -15207,6 +15400,7 @@ Guarda na provação.
 Seja Jesus, Senhor;
 Que este país tão querido
 Renda-se ao Salvador.
+
 →387 Contentamento
 [1]
  D            G            D
@@ -15280,6 +15474,7 @@ Que os ventos levarão. (bis)
 No dia do Senhor;
 Dos justos longe ficarão,
 Curtindo eterna dor. (bis)
+
 →389 Ventura
 [1]
     A           D          A
@@ -15520,6 +15715,7 @@ Só no teu sempre imutável amor!
 Inda outra vez
 Cantarei, Salvador:
 Cristo pra mim! Cristo pra mim!
+
 →394 Realidade
       Gm   Gm/F  Eb    F7
 [1] Ouvi o Salvador dizer:
@@ -15601,6 +15797,7 @@ E vejo a face já sem véu
 De quem me resgatou,
 Desejo só aqui viver
 De um modo que lhe dê prazer.
+
 →396 Cegueira e vista
              E
 [1] Oh! Tão cego eu andei,
@@ -15690,6 +15887,7 @@ Resplendor da eterna glória,
 Fonte de perene amor,
 Sou feliz com tua glória,
 Cristo, Salvador!
+
 →398 Sou feliz
         A E7/B A A/C# D6
 [1] Se paz a mais doce
@@ -15729,6 +15927,7 @@ Em breve virá me levar
 Ao céu, onde vou
 Para sempre morar
 Com remidos na luz do Senhor!
+
 →399 Cantarei de Cristo
           G     Em     D
 [1] Cantarei de Jesus Cristo
@@ -15762,6 +15961,7 @@ Ele me regenerou.
 Bendirei seu grande amor;
 Humilhou-se pra salvar-me;
 Louvarei com zelo e ardor.
+
 →400 Júbilo
        A     A/C#    D    A
 [1] Jesus, Senhor altíssimo,
@@ -15840,6 +16040,7 @@ Infinda alegria,
 Poder, salvação!
 Oh! Vem, vem a Cristo,
 Sem hesitação!
+
 →402 Escrava resgatada
     D             A7   D D/F#
 [1] Eis a escrava resgatada,
@@ -15918,6 +16119,7 @@ Deixando o mundo vão.
 Jesus, o Salvador,
 O qual a sua vida deu
 Por mim, vil pecador.
+
 →404 Substituição
      G   G/B   D7/A  G D
 [1] De pecados carregado,
@@ -15996,6 +16198,7 @@ Gozo infindo achei
 Pela fé no eterno Rei;
 Paz perfeita, paz no
 Senhor já encontrei.
+
 →406 Confiar em Cristo
      G    G/B       C      G
 [1] Que delícia é crer em Cristo,
@@ -16072,6 +16275,7 @@ Louvor a Deus, Que me ouvirá.
 No filho do supremo Deus
 Porque te deu a redenção
 E trouxe-te perdão dos céus.
+
 →408 Descanso verdadeiro
      G        Em    Am
 [1] Cada coração procura
@@ -16095,6 +16299,7 @@ Tudo, tudo nele achei.
 Ó Jesus, Meu Salvador!
 Sejas Tu pra Sempre dele,
 O seu Rei e seu Senhor.
+
 →409 Plena paz
      E             C#m
 [1] Plena paz gozo eu!
@@ -16104,6 +16309,7 @@ Plena paz gozo eu!
 E, seguindo a meu Jesus,
  B7    E    B7      E
 Vou andando para o céu.
+
 →410 Felicidade no serviço
            G           C
 [1] No serviço do meu Rei
@@ -16579,6 +16785,7 @@ Que invocam teu nome com devoção,
 Sustenta-nos, cheios
 Do amor de Deus.
 Concede-nos sempre maior visão.
+
 →419 Mãos ao trabalho
      E                 A   E
 [1] Mãos ao trabalho, crentes,
@@ -16660,6 +16867,7 @@ Domínio e majestade,
 Com honra e com poder,
 Um reino sempiterno
 Jesus há de exercer.
+
 →421 Conversão cristã
        C     C/E     F
 [1] Sabeis falar de tudo
@@ -16784,6 +16992,7 @@ Oh! Buscai-os, sim, buscai!
 Ide com amor ganhá-los,
 Pois Jesus mandou chamá-los;
 Oh! Buscai-os, sim, buscai!
+
 →424 Vamos à colheita
                A     E7    A
 [1] Ceifeiros somos nós, fiéis,
@@ -16883,6 +17092,7 @@ Glória, paz, vida,
 Fé, trono e luz,
 Tudo isso eu tenho,
 Crendo em Jesus.
+
 →426 Gratidão na luta
               D     A7     D
 [1] Com gratidão e com fervor
@@ -17024,6 +17234,7 @@ E insultos sofreu.
 Proclamai redenção!
 Em Jesus há perdão!
 Avançai com amor, avançai!
+
 →429 Ceifando
 [1]
 A                A/C#       D
@@ -17218,6 +17429,7 @@ Terá de acabar, E almas no abismo
 Terão de tombar.
 Acode em tempo! Sim, faze luzir
 A luz salvadora do eterno porvir!
+
 →432 Avante com Deus
        C       G   Am  F
 [1] Ó crentes brasileiros,
@@ -17262,6 +17474,7 @@ Na luta prossigamos
 Com zelo e com ardor:
 “A pátria para Cristo!”
 Avante com fervor!
+
 →433 A colheita além
      A               F#m      E
 [1] Cai a semente no bom frescor,
@@ -17371,6 +17584,7 @@ Ações suspirando por salvação!
 Oh! Onde os obreiros pra anunciar
 De Deus o perdão
 De um amor sem par?
+
 →435 Ainda há lugar
 [1]
 G                    C/E D/F# G
@@ -17584,6 +17798,7 @@ Cheia de amor,
 Traz-nos do céu o fragor
 Da compaixão de Deus
 E dá-nos graça tanta!
+
 →439 Oração pela pátria
            G     Em    D4  D
 [1] Minha pátria para Cristo!
@@ -17740,6 +17955,7 @@ Da graça e do amor,
 Vamos levá-los ao vil pecador!
 Todos cantemos em alto louvor:
 Graça e salvação!
+
 →442 O missionário
          D     A7     D
 [1] Desde um a outro polo,
@@ -17967,6 +18183,7 @@ Ele almeja vos levar
 Para o céu, o eterno lar,
 Onde haveis de descansar,
 Avançai!
+
 →447 Nunca ouvir de Cristo
               G         G/B
 [1] Não te importa se algum
@@ -18052,6 +18269,7 @@ Mancos e cegos À ceia trazer;
 Ide, pois, servos seus,
 Ide apressados! Cristo nas bodas
 A todos quer ver.
+
 →449 Ousados proclamai
        G     C/D     G
 [1] Ousados, com firmeza,
@@ -18301,6 +18519,7 @@ Mas onipotente é
 Cristo o Rei dos reis,
 A vitória é certa
 Para os seus fiéis.
+
 →453 A peleja
      A
 [1] Sois vós, irmãos,
@@ -18454,6 +18673,7 @@ Valentes, a vossa
 Firmeza mostrai;
 À sombra da cruz,
 Corajosos, lutai!
+
 →456 O estandarte
       A           E      A
 [1] O estandarte desta igreja
@@ -18530,6 +18750,7 @@ Vê tuas aflições.
 Amigo sem igual;
 Confia nele, ó crente,
 Até o dia final.
+
 →458 Cristo vos conduz
     C    F/G   C C/E
 [1] Eia! Ó soldados,
@@ -18635,6 +18856,7 @@ E cumprirmos o dever.
 E na fé do Salvador,
 Imploremos sua graça,
 Pra vivermos em amor.
+
 →460 Vitória
     G      B7     Em     Em/D
 [1] Eia, avante, crentes,
@@ -18719,6 +18941,7 @@ Nada há que temer.
 Oh! Volvei pra Cristo,
 Vossa atenção,
 A Jesus seguindo Sempre em união.
+
 →462 Unidos
              A     E7      A
 [1] Irmãos fiéis, uni-vos já
@@ -18808,6 +19031,7 @@ Como podemos deixar de cair,
 Se por Ti mesmo
 Guardados não formos?
 Quem 'té a morte Te pode seguir?
+
 →465 Igual a Daniel
      A                 F#m
 [1] Meu irmão, procura ser
@@ -18892,6 +19116,7 @@ Bem cedo soará; Então
 A Recompensa Terá o vencedor,
 Daquele Rei da glória,
 Do forte Redentor.
+
 →467 Avante com alegria
     A             D       A
 [1] Eia, avante, sempre alegres,
@@ -19034,6 +19259,7 @@ E a sua real pendão!
 Os que na batalha
 Sempre são fiéis
 Com ele reinarão.
+
 →470 O combate
 [1]
   F Bb/C    F      Bb  C    F
@@ -19121,6 +19347,7 @@ E humildemente lhe peço
 Que me permita lutar
 Só ao seu lado, invencível,
 Té minha vida findar!
+
 →472 Frente ousada
     C
 [1] Eia! Às armas camaradas!
@@ -19154,6 +19381,7 @@ Vacilou, caiu!
 Toques de clarim?
 Vem Jesus, vem Triunfante!
 Venceremos, sim!
+
 →473 Firmes na fé
          A   A/C#  D      A C#m
 [1] Campeões da peleja sagrada
@@ -19242,6 +19470,7 @@ As hostes do maligno
 E todo o seu poder,
 E, com seu povo,
 Em paz irá reinar!
+
 →475 Lutar
 [1]
  G               C      G
@@ -19276,6 +19505,7 @@ Sempre avante vai, vencedor!
 Quando o fim chegar
 Desse batalhar,
 Vem-nos coroar, por teu amor!
+
 →476 Brilho celeste
 [1]
         F               C    Bb/C
@@ -19315,6 +19545,7 @@ Que me conduzem para a mansão;
 Mais e mais perto,
 O Mestre seguindo,
 Canto louvores da salvação.
+
 →477 Como andar
 [1]
       F                  C7
@@ -19355,6 +19586,7 @@ E da presença de Deus gozarmos!
 Cidadãos, pois, daquela pátria,
 Nós seguimos pelo
 Mundo a caminhar.
+
 →478 O peregrino
         A         D/E A
 [1] Eu sou um peregrino,
@@ -19592,6 +19824,7 @@ Ali o trono de Deus descansa,
 Ali teremos real bonança;
 Os remidos da minha pátria
 Com Jesus eternamente reinarão.
+
 →484 Saudade
      C  G              C
 [1] Da linda pátria estou
@@ -19627,6 +19860,7 @@ Sua vinda ao mundo é certa,
 Quando, não o sei;
 Mas ele me achará alerta,
 E para o céu irei.
+
 →485 Livro da vida
           G        G/B
 [1] As riquezas do mundo
@@ -19671,6 +19905,7 @@ Só verá tua glória
 O que crer no Senhor,
 Cuja vida foi salva
 Pelo seu Redentor.
+
 →486 Doce porvir
       G     Gº           G
 [1] Após as lutas desta vida,
@@ -19749,6 +19984,7 @@ Se identificar;
 Com todos os salvos
 Servir e adorar;
 Precioso é Jesus para mim!
+
 →488 Cada vez mais
         A    D     A
 [1] É grato relembrar
@@ -19837,6 +20073,7 @@ Só isso será céu pra mim!
 Mas eu sei que o “bem-vindo”
 Dele hei de escutar!
 Só isso será céu pra mim!
+
 →490 Com Cristo é céu
                  G     C
 [1] Depois que Cristo me salvou,
@@ -19963,6 +20200,7 @@ Ao gozo tão real!
 Se aqui nós temos
 Um quinhão mesquinho,
 Marchamos para a glória divinal.
+
 →492 Meu canto celestial
                D    A      D
 [1] Já muitas vezes eu pensei
@@ -20067,6 +20305,7 @@ Meu coração já está.
 Oh! Como almejo
 Os rostos contemplar
 Dos que me esperam lá!
+
 →494 Além
            A   A/C#   Cº  Bm7 E7
 [1] Uma cidade mui feliz existe
@@ -20214,6 +20453,7 @@ Com sincera devoção.
 Finda a peregrinação,
 E louvores sempiternos,
 Nossos lábios cantarão.
+
 →497 Tantos remidos
 G   C/D       G    E7       Am
 [1] Tantos remidos vejo nos céus,
@@ -20356,6 +20596,7 @@ Se conhecerão,
 Sim, ali no céu, um dia;
 Na alegria santa sempre viverão,
 Onde tudo é mui feliz.
+
 →500 Glória para mim
 [1]
  G
@@ -20395,6 +20636,7 @@ Paz, alegria, eternal bem-estar;
 Mas quando meu
 Salvador me saudar,
 Glória perene será para mim!
+
 →501 O nosso lar
              C        F/G    C
 [1] Querido lar tenho eu no céu,
@@ -20423,6 +20665,7 @@ Naquele lar não entrarão.
 Só teus remidos, ó Jesus.
 E eu sei que Cristo, meu Senhor,
 Me espera ali no lar de amor.
+
 →502 Um pouco mais
   E    A/B    E      A/B   E
 [1] Um pouco mais, e partirei
@@ -20456,6 +20699,7 @@ Entoarei louvor ao Rei dos reis.
 A voz do Salvador:
 “Fiel, bom servo,
 Vem entrar no gozo do Senhor.”
+
 →503 Face a face
   E    E/B      E    B      E
 [1] Em breve a vida vai findar;
@@ -20699,6 +20943,7 @@ Aos seus pés, o adorar!
 Na cidade celeste
 De Cristo, meu Rei,
 A coroa da vida terei.
+
 →508 Terra feliz
          G         C       G
 [1] Eu avisto uma terra feliz,
@@ -20792,6 +21037,7 @@ Lá no lindo céu de luz,
 Há de Cristo me guiar,
 E mui perto, sim, eu
 Hei de vê-lo então.
+
 →510 Fonte de amor
      A        D/E    A
 [1] Fonte de amor perene,
@@ -20827,6 +21073,7 @@ Corre rio, calmo corre
 Corra assim a paz
 Em minha alma para sempre
 Corra mais e mais!
+
 →511 Com Jesus
             A    D
 [1] Quando terminar
@@ -21164,6 +21411,7 @@ E querem recuar.
 Tirou da morte o horror;
 Com gozo os salvos hão de entrar
 Naquele lar de amor.
+
 →517 Querido lar
 [1]
     G       G/B      C
@@ -21216,6 +21464,7 @@ Da vida gloriosa do eterno lar.
 Ó Tu, que dominas
 A terra e os céus, Transporta-nos
 Todos nos braços teus!
+
 →518 Glória
 [1]
  E E/G#  A     A#º
@@ -21249,6 +21498,7 @@ Ao lar dos santos vêm
 Só os que nele creem,
 E muita glória têm,
 Sempre, sem fim!
+
 →519 Perante o Rei
          G     D7      G
 [1] Estarei perante o Rei,
@@ -21544,6 +21794,7 @@ Em todos os estudos,
 Que temos hoje aqui,
 Sejamos instruídos,
 Ó grande Deus, por Ti!
+
 →524 Joias preciosas
               D    G/A    D
 [1] Eis que Cristo vem à terra
@@ -21613,6 +21864,7 @@ Oh! Vinde ao Salvador!
 Outro não há que vos ame assim;
 Seu é o amor que nunca tem fim,
 Oh! Vinde ao Salvador!
+
 →526 O meninos
              C     C/E   F C
 [1] Venham, venham os meninos
@@ -21691,6 +21943,7 @@ Ele as abençoará.
 Te suplicam, ó Senhor:
 Dá-me, pois, a tua bênção,
 Tua graça e teu amor!
+
 →528 Aspiração infantil
       G            D4     D
 [1] Aqui no mundo branda luz,
@@ -21862,6 +22115,7 @@ Segurança sem fim.”
 Pressa temos de vir
 A teus braços fortes,
 Teu amor, possuir.
+
 →533 Pequenos guerreiros
     F     C      F
 [1] Eia, guerreirinhos,
@@ -21924,6 +22178,7 @@ E o céu lhes outorgou.
 Buscavam seu amor;
 Agora face a face estão
 Com ele em seu fulgor.
+
 →535 Hosana infantil
          F          F5+
 [1] Num sonho vi em resplendor
@@ -21968,6 +22223,7 @@ E sempre o sirvam com fervor,
 Na terra aqui também,
 E o louvem, como fazem lá,
 Naquele coro além:
+
 →536 Lição
        A   A/C#
 [1] Jesus amado,
@@ -22039,6 +22295,7 @@ Tendo fé em Deus,
 Salvo por Jesus,
 Sendo os filhos seus
 Campeões da cruz!
+
 →538 Oh vinde, meninos
          A  E     A A/C#
 [1] Oh! Vinde, meninos!
@@ -22083,6 +22340,7 @@ Ouvi a voz do Redentor,
 Ele é o vosso bom Pastor:
 “Deixai os meninos,
 Que venham a mim!”
+
 →539 Brilhando
      E      E/G#       B/F#
 [1] Vejo no céu resplendente
@@ -22121,6 +22379,7 @@ Desejo, ó Deus, andar.
 Brilhando viverei,
 E pela tua bondade
 Ao lindo céu irei.
+
 →540 Oração da criança
   D    A7    D        A7     D
 [1] Jesus escuta o rogar terninho
@@ -22163,6 +22422,7 @@ As nossas mágoas,
 Bem confiados no seu amor;
 O que convenha recebermos,
 Se fé nós temos no Salvador.
+
 →541 Pequenos raios
   F      F/A        C7/G
 [1] Deus dá às criancinhas,
@@ -22207,6 +22467,7 @@ Com pensamentos puros
 Vivamos em amor;
 Sejamos raiozinhos
 Que brilhem sem temor.
+
 →542 Jesus e as crianças
       D          A7      D
 [1] Cristo tem amor por mim,
@@ -22282,6 +22543,7 @@ Com zelo estudando,
 Com gosto brincando,
 Busquemos em tudo
 Por Cristo viver.
+
 →544 Avante, mocidade
          C
 [1] Mocidade cristã, eia avante!
@@ -22352,6 +22614,7 @@ Na escola,
 Inspirando-nos Santo poder,
 E que sempre do estudo aqui feito
 Muito fruto possamos colher.
+
 →546 Mocidade, avante
     A/E    E     A/B  E
 [1] Eia, avante, mocidade,
@@ -22396,6 +22659,7 @@ Eia, avante, camaradas,
 Sempre unidos a lutar,
 Sempre unidos na esperança,
 Sempre unidos no avançar!
+
 →547 Semeando e segando
        G                D4 D
 [1] Semente lançada na terra
@@ -22518,6 +22782,7 @@ Dos crentes as tentações.
 Avante, sem temor!
 Pois certa é a vitória
 Dos crentes no Senhor.
+
 →550 Juventude
      A             D      A
 [1] Levantai-vos, moços crentes,
@@ -22676,6 +22941,7 @@ Sim, de vós é que se espera
 Que ao Brasil a luz leveis,
 Onde o erro tanto impera
 Contra Cristo e suas leis.
+
 →554 Agora
        C     C/E     F
 [1] Ó moços, que ventura
@@ -22761,6 +23027,7 @@ Vede como as gentes,
 Afastadas do bom Deus,
 Todas descontentes,
 Clamam pela luz dos céus.
+
 →556 Oração para a noite
      G       G/B  Am7 D7
 [1] Finda-se este dia
@@ -22900,6 +23167,7 @@ Um bom ano vem nos dar.
 Em teus passos sempre andar,
 E, no dia derradeiro,
 Junto a Ti feliz lugar.
+
 →560 Ano novo
      A        Aº     A      D/A A
 [1] Rompe a aurora, vai-se embora
@@ -23042,6 +23310,7 @@ Casa sempre habitem
 Os teus fiéis em plena comunhão,
 Que tuas ricas bênçãos os incitem
 À tua casa amar de coração!
+
 →563 Consagração de templo
 [1]
     G          G/B         D/A
@@ -23140,6 +23409,7 @@ Com tanta compaixão!
 Do teu amor, do teu querer;
 Os pecadores aqui ouvirão
 Qual é o seu dever.
+
 →565 Separação
 [1]
  C                    G     C
@@ -23344,6 +23614,7 @@ Seus corações mantém
 Fiéis à tua lei;
 Socorre-os, pois, na tentação,
 Consola-os na tribulação.
+
 →569 O ministério santo
         D      G
 [1] Senhor da ceifa,
@@ -23473,6 +23744,7 @@ E a coroa de vida terei.
 À morada de Deus eu irei;
 Vou viver com Jesus,
 E a coroa de vida terei.
+
 →572 Dormir em Cristo
      C                        G
 [1] Dormir em Cristo é muito bom,
@@ -23500,6 +23772,7 @@ Com os remidos do Senhor.
 O despertar, supremo bem,
 Pois ele transportar-nos faz
 Ao gozo divinal de além.
+
 →573 Dormindo no Senhor
      C           F  C
 [1] Dormindo no Senhor,
@@ -23534,6 +23807,7 @@ Teus santos acordar!
 E os vivos, com fulgor
 Ao teu encontro subirão.
 Não tardes, ó Senhor!
+
 →574 Pátria brasileira
      E     A B
 [1] Do meu país Brasil,
@@ -23767,6 +24041,7 @@ Verás que um filho
 Teu não foge à luta,
 Nem teme, quem te
 Adora, a própria morte.
+
 →578 Sonda-me, ó Deus
   G     C     Cm G   Em
 [1] Sonda-me, ó Deus,
@@ -23855,6 +24130,7 @@ De quem me resgatou;
 Dele tenho na alma, então,
 As bênçãos mui gloriosas
 E feliz com Cristo cantando vou.
+
 →580 Vem, visita tua igreja
     F#m  D C# F#m C#7  F#m   E/G#
 [1] Vem, visita a tua igreja,
