@@ -1,5 +1,8 @@
 from chords_manager import is_not_a_chord
 
+'''
+coloca cada estrofe em uma linha, com os acordes em cima das letras e os versos separados por |.
+'''
 
 if __name__ == "__main__":
     input_file = input("input file (cifras.txt): ") or "cifras.txt"
