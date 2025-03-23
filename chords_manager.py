@@ -74,8 +74,8 @@ def remove_non_alpha(line):
 
 
 if __name__ == "__main__":
-    input_file = input("input file (cifras.txt): ")
-    output_file = input("output file (letras.txt): ")
+    input_file = input("input file (cifras.txt): ") or "cifras.txt"
+    output_file = input("output file (letras.txt): ") or "letras.txt"
     with open(input_file, encoding="utf8") as file:
         not_chords = set()
         letras = ""
