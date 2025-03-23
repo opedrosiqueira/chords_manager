@@ -5,12 +5,14 @@ def normalizar_linhas(input_file, output_file, max_chars=80, breakline=False):
     breakline = "\n" if breakline else ""
     with open(input_file, "r", encoding="utf-8") as infile, open(output_file, "w", encoding="utf-8") as outfile:
         for linha in infile:
+            if breakline and re.match(r"(\d\. )|(\[R\] )", linha):
+                outfile.write("\n")  # Se a linha começa com número ou "[R] ", adiciona quebra
             while len(linha) > max_chars:
                 quebra = list(re.finditer(r"[ .,!?;:|-]", linha[:max_chars]))  # Encontra o último separador antes do limite
                 quebra = quebra[-1].start() + 1 if quebra else max_chars  # Se não encontrar separador, quebra no limite
-                outfile.write(breakline + linha[:quebra] + "\n")  # Escreve o máximo permitido
+                outfile.write(linha[:quebra] + "\n" + breakline)  # Escreve o máximo permitido
                 linha = linha[quebra:]  # Remove a parte já escrita
-            outfile.write(breakline + linha)
+            outfile.write(linha)
 
 
 if __name__ == "__main__":
