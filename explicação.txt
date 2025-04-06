@@ -1,0 +1,11 @@
+D A/C# Bm7 G7/F# G    A4  A  D  |D    C/E D/F# G   D/A   A    E7     A4 A|D   A/C#     Bm F#m   G     B7     Em |A  A/C#  D/F#  Bm G D/A A7   D |
+A Ti, ó Deus, Fiel e bom Senhor,|E – ter – no Pai, Su - premo Benfeitor, |Nós, os teus servos, vimos dar louvor,|A – Ale - luia! Alelu – u - ia!|
+
+Regra: Ao dividir o verso, se estiver no meio de um acorde, regride até o próximo espaço da cifra, depois regride até o próximo espaço do verso. Por exemplo, Se for cortar em "Fiel", como está no meio do acorde, regride até o início do acorde, que é o "s", de "Deus", depois regride até o início de "Deus". É aí que deve cortar o verso. Entretanto, só vai cortar a cifra no acorde de "fiel", fazendo o padding necessário.
+
+D A/C# Bm7 
+A Ti, ó 
+   G7/F# G    A4  A  D  |D    C/E 
+Deus, Fiel e bom Senhor,|E – ter –
+D/F# G   D/A   A    E7     A4 A|D   A/C#     Bm F#m   G     B7     Em |A  A/C#  D/F#  Bm G D/A A7   D |
+ no Pai, Su - premo Benfeitor, |Nós, os teus servos, vimos dar louvor,|A – Ale - luia! Alelu – u - ia!|
